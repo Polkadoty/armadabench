@@ -1,0 +1,97 @@
+# ArmadaBench Docker Compose Configuration
+#
+# Services:
+# - runner: Executes benchmark runs with LLM + Vassal
+# - controller: Orchestrates multiple runners (optional)
+#
+# Usage:
+#   docker-compose up runner              # Run single benchmark
+#   docker-compose up --scale runner=4    # Run 4 parallel benchmarks
+#   docker-compose run runner shell       # Debug shell
+
+services:
+  runner:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.runner
+      args:
+        VASSAL_MODULE_PATH: ArmadaModule_-_4.13.0_3.7.16.vmod
+    image: armadabench-runner:latest
+    environment:
+      # Run configuration
+      - RUN_ID=${RUN_ID:-}
+      - RUN_CONFIG=${RUN_CONFIG:-}
+
+      # API Keys (from .env file)
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+
+      # Logging
+      - ARMADABENCH_OUTPUT_DIR=/app/runs
+      - ARMADABENCH_LOG_LEVEL=${LOG_LEVEL:-INFO}
+
+      # Vassal
+      - VASSAL_MODULE_PATH=/app/vassal-module/ArmadaModule_-_4.13.0_3.7.16.vmod
+      - SKIP_XVFB=${SKIP_XVFB:-false}
+      - ENABLE_VNC=${ENABLE_VNC:-false}
+
+      # ISB API
+      - ISB_API_URL=https://api.swarmada.wiki/api/mcp
+
+    volumes:
+      # Mount output directory for results
+      - ./runs:/app/runs
+
+      # Mount config files
+      - ./configs:/app/configs:ro
+
+      # Mount Vassal module (if not built into image)
+      - ../ArmadaModule_-_4.13.0_3.7.16.vmod:/app/vassal-module/ArmadaModule_-_4.13.0_3.7.16.vmod:ro
+
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 8G
+        reservations:
+          cpus: '1'
+          memory: 4G
+
+    # Restart policy
+    restart: "no"
+
+    # Network
+    networks:
+      - armadabench
+
+  # Controller service for orchestrating multiple runs
+  controller:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.runner
+    image: armadabench-runner:latest
+    command: ["python", "-m", "armadabench_mcp.controller"]
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ARMADABENCH_OUTPUT_DIR=/app/runs
+      - ISB_API_URL=https://api.swarmada.wiki/api/mcp
+    volumes:
+      - ./runs:/app/runs
+      - ./configs:/app/configs:ro
+    networks:
+      - armadabench
+    depends_on:
+      - runner
+    profiles:
+      - orchestration
+
+networks:
+  armadabench:
+    driver: bridge
+
+# Named volumes for persistence
+volumes:
+  runs:
+    driver: local

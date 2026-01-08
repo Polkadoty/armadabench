@@ -1,0 +1,87 @@
+# ArmadaBench Runner Container
+# This container runs a single benchmark iteration with an LLM
+#
+# Features:
+# - Python 3.11 with MCP server and tools
+# - Java 17 for Vassal integration
+# - Virtual display for headless Vassal operation
+# - All dependencies pre-installed
+
+FROM python:3.11-slim-bookworm
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64 \
+    DISPLAY=:99
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    # Java for Vassal
+    openjdk-17-jre-headless \
+    # Virtual display for headless operation
+    xvfb \
+    x11vnc \
+    # Image processing
+    libpng-dev \
+    libjpeg-dev \
+    # Networking
+    curl \
+    wget \
+    # Build tools
+    build-essential \
+    # Cleanup
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
+
+# Create app directory
+WORKDIR /app
+
+# Create directories
+RUN mkdir -p /app/data \
+    /app/runs \
+    /app/vassal-module \
+    /app/logs
+
+# Copy Python package files
+COPY mcp-server/pyproject.toml /app/
+COPY mcp-server/src /app/src/
+
+# Install Python dependencies
+RUN pip install --upgrade pip && \
+    pip install -e .
+
+# Copy Vassal integration JAR (built separately)
+COPY vassal-integration/target/*.jar /app/vassal-integration/ || true
+
+# Copy the Vassal module (if provided at build time)
+ARG VASSAL_MODULE_PATH
+COPY ${VASSAL_MODULE_PATH:-/dev/null} /app/vassal-module/ || true
+
+# Create entrypoint script
+COPY docker/entrypoint.sh /app/entrypoint.sh
+RUN chmod +x /app/entrypoint.sh
+
+# Default environment variables
+ENV ARMADABENCH_OUTPUT_DIR=/app/runs \
+    ARMADABENCH_LOG_LEVEL=INFO \
+    VASSAL_MODULE_PATH=/app/vassal-module/ArmadaModule.vmod
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD curl -f http://localhost:8080/health || exit 1
+
+# Expose ports
+# 8080 - Health/status API
+# 5900 - VNC for debugging (optional)
+EXPOSE 8080 5900
+
+# Run as non-root user
+RUN useradd -m -u 1000 runner && \
+    chown -R runner:runner /app
+USER runner
+
+ENTRYPOINT ["/app/entrypoint.sh"]
+CMD ["run"]

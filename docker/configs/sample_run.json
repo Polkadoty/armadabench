@@ -1,0 +1,28 @@
+{
+  "run_id": "sample-001",
+  "benchmark_type": "full_game",
+  "player1": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-20250514",
+    "temperature": 0.7,
+    "max_tokens": 4096
+  },
+  "player2": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-20250514",
+    "temperature": 0.7,
+    "max_tokens": 4096
+  },
+  "game_config": {
+    "format": "legacy",
+    "point_limit": 400,
+    "rounds": 6
+  },
+  "logging": {
+    "log_model_inputs": true,
+    "log_model_outputs": true,
+    "log_tool_calls": true,
+    "log_game_states": true,
+    "capture_screenshots": true
+  }
+}
