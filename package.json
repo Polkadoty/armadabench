@@ -1,0 +1,27 @@
+{
+  "name": "armadabench",
+  "version": "1.0.0",
+  "description": "> A comprehensive benchmarking suite for evaluating frontier multimodal language models on their ability to learn, strategize, and play Star Wars Armada through the Vassal game engine.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polkadoty/armadabench.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polkadoty/armadabench/issues"
+  },
+  "homepage": "https://github.com/Polkadoty/armadabench#readme",
+  "dependencies": {
+    "@playwright/test": "^1.57.0",
+    "playwright": "^1.57.0"
+  }
+}
