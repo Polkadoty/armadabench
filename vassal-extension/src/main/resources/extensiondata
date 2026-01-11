@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE data>
+<data version="1">
+  <version>0.1.0</version>
+  <vassal_version>3.7.0</vassal_version>
+  <description>ArmadaBench API Server Extension - Embeds a REST API server inside Vassal for LLM integration</description>
+  <name>ArmadaBench</name>
+</data>

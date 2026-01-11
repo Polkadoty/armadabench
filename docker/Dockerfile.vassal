@@ -1,0 +1,97 @@
+# Vassal API Server Container with Extension
+# Runs Vassal with ArmadaBench extension that embeds the API server
+#
+# Features:
+# - Java 17 for Vassal engine
+# - Xvfb for headless GUI operation
+# - ArmadaBench extension with REST API on port 8080
+# - Optional VNC for debugging
+
+FROM eclipse-temurin:17-jdk-jammy
+
+# Vassal version to download
+ARG VASSAL_VERSION=3.7.16
+
+# Set environment variables
+ENV DISPLAY=:99 \
+    VASSAL_API_PORT=8080 \
+    VASSAL_HOME=/app/vassal
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    # Virtual display for headless GUI
+    xvfb \
+    x11vnc \
+    # X11 libraries required by AWT/Swing
+    libxext6 \
+    libxrender1 \
+    libxtst6 \
+    libxi6 \
+    libxrandr2 \
+    libxcursor1 \
+    libxcomposite1 \
+    libxdamage1 \
+    libxfixes3 \
+    libatk1.0-0 \
+    libatk-bridge2.0-0 \
+    libcups2 \
+    libdrm2 \
+    libgbm1 \
+    libpango-1.0-0 \
+    libcairo2 \
+    libasound2 \
+    # Fonts
+    fonts-dejavu-core \
+    # Networking and utilities
+    curl \
+    wget \
+    unzip \
+    bzip2 \
+    # Cleanup
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean
+
+# Create app directory
+WORKDIR /app
+
+# Create directories
+RUN mkdir -p /app/vassal-module /app/extension /app/logs /root/.VASSAL
+
+# Download and extract Vassal
+RUN echo "Downloading Vassal ${VASSAL_VERSION}..." && \
+    wget -q "https://github.com/vassalengine/vassal/releases/download/${VASSAL_VERSION}/VASSAL-${VASSAL_VERSION}-linux.tar.bz2" \
+        -O /tmp/vassal.tar.bz2 && \
+    echo "Extracting Vassal..." && \
+    tar -xjf /tmp/vassal.tar.bz2 -C /app && \
+    mv /app/VASSAL-${VASSAL_VERSION} /app/vassal && \
+    rm /tmp/vassal.tar.bz2 && \
+    echo "Vassal installed to /app/vassal"
+
+# Copy the ArmadaBench extension
+COPY vassal-extension/target/armadabench-extension.vmdx /app/extension/armadabench-extension.vmdx
+
+# Copy the Vassal module
+ARG VASSAL_MODULE=ArmadaModule_-_4.13.0_3.7.16.vmod
+COPY ${VASSAL_MODULE} /app/vassal-module/ArmadaModule.vmod
+
+# Set up extension directory for the module
+# Vassal looks for extensions in <module_dir>/<module_name>_ext/
+RUN mkdir -p /app/vassal-module/ArmadaModule_ext && \
+    cp /app/extension/armadabench-extension.vmdx /app/vassal-module/ArmadaModule_ext/
+
+# Copy launcher and entrypoint scripts
+COPY docker/vassal-launcher.sh /app/vassal-launcher.sh
+COPY docker/vassal-entrypoint.sh /app/entrypoint.sh
+RUN chmod +x /app/vassal-launcher.sh /app/entrypoint.sh
+
+# Expose ports
+# 8080 - REST API
+# 5900 - VNC for debugging (optional)
+EXPOSE 8080 5900
+
+# Health check
+HEALTHCHECK --interval=10s --timeout=5s --start-period=60s --retries=3 \
+    CMD curl -f http://localhost:8080/api/health || exit 1
+
+ENTRYPOINT ["/app/entrypoint.sh"]
+CMD ["--extension"]

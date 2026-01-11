@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VASSAL.build.module.ModuleExtension extensionId="ArmadaBench" version="0.1.0"
+    description="ArmadaBench API Server Extension"
+    vassalVersionCreated="3.7.0">
+
+    <com.armadabench.extension.ArmadaBenchExtension port="8080"/>
+
+</VASSAL.build.module.ModuleExtension>

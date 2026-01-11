@@ -1,15 +1,53 @@
 # ArmadaBench Docker Compose Configuration
 #
 # Services:
+# - vassal: Vassal API server with virtual display (xvfb)
 # - runner: Executes benchmark runs with LLM + Vassal
 # - controller: Orchestrates multiple runners (optional)
 #
 # Usage:
-#   docker-compose up runner              # Run single benchmark
+#   docker-compose up vassal              # Start Vassal API server only
+#   docker-compose up runner              # Run single benchmark (includes vassal)
 #   docker-compose up --scale runner=4    # Run 4 parallel benchmarks
 #   docker-compose run runner shell       # Debug shell
 
 services:
+  # Vassal API Server - provides REST API for game state and actions
+  vassal:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.vassal
+      args:
+        VASSAL_MODULE: ArmadaModule_-_4.13.0_3.7.16.vmod
+    image: armadabench-vassal:latest
+    environment:
+      - VASSAL_API_PORT=8080
+      - VASSAL_MODULE_PATH=/app/vassal-module/ArmadaModule.vmod
+      - ENABLE_VNC=${ENABLE_VNC:-false}
+    ports:
+      - "8080:8080"     # REST API
+      - "5900:5900"     # VNC (when ENABLE_VNC=true)
+    volumes:
+      # Mount saved games for loading
+      - ./saves:/app/saves:ro
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 4G
+        reservations:
+          cpus: '1'
+          memory: 2G
+    restart: unless-stopped
+    networks:
+      - armadabench
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/api/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+
   runner:
     build:
       context: ..
@@ -30,13 +68,15 @@ services:
       - ARMADABENCH_OUTPUT_DIR=/app/runs
       - ARMADABENCH_LOG_LEVEL=${LOG_LEVEL:-INFO}
 
-      # Vassal
-      - VASSAL_MODULE_PATH=/app/vassal-module/ArmadaModule_-_4.13.0_3.7.16.vmod
-      - SKIP_XVFB=${SKIP_XVFB:-false}
-      - ENABLE_VNC=${ENABLE_VNC:-false}
+      # Vassal API (connect to vassal service)
+      - VASSAL_API_URL=http://vassal:8080
 
       # ISB API
       - ISB_API_URL=https://api.swarmada.wiki/api/mcp
+
+    depends_on:
+      vassal:
+        condition: service_healthy
 
     volumes:
       # Mount output directory for results
@@ -44,9 +84,6 @@ services:
 
       # Mount config files
       - ./configs:/app/configs:ro
-
-      # Mount Vassal module (if not built into image)
-      - ../ArmadaModule_-_4.13.0_3.7.16.vmod:/app/vassal-module/ArmadaModule_-_4.13.0_3.7.16.vmod:ro
 
     # Resource limits
     deploy:
