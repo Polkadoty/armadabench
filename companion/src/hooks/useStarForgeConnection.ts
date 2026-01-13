@@ -65,14 +65,32 @@ export function useStarForgeConnection(): UseStarForgeConnection {
   // Send Message to Star Forge
   // ============================================================================
 
+  // Store reference to Star Forge window (either opener or message source)
+  const starForgeWindowRef = useRef<Window | null>(null);
+  // Store reference to BroadcastChannel for cross-tab communication
+  const broadcastChannelRef = useRef<BroadcastChannel | null>(null);
+
   const sendToStarForge = useCallback((message: CompanionToStarForge): void => {
-    if (!window.opener || !starForgeOriginRef.current) {
+    // First try BroadcastChannel (for cross-tab communication)
+    if (broadcastChannelRef.current) {
+      try {
+        console.log('[Companion] Sending via BroadcastChannel:', message.type);
+        broadcastChannelRef.current.postMessage(message);
+        return;
+      } catch (error) {
+        console.error('[Companion] Failed to send via BroadcastChannel:', error);
+      }
+    }
+
+    // Fallback to postMessage (for popup window)
+    const targetWindow = starForgeWindowRef.current || window.opener;
+    if (!targetWindow || !starForgeOriginRef.current) {
       console.warn('[Companion] Cannot send - not connected to Star Forge');
       return;
     }
 
     try {
-      window.opener.postMessage(message, starForgeOriginRef.current);
+      targetWindow.postMessage(message, starForgeOriginRef.current);
     } catch (error) {
       console.error('[Companion] Failed to send message:', error);
     }
@@ -128,6 +146,7 @@ export function useStarForgeConnection(): UseStarForgeConnection {
       switch (message.type) {
         case 'STAR_FORGE_READY':
           starForgeOriginRef.current = event.origin;
+          starForgeWindowRef.current = event.source as Window;
           setIsConnected(true);
           console.log('[Companion] Connected to Star Forge at:', event.origin);
           break;
@@ -174,6 +193,70 @@ export function useStarForgeConnection(): UseStarForgeConnection {
   }, []);
 
   // ============================================================================
+  // BroadcastChannel for cross-tab communication (fallback)
+  // ============================================================================
+
+  useEffect(() => {
+    // Set up BroadcastChannel for cross-tab communication
+    const channel = new BroadcastChannel('star-forge-companion');
+    broadcastChannelRef.current = channel;
+
+    channel.onmessage = (event) => {
+      const message = event.data;
+      if (!message || typeof message.type !== 'string') return;
+
+      console.log('[Companion] BroadcastChannel received:', message.type);
+
+      if (message.type === 'STAR_FORGE_READY') {
+        starForgeOriginRef.current = message.origin || '*';
+        setIsConnected(true);
+        console.log('[Companion] Connected via BroadcastChannel');
+
+        // Send confirmation back
+        channel.postMessage({ type: 'COMPANION_CONNECTED', id: generateMessageId() });
+      }
+
+      // Handle fleet state updates
+      if (message.type === 'FLEET_STATE') {
+        setFleetState(message.payload);
+        const pending = pendingRequestsRef.current.get(message.requestId);
+        if (pending) {
+          clearTimeout(pending.timeout);
+          pending.resolve(message.payload);
+          pendingRequestsRef.current.delete(message.requestId);
+        }
+      }
+
+      if (message.type === 'FLEET_CHANGED') {
+        setFleetState(message.payload);
+      }
+
+      if (message.type === 'ACTION_SUCCESS') {
+        const pending = pendingRequestsRef.current.get(message.requestId);
+        if (pending) {
+          clearTimeout(pending.timeout);
+          pending.resolve({ success: true, payload: message.payload });
+          pendingRequestsRef.current.delete(message.requestId);
+        }
+      }
+
+      if (message.type === 'ACTION_ERROR') {
+        const pending = pendingRequestsRef.current.get(message.requestId);
+        if (pending) {
+          clearTimeout(pending.timeout);
+          pending.resolve({ success: false, error: message.error });
+          pendingRequestsRef.current.delete(message.requestId);
+        }
+      }
+    };
+
+    return () => {
+      broadcastChannelRef.current = null;
+      channel.close();
+    };
+  }, []);
+
+  // ============================================================================
   // Announce Companion Ready on Mount
   // ============================================================================
 
@@ -189,6 +272,10 @@ export function useStarForgeConnection(): UseStarForgeConnection {
         }
       });
     }
+
+    // Also announce via BroadcastChannel for cross-tab testing
+    const channel = new BroadcastChannel('star-forge-companion');
+    channel.postMessage({ type: 'COMPANION_READY', id: generateMessageId() });
   }, []);
 
   // ============================================================================
