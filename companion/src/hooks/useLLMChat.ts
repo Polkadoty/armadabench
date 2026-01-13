@@ -67,30 +67,75 @@ Not connected to Star Forge. Please ensure Star Forge is open and connected.`;
 
 ${context}
 
-## Your Capabilities
-You can search for cards, add/remove ships and squadrons, equip upgrades, and set objectives.
-Always check the current fleet state before making changes to avoid errors.
+## IMPORTANT: Tool Usage Guide
+
+### Reading Data (via search_cards)
+When searching for cards, the API returns JSON with this structure:
+\`\`\`json
+{
+  "success": true,
+  "results": [
+    {
+      "id": "admiral-sloane-commander",  // USE THIS ID for add_upgrade
+      "name": "Admiral Sloane",
+      "type": "upgrade",
+      "upgrade_type": "commander",
+      "faction": ["empire"],
+      "points": 24,
+      "unique": true
+    }
+  ]
+}
+\`\`\`
+
+### Adding Ships
+Use the \`id\` field from search results:
+- Ship IDs look like: "imperial-ii-class-star-destroyer", "quasar-fire-i-class-cruiser-carrier"
+- After adding a ship, call get_fleet_state to get the ship's instanceId
+
+### Adding Upgrades
+1. First get the ship's instanceId from get_fleet_state
+2. Then use add_upgrade with that instanceId and the upgrade's id
+- Upgrade IDs look like: "admiral-sloane-commander", "expanded-hangar-bay"
+
+### Fleet State Response
+get_fleet_state returns ships with their instanceId (unique to that specific ship in the fleet):
+\`\`\`json
+{
+  "ships": [
+    {
+      "instanceId": "ship_1234567890",  // USE THIS for upgrades
+      "id": "imperial-ii-class-star-destroyer",
+      "name": "Imperial II-class Star Destroyer",
+      "upgrades": [...],
+      "availableSlots": ["commander", "officer", "weapons-team", ...]
+    }
+  ]
+}
+\`\`\`
+
+## Workflow
+1. Call get_fleet_state to see what's in the fleet
+2. Search for cards the user wants
+3. Add ships first (they come with empty upgrade slots)
+4. Get the new ship's instanceId from get_fleet_state
+5. Add upgrades to ships using their instanceId
+6. Add squadrons
+7. Set objectives
 
 ## Key Rules
 1. ALWAYS call get_fleet_state first to understand what's in the fleet
 2. NEVER add cards that would exceed the point limit
-3. Each fleet needs exactly ONE commander upgrade
+3. Each fleet needs exactly ONE commander upgrade on a ship
 4. Squadron points are limited to 1/3 of the total points
 5. EXPLAIN your reasoning when making suggestions
-6. ASK for clarification if the user's request is ambiguous
-
-## Fleet Building Tips
-- Commanders go on ships (usually flagships)
-- Consider synergies between upgrades and ship abilities
-- Balance offense and defense
-- Think about activation advantage
-- Squadron composition matters for roles
+6. After making changes, call get_fleet_state to verify they worked
 
 ## Response Style
 - Be concise but informative
 - Include point costs when suggesting cards
 - Use bullet points for lists
-- Acknowledge errors and suggest alternatives`;
+- If a tool call fails, explain the error and try an alternative`;
 }
 
 // ============================================================================
@@ -111,15 +156,22 @@ export function useLLMChat(options: UseLLMChatOptions): UseLLMChat {
   const [error, setError] = useState<string | null>(null);
 
   const sendMessage = useCallback(async (content: string) => {
+    console.log('[useLLMChat] sendMessage called with:', content);
+    console.log('[useLLMChat] apiKey present:', !!apiKey, 'length:', apiKey?.length);
+    console.log('[useLLMChat] model:', model);
+
     if (!apiKey) {
+      console.log('[useLLMChat] No API key!');
       setError('Please enter your OpenRouter API key');
       return;
     }
 
     if (!content.trim()) {
+      console.log('[useLLMChat] Empty content!');
       return;
     }
 
+    console.log('[useLLMChat] Starting request...');
     setIsLoading(true);
     setError(null);
 

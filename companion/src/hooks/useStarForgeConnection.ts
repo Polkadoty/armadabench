@@ -71,7 +71,20 @@ export function useStarForgeConnection(): UseStarForgeConnection {
   const broadcastChannelRef = useRef<BroadcastChannel | null>(null);
 
   const sendToStarForge = useCallback((message: CompanionToStarForge): void => {
-    // First try BroadcastChannel (for cross-tab communication)
+    // Prefer postMessage if we have a direct window connection (popup scenario)
+    // This is more reliable than BroadcastChannel for bidirectional communication
+    const targetWindow = starForgeWindowRef.current || window.opener;
+    if (targetWindow && starForgeOriginRef.current) {
+      try {
+        console.log('[Companion] Sending via postMessage:', message.type);
+        targetWindow.postMessage(message, starForgeOriginRef.current);
+        return;
+      } catch (error) {
+        console.error('[Companion] Failed to send via postMessage:', error);
+      }
+    }
+
+    // Fallback to BroadcastChannel (for cross-tab communication without popup)
     if (broadcastChannelRef.current) {
       try {
         console.log('[Companion] Sending via BroadcastChannel:', message.type);
@@ -82,18 +95,7 @@ export function useStarForgeConnection(): UseStarForgeConnection {
       }
     }
 
-    // Fallback to postMessage (for popup window)
-    const targetWindow = starForgeWindowRef.current || window.opener;
-    if (!targetWindow || !starForgeOriginRef.current) {
-      console.warn('[Companion] Cannot send - not connected to Star Forge');
-      return;
-    }
-
-    try {
-      targetWindow.postMessage(message, starForgeOriginRef.current);
-    } catch (error) {
-      console.error('[Companion] Failed to send message:', error);
-    }
+    console.warn('[Companion] Cannot send - not connected to Star Forge');
   }, []);
 
   // ============================================================================
