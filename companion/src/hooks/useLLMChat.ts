@@ -51,21 +51,62 @@ export interface UseLLMChat {
 // ============================================================================
 
 function buildSystemPrompt(fleetState: FleetStatePayload | null): string {
-  const context = fleetState
-    ? `
+  let context: string;
+  let restrictionsInfo = '';
+  let statusInfo = '';
+  let fleetTextInfo = '';
+
+  if (fleetState) {
+    context = `
 ## Current Fleet Context
 - Faction: ${fleetState.faction || 'Not selected'}
 - Game Mode: ${fleetState.gamemode || 'Standard'}
 - Points: ${fleetState.points.total}/${fleetState.pointsLimit}
+- Ship Points: ${fleetState.points.ships}
+- Squadron Points: ${fleetState.points.squadrons}/${fleetState.restrictions?.squadronPointsLimit || 'N/A'}
 - Ships: ${fleetState.ships.length}
-- Squadrons: ${fleetState.squadrons.length}`
-    : `
+- Squadrons: ${fleetState.squadrons.length}`;
+
+    if (fleetState.restrictions) {
+      restrictionsInfo = `
+
+## Gamemode Restrictions (MUST FOLLOW)
+- Max Total Points: ${fleetState.pointsLimit}
+- Max Squadron Points: ${fleetState.restrictions.squadronPointsLimit}
+- Max Flotillas: ${fleetState.restrictions.flotillaLimit}
+- Max Aces: ${fleetState.restrictions.aceLimit}
+- Commander Required: ${fleetState.restrictions.requireCommander ? 'YES - Fleet MUST have exactly 1 commander' : 'No'}
+- Objectives Required: ${fleetState.restrictions.requireObjectives ? 'YES' : 'No'}`;
+    }
+
+    if (fleetState.status) {
+      const violationText = fleetState.status.violations.length > 0
+        ? `\n- VIOLATIONS: ${fleetState.status.violations.join(', ')}`
+        : '\n- No violations (fleet is legal)';
+      statusInfo = `
+
+## Current Fleet Status
+- Aces: ${fleetState.status.aceCount}/${fleetState.restrictions?.aceLimit || '?'}
+- Flotillas: ${fleetState.status.flotillaCount}/${fleetState.restrictions?.flotillaLimit || '?'}
+- Commanders: ${fleetState.status.commanderCount}/1${violationText}`;
+    }
+
+    if (fleetState.fleetText) {
+      fleetTextInfo = `
+
+## Current Fleet (Text Format)
+\`\`\`
+${fleetState.fleetText}
+\`\`\``;
+    }
+  } else {
+    context = `
 ## Current Fleet Context
 Not connected to Star Forge. Please ensure Star Forge is open and connected.`;
+  }
 
   return `You are an expert Star Wars Armada fleet-building assistant working with Star Forge (star-forge.tools).
-
-${context}
+${context}${restrictionsInfo}${statusInfo}${fleetTextInfo}
 
 ## IMPORTANT: Tool Usage Guide
 
@@ -99,34 +140,22 @@ Use the \`id\` field from search results:
 - Upgrade IDs look like: "admiral-sloane-commander", "expanded-hangar-bay"
 
 ### Fleet State Response
-get_fleet_state returns ships with their instanceId (unique to that specific ship in the fleet):
-\`\`\`json
-{
-  "ships": [
-    {
-      "instanceId": "ship_1234567890",  // USE THIS for upgrades
-      "id": "imperial-ii-class-star-destroyer",
-      "name": "Imperial II-class Star Destroyer",
-      "upgrades": [...],
-      "availableSlots": ["commander", "officer", "weapons-team", ...]
-    }
-  ]
-}
-\`\`\`
+get_fleet_state returns the fleetText field which shows the current fleet in text format - use this to understand what's in the fleet.
 
 ## Workflow
-1. Call get_fleet_state to see what's in the fleet
+1. Call get_fleet_state to see what's in the fleet and check for violations
 2. Search for cards the user wants
 3. Add ships first (they come with empty upgrade slots)
 4. Get the new ship's instanceId from get_fleet_state
 5. Add upgrades to ships using their instanceId
-6. Add squadrons
-7. Set objectives
+6. Add squadrons (watch the ace limit!)
+7. Set objectives if required
+8. Call get_fleet_state to verify no violations
 
 ## Key Rules
 1. ALWAYS call get_fleet_state first to understand what's in the fleet
-2. NEVER add cards that would exceed the point limit
-3. Each fleet needs exactly ONE commander upgrade on a ship
+2. Check the violations list - fix any issues before finishing
+3. NEVER exceed the point limits (total, squadron, aces, flotillas)
 4. Squadron points are limited to 1/3 of the total points
 5. EXPLAIN your reasoning when making suggestions
 6. After making changes, call get_fleet_state to verify they worked
