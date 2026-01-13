@@ -44,6 +44,7 @@ export interface UseStarForgeConnection {
   setFleetName: (name: string) => Promise<ActionResult>;
   resetFleet: () => Promise<ActionResult>;
   requestFleetState: () => Promise<FleetStatePayload>;
+  navigateToFaction: (faction: string) => Promise<ActionResult>;
 }
 
 // ============================================================================
@@ -380,6 +381,14 @@ export function useStarForgeConnection(): UseStarForgeConnection {
     });
   }, [sendRequest]);
 
+  const navigateToFaction = useCallback(async (faction: string): Promise<ActionResult> => {
+    return sendRequest<ActionResult>({
+      type: 'NAVIGATE_TO_FACTION',
+      id: generateMessageId(),
+      payload: { faction },
+    });
+  }, [sendRequest]);
+
   return {
     isConnected,
     fleetState,
@@ -393,5 +402,6 @@ export function useStarForgeConnection(): UseStarForgeConnection {
     setFleetName,
     resetFleet,
     requestFleetState,
+    navigateToFaction,
   };
 }

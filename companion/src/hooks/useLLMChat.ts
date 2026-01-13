@@ -136,27 +136,89 @@ Use the \`id\` field from search results:
 
 ### Adding Upgrades
 1. First get the ship's instanceId from get_fleet_state
-2. Then use add_upgrade with that instanceId and the upgrade's id
-- Upgrade IDs look like: "admiral-sloane-commander", "expanded-hangar-bay"
+2. Search for upgrades to find their IDs
+3. **USE get_card_details to read the card's ability text** before deciding to add it!
+4. Then use add_upgrade with that instanceId and the upgrade's id
+
+**CRITICAL: Upgrade IDs are the SPECIFIC CARD NAME, not the slot type!**
+- CORRECT: "gunnery-team", "leading-shots", "expanded-hangar-bay", "admiral-ackbar-commander"
+- WRONG: "officer", "turbolaser", "weapons-team" (these are SLOT TYPES, not IDs!)
+
+The upgrade ID comes from the search results \`id\` field.
+
+### Reading Card Details
+**ALWAYS use get_card_details before adding key upgrades like commanders!**
+This returns the full card text including abilities, restrictions, and synergies.
+Example: \`get_card_details(cardId="admiral-ackbar-commander")\` returns the full ability text.
 
 ### Fleet State Response
-get_fleet_state returns the fleetText field which shows the current fleet in text format - use this to understand what's in the fleet.
+get_fleet_state returns ships with these CRITICAL fields:
+\`\`\`json
+{
+  "ships": [
+    {
+      "instanceId": "ship_123_abc",  // USE THIS for add_upgrade
+      "id": "imperial-ii-class-star-destroyer",
+      "name": "Imperial II-class Star Destroyer",
+      "points": 120,
+      "upgrades": [],  // Currently equipped upgrades
+      "availableSlots": ["commander", "officer", "weapons-team", "offensive-retrofit", "defensive-retrofit", "turbolaser", "ion-cannon"]
+    }
+  ]
+}
+\`\`\`
+**IMPORTANT**: The \`availableSlots\` array shows what upgrade types can still be added to each ship. You MUST check this before adding upgrades!
 
-## Workflow
-1. Call get_fleet_state to see what's in the fleet and check for violations
-2. Search for cards the user wants
-3. Add ships first (they come with empty upgrade slots)
-4. Get the new ship's instanceId from get_fleet_state
-5. Add upgrades to ships using their instanceId
-6. Add squadrons (watch the ace limit!)
-7. Set objectives if required
-8. Call get_fleet_state to verify no violations
+## Workflow for Building a Fleet
+
+### Step 1: Add Ships
+- Call get_fleet_state to see current state
+- Call add_ship for each ship you want
+
+### Step 2: ADD UPGRADES (CRITICAL - DO NOT SKIP!)
+- Call get_fleet_state to get ship instanceIds
+- Search for upgrades: search_cards(type="upgrade", faction="empire", limit=50)
+- **Read card details for key upgrades**: use get_card_details to understand what each upgrade does
+- For EACH ship, look at availableSlots and add matching upgrades:
+  \`\`\`
+  // First, read the commander's abilities to understand the fleet strategy:
+  get_card_details(cardId="admiral-ackbar-commander")
+
+  // If ship has "commander" slot, add a commander:
+  add_upgrade(shipInstanceId="ship_123_abc", upgradeId="admiral-ackbar-commander")
+
+  // Read upgrade abilities to choose ones that synergize with your commander:
+  get_card_details(cardId="leading-shots")
+  add_upgrade(shipInstanceId="ship_123_abc", upgradeId="leading-shots")
+  \`\`\`
+- Remember: upgradeId is the CARD NAME from search results, NOT the slot type!
+- YOU MUST call add_upgrade multiple times! Ships need upgrades to be effective!
+- Use get_card_details liberally to understand card abilities and build synergistic fleets!
+
+### Step 3: Add Squadrons
+- Call add_squadron for squadrons (watch ace limit)
+
+### Step 4: Set Objectives
+- Call set_objective for assault, defense, and navigation
+
+### Step 5: Verify
+- Call get_fleet_state to check for violations
+- Fleet MUST have exactly 1 commander upgrade!
+
+## Upgrade Types (for searching)
+When searching for upgrades, use these types:
+- commander, officer, weapons-team, support-team, fleet-command
+- turbolaser, ion-cannon, ordnance
+- offensive-retrofit, defensive-retrofit
+- title, experimental-retrofit, super-weapon
 
 ## Key Rules
 1. ALWAYS call get_fleet_state first to understand what's in the fleet
-2. Check the violations list - fix any issues before finishing
-3. NEVER exceed the point limits (total, squadron, aces, flotillas)
-4. Squadron points are limited to 1/3 of the total points
+2. **ALWAYS add upgrades to your ships** - bare ships are inefficient! Fill available slots with upgrades
+3. Check the violations list - fix any issues before finishing
+4. NEVER exceed the point limits (total, squadron, aces, flotillas)
+5. Squadron points are limited to 1/3 of the total points
+6. A competitive fleet typically has: 1 commander, titles on key ships, and various support upgrades
 
 ## IMPORTANT: When to Stop Making Tool Calls
 STOP making tool calls and provide a summary when:
@@ -171,6 +233,14 @@ After completing the fleet, provide a text response summarizing:
 - Any remaining points or suggestions
 
 Do NOT keep searching or adding cards indefinitely. Build efficiently and stop.
+
+## Starting a New Fleet
+If the user asks you to build a random or surprise fleet:
+1. Use random_faction to pick a faction (25% chance each: empire, rebel, republic, separatist)
+2. Use navigate_to_faction to take Star Forge to that faction's builder
+3. Wait for fleet state to update (call get_fleet_state after navigation)
+4. Pick a commander and theme that fits the faction
+5. Build the fleet with ships, upgrades, and squadrons that synergize
 
 ## Response Style
 - Be concise but informative
@@ -253,12 +323,11 @@ export function useLLMChat(options: UseLLMChatOptions): UseLLMChat {
         ...conversationHistory,
       ];
 
-      // Agentic loop
+      // Agentic loop - allow unlimited iterations until the model stops making tool calls
       let continueLoop = true;
       let loopCount = 0;
-      const maxLoops = 20; // Allow more iterations for complex fleet building
 
-      while (continueLoop && loopCount < maxLoops) {
+      while (continueLoop) {
         loopCount++;
 
         // Call LLM
@@ -316,35 +385,6 @@ export function useLLMChat(options: UseLLMChatOptions): UseLLMChat {
         }
       }
 
-      // If loop limit reached, ask LLM for a summary without tools
-      if (loopCount >= maxLoops) {
-        console.log('[useLLMChat] Loop limit reached, requesting summary...');
-        messagesWithSystem.push({
-          role: 'user',
-          content: 'You have reached the tool call limit. Please provide a brief summary of what you accomplished and any remaining work needed.',
-        });
-
-        try {
-          const summaryResponse = await chatWithOpenRouter({
-            model,
-            messages: messagesWithSystem,
-            // No tools - force a text response
-            apiKey,
-          });
-
-          if (summaryResponse.content) {
-            const summaryMessage: ChatMessage = {
-              id: generateMessageId(),
-              role: 'assistant',
-              content: summaryResponse.content,
-              timestamp: new Date(),
-            };
-            setMessages(prev => [...prev, summaryMessage]);
-          }
-        } catch {
-          setError('Response loop limit reached. The fleet may be partially built.');
-        }
-      }
     } catch (err) {
       const errorMessage = err instanceof Error ? err.message : 'Unknown error';
       setError(errorMessage);

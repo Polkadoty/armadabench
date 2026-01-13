@@ -79,7 +79,8 @@ export type CompanionToStarForge =
   | { type: 'REMOVE_SQUADRON'; id: string; payload: { instanceId: string } }
   | { type: 'SET_OBJECTIVE'; id: string; payload: { objectiveType: 'assault' | 'defense' | 'navigation'; objectiveId: string } }
   | { type: 'SET_FLEET_NAME'; id: string; payload: { name: string } }
-  | { type: 'RESET_FLEET'; id: string };
+  | { type: 'RESET_FLEET'; id: string }
+  | { type: 'NAVIGATE_TO_FACTION'; id: string; payload: { faction: string } };
 
 // ============================================================================
 // Messages FROM Star Forge TO Companion
