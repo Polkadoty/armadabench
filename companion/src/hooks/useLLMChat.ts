@@ -157,8 +157,20 @@ get_fleet_state returns the fleetText field which shows the current fleet in tex
 2. Check the violations list - fix any issues before finishing
 3. NEVER exceed the point limits (total, squadron, aces, flotillas)
 4. Squadron points are limited to 1/3 of the total points
-5. EXPLAIN your reasoning when making suggestions
-6. After making changes, call get_fleet_state to verify they worked
+
+## IMPORTANT: When to Stop Making Tool Calls
+STOP making tool calls and provide a summary when:
+- The fleet is complete and has no violations
+- You've added the requested ships, upgrades, and squadrons
+- The user's request has been fulfilled
+- You encounter an error you cannot resolve
+
+After completing the fleet, provide a text response summarizing:
+- What you built and why
+- Total points used
+- Any remaining points or suggestions
+
+Do NOT keep searching or adding cards indefinitely. Build efficiently and stop.
 
 ## Response Style
 - Be concise but informative
@@ -244,7 +256,7 @@ export function useLLMChat(options: UseLLMChatOptions): UseLLMChat {
       // Agentic loop
       let continueLoop = true;
       let loopCount = 0;
-      const maxLoops = 10; // Prevent infinite loops
+      const maxLoops = 20; // Allow more iterations for complex fleet building
 
       while (continueLoop && loopCount < maxLoops) {
         loopCount++;
@@ -304,8 +316,34 @@ export function useLLMChat(options: UseLLMChatOptions): UseLLMChat {
         }
       }
 
+      // If loop limit reached, ask LLM for a summary without tools
       if (loopCount >= maxLoops) {
-        setError('Response loop limit reached. Please try again.');
+        console.log('[useLLMChat] Loop limit reached, requesting summary...');
+        messagesWithSystem.push({
+          role: 'user',
+          content: 'You have reached the tool call limit. Please provide a brief summary of what you accomplished and any remaining work needed.',
+        });
+
+        try {
+          const summaryResponse = await chatWithOpenRouter({
+            model,
+            messages: messagesWithSystem,
+            // No tools - force a text response
+            apiKey,
+          });
+
+          if (summaryResponse.content) {
+            const summaryMessage: ChatMessage = {
+              id: generateMessageId(),
+              role: 'assistant',
+              content: summaryResponse.content,
+              timestamp: new Date(),
+            };
+            setMessages(prev => [...prev, summaryMessage]);
+          }
+        } catch {
+          setError('Response loop limit reached. The fleet may be partially built.');
+        }
       }
     } catch (err) {
       const errorMessage = err instanceof Error ? err.message : 'Unknown error';
