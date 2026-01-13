@@ -1,0 +1,40 @@
+# Armada objectives: red objectives, wave one
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2017/03/armada-objectives-red-objectives-wave.html
+**Date:** 2020-12-15T10:48:00-06:00
+**Category:** tactics
+**Tags:** 
+
+---
+
+- Remember that the objective ships are chosen after fleet deployment is complete, starting with the first player. If you have 2+ decent recipients for Advanced Gunnery, this can be quite helpful for giving you the option to choose the better-positioned ship to benefit from this objective.
+- You must choose a ship for this objective, which means if the first player would rather not, he's still stuck appointing an Advanced Gunnery ship.
+- The benefits for the chosen ships vary between the two different players a bit. Each objective ship can make both of its attacks from the same hull zone. The first player's objective ship is limited to not being able to attack squadrons twice from the same hull zone or attack the same enemy hull zone twice from its same hull zone. The second player's objective ship doesn't have the same restrictions and can use all of its attacks on the same target(s) from the same hull zone if it wishes.
+- Do keep in mind that the first player's objective ship can use its attacks from the same hull zone to shoot different hull zones on the same enemy ship provided it can draw line of sight to different hull zones from the same single hull zone. It's frequently misunderstood that this effect for the first player is the same as the Gunnery Team upgrade, but Gunnery Team doesn't allow you to attack the same ship twice from the same hull zone and Advanced Gunnery First Player Mode doesn't allow you to attack the same hull zone twice, which is an important distinction.
+- Speaking of Gunnery Team, it should be noted that the "cannot" on Gunnery Team overrides the "can" on Advanced Gunnery (this is consistent with the basic Armada rules, it just wasn't clear precisely how to handle the interaction previously). Therefore, do not choose a ship with a Gunnery Team upgrade to be your Advanced Gunnery ship, because you will get no benefit.
+- Players sometimes forget the "End of Game" section on this card: each Advanced Gunnery ship is worth double its base points cost (plus the upgrade card points as normal) if it's destroyed. Be careful with your Advanced Gunnery ship and try to knock out the enemy objective ship!
+- Home-One MC80s (HMC80s) have tremendous side arcs - 6 medium+long range dice, tons of table coverage, and very easy to use. The HMC80's main downside is it can't equip Gunnery Teams so it's usually getting in its side arc and maybe one mediocre attack from the front arc. HMC80s therefore love Advanced Gunnery because it lets them get substantially more use from their large side arcs. As first player, you need to have a very good plan for getting use from Advanced Gunnery yourself if you allow a second player with an HMC80 to get full use of it - it's that good.
+- ISD-Is and Kuat ISDs. Shorter-ranged ISDs aren't normally packing enough long-ranged dice to benefit much from Gunnery Teams, but with Advanced Gunnery they can lob two front arc shots at one unfortunate target. If you're at short range and you can pound the same hull zone with back-to-back 8 dice volleys, you're living it up.
+- This is another objective where you choose objective ships after fleet deployment. In this case, the second player makes both of the decisions.
+- It should also be noted that because it triggers after fleet deployment, any ships not on the board at that point (for example, a ship set aside due to Raddus) aren't eligible targets.
+- Note that the FAQ clarified that the bonus die only gets added when ships are attacking objective ships. Squadrons don't benefit.
+- Because this is an "add" effect, you can use it at any point during the "resolve attack effects" step. This has several repercussions:
+- Like all "add" effects, the extra die is added after the initial attack roll, so you can see how the first roll worked out before deciding on what color die to add (if there are multiple colors of dice in the pool to copy).
+- It can be used at any point during the resolve attack effects step, so you can use other effects first. For example, supposing you had an HMC80 with the Defiance title attacking an already-activated Most Wanted Ship. You could add a black die due to Defiance and then resolve Most Wanted to add another black die to the pool (as the black die added by Defiance was in the pool at that point and therefore a valid target for "copying" even though HMC80s don't naturally roll black dice against ships).
+- The Most Wanted die is added on every attack from a ship against a Most Wanted ship, so if you double-arc a Most Wanted ship, you'll add one die to both attacks.
+- Just like Advanced Gunnery, at the end of the game, any destroyed objective ship has its base ship cost doubled for victory points purposes, so keep that in mind!
+- Because Opening Salvo tokens are given out after fleets are deployed, any ship not on the table at that point (for example, a ship set aside due to Raddus), won't receive a token.
+- Spending the tokens is non-optional and will always happen during the first attack an Opening Salvo token ship makes against an enemy ship. This can on occasion mean it's best to wait on making an attack to spend the token under better circumstances later.
+- The token is an add effect so it triggers during the same window the Most Wanted extra die triggers in.
+- This means you can resolve the Opening Salvo effect prior to a concentrate fire dial to add an extra die of a type added by Opening Salvo.
+- Because add effects aren't used during your initial roll, this means you need to be able to make the initial attack prior to adding the Opening Salvo dice later. You can't claim Opening Salvo will add red dice and then use that to make a long-ranged attack when your anti-ship dice battery doesn't include red dice.
+- The 2 Opening Salvo dice for the second player can be of different colors if you wish.
+- Regarding the extra points scoring "End of Game" section: it can be worthwhile to ram healthy enemy ships on last round of the game just to score points from them but be careful about the same thing being done back to you!
+- Don't forget to give the second player's ships concentrate fire tokens!
+- Dice that are spent are removed from the attack pool, which means they won't contribute any damage. This effect is used during the Resolve Attack Effects step (which has made numerous appearances in this article), which means it happens prior to your opponent spending his defense tokens. So you can spend a hit icon die to flip a damage card to score an objective token prior to an enemy flotilla scattering away your remaining attack dice, for example.
+- Remember that only Bomber squadrons and ships can spend dice this way, not non-Bomber squadrons.
+- You can spend black hit+crit dice or red double-hit dice to trigger this effect, but it spends the entire die, so be extra-sure that's what you want to do!
+- The effect also triggers just from dealing face-up damage cards normally during a Bomber or ship attack (so not when your opponent lands on asteroids). This means each regular attack can produce up to two victory tokens - one from spending a hit icon die to flip a face-down damage card and one from dealing a face-up damage card through the generic critical effect.
+- Assault Proton Torpedoes also works for this, and XX-9 Turbolasers can apply two face-up damage cards, making them superior for token generation using Precision Strike.
+- Salvo attacks are attacks in every way (with some restrictions), which means you can spend a qualifying die during a salvo attack to flip a card and get some points and if you apply a faceup damage card during the salvo attack (from a generic crit effect hitting the hull), you get points from that too.
+- Each objective token is worth 15 points at the end of the game (hence the "15" in the bottom right corner).

@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Armada objectives: blue objectives, wave one",
+    "summary": "",
+    "tips": [
+      "The only modification for obstacle deployment is on the long edges (the player edges). This means obstacles must be placed beyond distance 5 from each edge, otherwise they obey the regular rules of obstacle placement.",
+      "The objective tokens go on the obstacles, so if the obstacles are moved by Grav Shift Reroute, the tokens go with them.",
+      "Per the most recent FAQ, Strategic squadrons can move tokens off of obstacles. If they do, those tokens can't be picked up by a ship unless they're moved onto an obstacle again (the original obstacle or a new obstacle, either way).",
+      "Note that the second player's ships can still benefit from overlapping the space station. Only the asteroid field and debris field obstacles no longer have an effect on the second player's ships.",
+      "Because the second player deploys the first obstacle, the first deployed obstacle should always be the space station. This is done to deny the first player the option of deploying a nearby obstacle that won't hurt his ships when grabbing an objective token from it."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Armada objectives: red objectives, wave one",
+    "summary": "",
+    "tips": [
+      "Remember that the objective ships are chosen after fleet deployment is complete, starting with the first player. If you have 2+ decent recipients for Advanced Gunnery, this can be quite helpful for giving you the option to choose the better-positioned ship to benefit from this objective.",
+      "You must choose a ship for this objective, which means if the first player would rather not, he's still stuck appointing an Advanced Gunnery ship.",
+      "The benefits for the chosen ships vary between the two different players a bit. Each objective ship can make both of its attacks from the same hull zone. The first player's objective ship is limited to not being able to attack squadrons twice from the same hull zone or attack the same enemy hull zone twice from its same hull zone. The second player's objective ship doesn't have the same restrictions and can use all of its attacks on the same target(s) from the same hull zone if it wishes.",
+      "Speaking of Gunnery Team, it should be noted that the \"cannot\" on Gunnery Team overrides the \"can\" on Advanced Gunnery (this is consistent with the basic Armada rules, it just wasn't clear precisely how to handle the interaction previously). Therefore, do not choose a ship with a Gunnery Team upgrade to be your Advanced Gunnery ship, because you will get no benefit.",
+      "Players sometimes forget the \"End of Game\" section on this card: each Advanced Gunnery ship is worth double its base points cost (plus the upgrade card points as normal) if it's destroyed. Be careful with your Advanced Gunnery ship and try to knock out the enemy objective ship!"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Armada objectives: yellow objectives, wave one",
+    "summary": "",
+    "tips": [
+      "Because of the obstacle deployment order (starting with the second player), this means that the second player will deploy a total of 4 of the 6 obstacles because they deploy the final two (the last of the 5 \"choose and deploy\" obstacles and then the space station).",
+      "This means that the second player can set up a harmful objective (debris, asteroids) cutting off an approach to the station and then deploy the station itself. Just be very careful about making sure the \"screening\" obstacle isn't too close to where the station will be, cutting off your preferred station deployment area and making you regret being too clever by half.",
+      "By deploying regular obstacles close to distance 5 of your table edge, the first player can cause issues with setting up the station exactly where you want it. Try not to make it obvious exactly where you'd like the station to go with your earlier obstacle deployments or else you run the risk of getting blocked by the first player's second (and final) obstacle deployment.",
+      "Don't forget that the station itself becomes a weird-shaped objective scoring area and no longer obstructs anything or heals ships/squadrons. This can be a disastrous thing to forget at the wrong moment.",
+      "The End of Round condition tends to prefer high-Command ships that don't mind camping the station for a few turns, moving very slowly."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Blue (navigation) objectives, Rebellion in the Rim",
+    "summary": "",
+    "tips": [
+      "Much like Salvage Run, \"the center of the setup area\" is a little nebulous as to under what circumstances the obstacle you're placing there satisfies that requirement or not. Just try to get roughly the middle of the gravity rift token in the middle of the table and you're doing good enough. When in doubt, ask your opponent if it seems all right to them and adjust as necessary until you're both happy.",
+      "The \"remaining obstacles\" for our purposes are the 3 asteroid and 2 debris fields, so the second player will get to place 2 of those and the first player 3 due to how the objective trades placements.",
+      "Because the second player intends to harvest points from the station, it behooves them to place it fairly far away from the rift and as close to their edge as possible.",
+      "It therefore behooves the first player to place their obstacles towards the second player's corners at distance 5 (a bit beyond, actually) to make placing the station in a corner impossible, just like in Contested Outpost.",
+      "The end of round sequence is long, but to understand the rules for moving obstacles toward, we need the relevant section of the rules first:"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Blue (navigation) objectives, wave five",
+    "summary": "",
+    "tips": [
+      "This is another objective where the station is placed last by the second player, which means that the first player will only get to place 2 obstacles total.",
+      "The victory token only triggers upon ships actually taking damage, so titles like Jaina's Light or other effects that ignore damage from obstacles (like Chart Officer) will stop your opponent from gaining a token.",
+      "At the end of each round, the second player will get to move a total of 3 obstacles and the first player 2, following the objective restrictions. The station does not move. Objective tokens are placed on the obstacles so you remember what's already been moved but they otherwise do nothing.",
+      "Interdictors with Grav Shift Reroute can push the starting obstacles away from your fleet and/or closer to your opponent, which can start racking up those Navigational Hazards points more consistently. Just be careful that your speed 2 medium size Interdictor doesn't end up eating damage from obstacles later...",
+      "More maneuverable/speedier fleets often have an easier time avoiding the repositioned obstacles."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Chicago Worlds guide addendum: Schaumburg",
+    "summary": "",
+    "tips": [
+      "Legoland Discovery Center- This is a kid-friendly attraction with lots of Lego activities.",
+      "Woodfield Mall- This was once the largest mall in the world by store area. It still is a gigantic mall with tons of shops and restaurants.",
+      "Forest Preserves- If you’re looking to enjoy nature, there are a ton of forest preserves in and around Schaumburg.",
+      "Busse Woods is quite nice and has great hiking/biking trails. It also has a herd of Elk that like to come right up to the fence at the corner of Arlington Heights Rd and Higgins Rd.",
+      "Chef Ping- Best Chinese food in the suburbs. Lots of traditional and authentic dishes.1755 W Algonquin Rd, Rolling Meadows, IL 60008"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fleet building 101: the basics of fleet building",
+    "summary": "A good fleet considers its activation count. My general advice is the bare minimum number of activations you should consider is 3, and I feel more comfortable at 4+. With the introduction of flotillas",
+    "tips": [
+      "I need to invest a lot of points into squadrons (spend 120-134 points in squadrons).",
+      "I need to invest points into commanding those squadrons (include adequate number of carriers and upgrades that assist my squadrons).",
+      "I need a commander who works well with squadrons and with the ships I'm bringing to support them.",
+      "I need objectives that support squadrons."
+    ],
+    "synergies": [
+      "I need a commander who works well with squadrons and with the ships I'm bringing to support them."
+    ]
+  },
+  {
+    "name": "Fleet deployment",
+    "summary": "",
+    "tips": [
+      "Ships must be placed within their player’s deployment zones. When a player places a ship, he must set its speed dial to a speed available on its speed chart.",
+      "Squadrons must be placed within distance 1–2 of a friendly ship and may be placed outside of deployment zones.",
+      "If a player only has one squadron remaining when he must place two, he cannot place it until he has placed all of his ships.",
+      "Ships and squadrons can be placed on top of the setup area markers as long as they remain entirely within the setup area.",
+      "Remember that your squadrons aren't restricted to being inside of your deployment zone like your ships are, but they still need to be inside the setup area (the 3*4 rectangle in the middle of the board, so not within distance 5 of either short edge)."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Objectives update and where we're at on updates",
+    "summary": "",
+    "tips": [
+      "Opening Salvo expanded a bit to mention it's helpful against Raddus. Similarly, Most Wanted now mentions how you can't target a ship that's not deployed yet.",
+      "Contested Outpost revised to discuss how it's an awkward fit for squad heavy fleets.",
+      "Raddus mentioned as yet another reason to be scared of using Fleet Ambush.",
+      "Went into a bit more detail on Strategic Squadrons in Capture the VIP. Specifically, it's fine to have one, you don't really need it, but 2+ Strategic squads really want Fire Lanes instead usually.",
+      "Jamming Barrier opinion improved in light of a resurgence of longer-ranged gunline fleets in wave 7. John has been getting some solid use out of it."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Red (assault) objectives, Rebellion in the Rim",
+    "summary": "",
+    "tips": [
+      "All obstacles excluding the station refers to the standard obstacles, so that means the 3 asteroids and 2 debris fields.",
+      "The second player still needs to obey all other obstacle placement restrictions, so they can't be placed within distance 5 of the short table edges or within distance 1 of one another, either.",
+      "In general, the second player should keep the obstacles closer to their side of the table so they can hide from the ion storm more effectively and encourage the first player to be reckless.",
+      "Depending on the second player's plan, it may be wise to keep an obstacle a bit more centrally-located so their own ships can hide from the storm later on.",
+      "Ships check to gain tokens at the end of their movement, so if they move more than once (the common example being Engine Techs) this can result in multiple checks."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Red (assault) objectives, wave 5",
+    "summary": "",
+    "tips": [
+      "The setup area is as above, in case there was any confusion.",
+      "A really important thing to note is that with the battle now effectively taking place in a wide hallway, there's a lot less room to maneuver around the sides of things.",
+      "This can make ships with stronger front arcs much harder to avoid, for example.",
+      "Because the second player places all obstacles, it can be clever them to create two lines of obstacles to create three \"lanes\" through the center of the map (center, left, and right as viewed from the 3 foot sides); this allows their own ships to make a run for the end zone while getting obstruction and potentially causing opponent ships to take damage if they try to cross \"lanes\" to chase them down.",
+      "To be more specific, a \"lane\" can be created by setting up 2-3 obstacles close to one another and oriented in a roughly horizontal line (to the diagram above, it will appear vertical from the perspective of the deployment zones)."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Yellow (defense) objectives, Rebellion in the Rim",
+    "summary": "",
+    "tips": [
+      "After deploying the station in the center, second player begins alternating placement of the remaining obstacles, which will be 2 debris fields, 2 dust fields, and 2 purrgil.",
+      "So player 2 and player 1 each get 3 obstacles.",
+      "As usual for \"put something in the middle first\" objectives, try your best to center the station and when in doubt get the okay from your opponent before proceeding.",
+      "Because you can get victory points for mining dust fields as well as the station, it's worth considering using your first obstacle deployment on a dust field closer to you.",
+      "Given as player 2 you start off with repair tokens, it's worth considering putting that dust field somewhere it will be distance 1 from several ships that can use those tokens to grab a single victory token each on the first round. You can then stick close to it for more mining next round if you like."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Yellow (defense) objectives, wave five",
+    "summary": "",
+    "tips": [
+      "It behooves the second player to place an obstacle outside their deployment zone that the VIP can be floating near - the easiest obstacle is the space station which both takes up a lot of space but also won't risk harming whatever ship you're sending in for the pick-up.",
+      "Remember that if a ship carrying the VIP is destroyed, the token is placed by the opposing player in base contact with the about-to-be-removed ship's base. It's not uncommon to just remove a destroyed ship from the table with little fanfare but in Capture the VIP, doing so with the VIP ship causes a lot of confusion and trouble with restoring the ship to where it used to be to place the token. So be careful!",
+      "The second player gets no choice about setting aside their squadrons. They must set them aside and not deploy them normally, which means this will cost you deployments early on.",
+      "The squadrons are then deployed after both players finish their regular deployment, following the special objective rules.",
+      "I've seen players get crazy with deploying their squadrons as close as possible to the first player but then having no realistic means of commanding them or doing anything special with them. Carriers with Boosted Comms make this objective more appealing for that reason, and Rogue squadrons can also get a lot of mileage out of it."
+    ],
+    "synergies": []
+  }
+]

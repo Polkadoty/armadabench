@@ -1,0 +1,208 @@
+[
+  {
+    "name": "H1MC80: Space Hoagie of DOOOOOOM!",
+    "summary": "",
+    "tips": [
+      "4 Engineering, best the Rebellion can get!",
+      "1 Brace, 2 Redirects, and a Contain",
+      "Incredible side attacks! Technically present Front and Rear attacks!",
+      "Legitimate 2-dice AA attacks against squadrons",
+      "8 health, which is not a lot, but its the third most the Rebellion will give you.  Goes along great with..."
+    ],
+    "synergies": [
+      "8 health, which is not a lot, but its the third most the Rebellion will give you.  Goes along great with..."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Arquitens Light Cruiser",
+    "summary": "Needa TRCs\nCaptain Needa + Turbolaser Reroute Circuits\nIt's 63 points of skirmishing annoyance on a stick and I generally consider this as one of the better all-around \"entry level\" price points for a",
+    "tips": [
+      "With Command 2, the Arquitens isn't too ponderous to command and it can hold enough command tokens to stock up on the odd turn it doesn't need a dial.",
+      "In general, if you can get the Arquitens some spare tokens, it will generally want a navigate token and either a repair or concentrate fire token.",
+      "Engineering 3 is average for a Command 2 small ship. It's not great but it's still enough to fix a bad face-up crit or regenerate a shield and move a shield to bring a depleted hull zone back up to maximum shields.",
+      "One evade, two redirects, and a contain token offers an interesting defense token suite. Compared to something like a Rebel CR90, the Arquitens can handle itself much better at shorter ranges due to duplicate redirects and a contain, but it's not as proficient at dodging attacks at long range due to only one evade.",
+      "5 hull is again pretty standard for a Command 2 small ship."
+    ],
+    "synergies": [
+      "Advanced Projectors are reasonably inexpensive for a defensive retrofit at 6 points and synergize well with your 2 redirect defense tokens. Being able to redirect to every hull zone gives Arqs a substantial upgrade in durability against single large attacks and further improves their durability against squadrons as well. Works best when you can get them repair dials/tokens regularly to keep those shields strong as long as possible, but still a solid choice.",
+      "Reinforced Blast Doors come packaged with the Arquitens and are your best cheap option at 5 points. They synergize well with the contain defense token at keeping your damage cards facedown for RBD removal. The main issue is the weird timing window (start of the Ship Phase) to remove the damage cards, which can make it easy to forget them or for your Arquitens to get killed before RBDs can help."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Gladiator-class Star Destroyer",
+    "summary": "First things first, be aware that Demolisher has been changed in 1.5 and the above card is current. Let's get to the rules.",
+    "tips": [
+      "Your first Gladiator should always be the Demolisher unless you've got a really good reason not to. We're getting to Demolisher shortly.",
+      "Savvy opponents know what to expect from Gladiators, particularly the Demolisher, and therefore would like to deploy away from them, minimizing their impact. For that reason, you should generally be looking to deploy your Gladiators last if possible once you know where the enemy ships are.",
+      "Try to set up your Gladiators so they can begin turning back in towards the enemy fleet after attacking. A Gladiator that runs straight at an enemy fleet's ship line will get to attack one ship, overshoot that ship when it's done, and then have a very hard time turning around in time to do anything for the rest of the game. If you come in from the sides, you can roll up the flank and have a reasonable shot at getting other ships in the flank or rear.",
+      "Be careful of biting off more than you can chew by throwing your Gladiators in before the rest of your fleet has caught up. Such overextended Gladiators are often picked apart, particularly by squadrons.",
+      "Don't be afraid to start off a bit slower and use navigate commands/tokens + Engine Techs to pounce on your targets - starting off too fast can result in you getting overextended or telegraphs your intentions too early. Similarly, don't be afraid to slow down to improve your turning radius once it's time to circle back on other enemy ships"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial ship review: Gozanti Cruisers",
+    "summary": "",
+    "tips": [
+      "When a flotilla overlaps or is overlapped by another ship, the other ship only takes a facedown damage card if it is also a flotilla.",
+      "Commanders cannot use flotillas as flagships. They need to use a real ship.",
+      "You cannot have more than 2 flotillas in a fleet.",
+      "If one fleet has all of its non-flotilla ships destroyed, that player loses at the end of the round.",
+      "Providing an extra activation for cheap."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial ship review: Imperial-class Star Destroyer",
+    "summary": "Basic usage recommendations\nIdeally, you'll want to apply your front arc to enemies as consistently as possible and achieving this is similar to using a VSD except you aren't as restricted in your spe",
+    "tips": [
+      "11 hull points, the highest available currently in the game.",
+      "4 front, 3 side, and 2 rear shields (for a total of 12 shield points).",
+      "1 brace, 2 redirects, and 1 contain defense token. This is a very similar defense token suite to the VSD but adds the situationally-useful contain. This suite will stand you in good stead against bombers and the occasional big ship attack but it does not like getting peppered at long range consistently and the one brace is prone to getting locked down by accuracy results.",
+      "Lots and lots of upgrade slots, differing slightly (but importantly!) between different variants.",
+      "A generous front hull zone with 7 or 8 dice and a wide firing arc."
+    ],
+    "synergies": [
+      "Reeva Demesne. She's kind of a mirror of Minister Tua in that she's best on ISDs that already have a defensive retrofit slot so she can benefit from and synergize with the increased tankiness to get her effect triggering.",
+      "A defensive retrofit slot, which when combined with a tendency to be used more cautiously, can keep the ISD pretty safe.",
+      "Two blue flak dice combine more favorably with Gunnery Team for hosing down a lot of squadrons, combine well with upgrades that are commonly seen on the ISD-II (like Leading Shots and H9 Turbolasers), and are useful against scatter aces."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Interdictor cruiser",
+    "summary": "Upgrades\nOffensive Retrofits\nYou need a good argument not to fill this slot with Disposable Capacitors. For a very affordable 3 points, your Interdictor can once per game use its blue dice against shi",
+    "tips": [
+      "A high points cost at 90-93 base points. The Interdictor starts off just slightly cheaper than a Liberty-style MC80 (large ship!) and is the most expensive medium ship in the game.",
+      "A very high 9 hull points, more than many large ships and higher than any other medium.",
+      "A competitive Command 2, which is the lowest Command value for a medium ship, making it much less cumbersome to command than a VSD.",
+      "An extremely high (best in the game) Engineering 5, which makes it the champion of repair commands. A repair token even gives you 3 repair points, which is an awful lot. Spent together, a repair dial+token is an amazing 8 repair points!",
+      "4 defense tokens, although keep in mind 2 of those are contain, the weakest defense token."
+    ],
+    "synergies": [
+      "9 total shields, which are just a smidgen on the low end for an Imperial vessel of its size but combined with its 9 hull it has the same total durability as a VSD with 18 combined shields+hull. The two contain tokens help keep this from being too much of a liability by making attacks that hit the hull unlikely to resolve the standard critical effect."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Onager-class Star Destroyer",
+    "summary": "Big Game Hunter\nOrbital Bombardment Particle Cannons, Intel Officer, Veteran Gunners, Gunnery Chief Varnillian, XI7 Turbolasers\nYou want to find the biggest ship you can and put hurt into it from quit",
+    "tips": [
+      "It has an awful lot of shields in the front but isn't so hot everywhere else.",
+      "The single brace and redirect and no defensive retrofit slot further complicate matters. This ship, despite appearances, is roughly as durable as a Victory-class Star Destroyer. Arguably worse if your opponent can focus a attacks on your sides and rear and ignore the front altogether.",
+      "Command 3 is fine but can get a bit burdensome at times. Particularly for an Onager, knowing when to con fire versus navigate (to turn or run away) can be important.",
+      "Engineering 3 is poor on a large ship. Repair commands can still be clutch, but the Onager is still getting outdone by smaller ships like the VSD and is inferior to the same-sized ISD in this regard.",
+      "Its Squadron value is awful, particularly on the Testbed but still poor on the Star Destroyer."
+    ],
+    "synergies": [
+      "Ordnance Experts gives you easy access to a reroll for the black dice in your Ignition attack. It otherwise won't see a lot of use beyond your flak attacks, but it's still a fairly cheap fairly reliable way to get dice consistency from nearly half your Ignition attack dice pool. They also combine well with...",
+      "Veteran Gunners is our second \"generally terrible but here not so much\" option on the Onager. Especially when combined with a more general-purpose dice control upgrade in the other weapon team slot. You can, for example, reroll everything if your Ignition attack's red dice turned out poorly and then reroll any uncooperative black dice with Ordnance Experts, making the decision on whether to reroll everything a bit easier. Besides Ordnance Experts, they also combine well with..."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Quasar Fire Cruiser-Carrier",
+    "summary": "I recommend using Stronghold somewhat like the Rebel Assault Frigate title Gallant Haven - you can use it as a bunker for your fighters to hide in. If your opponent wants to get the jump on your fight",
+    "tips": [
+      "Defensively, the Quasar has a bit of a glass jaw:",
+      "6 hull is decent, but with a 2/2/1 shield configuration, your shields aren't going to do you much good for very long. It's the same shield configuration as a CR90, which isn't a ship known for taking a lot of punishment.",
+      "Furthermore, with only a single brace and redirect, the Quasar isn't going to stand up to serious attacks very well, especially against larger attacks that can lock down the brace or a multitude of small attacks that will overheat its defense tokens.",
+      "Finally, at only 2 Engineering, the Quasar's repair commands are as ineffectual as a flotilla or corvette's, so once it starts taking damage it's not going to have much success at repairing its way out of trouble. Face-up crits in particular can be very problematic, as it will need a dial and token to remove a damage card.",
+      "At 54/61 points, the Quasar is the cheapest medium-based ship in the game and you get a pretty decent amount of \"stuff\" for the cost, even if its defenses aren't great."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial ship review: Raider Corvette",
+    "summary": "",
+    "tips": [
+      "2 evades and one brace defense token",
+      "2 shields in every hull zone (for a total of 8)",
+      "Command 1, Squadron 1, Engineering 2: adept at making command choices on the fly but miserable at commanding squadrons and your standard corvette \"not very good at repairing.\"",
+      "Speed 4 maximum with two clicks of yaw at speeds 1 and 3, three clicks at speed 4, and four clicks at speed 2 (the sweet spot).",
+      "That's still a good number of clicks for each speed total with the notable exception of speed 3 being mediocre."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial ship review: Super Star Destroyer/Star Dreadnought",
+    "summary": "",
+    "tips": [
+      "2 fleet command slots",
+      "Cheap (for an SSD) at 220 points",
+      "Damage Control Officer. A lot of the easy SSD counters to quickly pile on the damage and/or subvert its defense tokens rely on critical effects: Heavy Ion Emplacements, Overload Pulse, Norra, Nym, Assault Consussion Missiles, Assault Proton Torpedoes.",
+      "Captain Brunson is great for all the reasons she's normally great plus she's got a gigantic ship to measure distance 1-2 of an obstacle from. She works consistently and in some cases can cancel a single critical effect if she removes the only crit die from the pool, but DCO is much more reliable for stopping the fancy crits. Brunson removes damage pretty much all the time, though, so it's largely your call.",
+      "Expert Shield Tech. I wouldn't recommend him before DCO or Brunson but he can work as a junior partner to one (or both?) of them for a tanky SSD. Being able to spend a redirect to remove one damage from an attack, even if you ran out of shields, is pretty dang great."
+    ],
+    "synergies": [
+      "XI7 Turbolasers are the gold standard for defense-token screwage turbolasers and they're worth considering here if your other sources of damage synergize with them. Generally I'm more keen on these with the Assault SSD where the SSD is the only meaningful source of anti-ship attacks.",
+      "Linked Turbolaser Towers are handy for a single red die reroll on every attack (which adds up with 3 hull zones attacking) and the option to use the \"I hate this particular squadron\" mode when flakking. That said, I also prefer these more on the Assault SSD as the red flak die there gives it additional synergy, but if you're looking for an all-purpose turbolaser and can't spare the Modification slot for QBT this would usually get my vote.",
+      "If you are crazy enough to run Heavy Turbolaser Turrets on your SSD, it has additional synergy with HIEs - Your opponent is going to want to only brace and do nothing else against more damaging attacks (most of your SSD attacks), so the HIEs will consistently gobble up lots of shields and Damage Control Officer doesn't work well as a counter either."
+    ]
+  },
+  {
+    "name": "Imperial ship review: Victory-class Star Destroyer",
+    "summary": "",
+    "tips": [
+      "Maximum speed 2. This isn't inherently awful (many ships with a higher maximum speed will still spend much of the game around speed 2, such as ISDs), but it can be troublesome when you need to chase something down or run away",
+      "Terrible yaw. They get a single click of yaw at both their speed settings and it comes at the final segment of the maneuver tool. No non-huge ship has worse yaw than a VSD does.",
+      "Trying to get your front arc on target with poor yaw can be particularly frustrating against fast, maneuverable ships like CR90s.",
+      "A single blue flak die for flak is poor for the VSD's points cost and coupled with its low speed means that it can't threaten bombers going after it nor can it outrun them. You'll need fighter squadrons to keep bombers from picking you to pieces.",
+      "No inherent defensive retrofit slot. So long as a VSD gets to use its defense tokens, it's actually pretty durable. If it doesn't, it can be surprisingly vulnerable, especially given it's not fast enough to run away. Just like most expensive ships with a single brace, it's generally desperate for Electronic Countermeasures to go up against other heavier combat ships."
+    ],
+    "synergies": [
+      "Combine with other defensive upgrades across your fleet and this \"Medic VSD\" build can be pretty helpful.",
+      "Fighter Coordination Team gives your squads a little extra bump, but that can add up. For extra fun combine with Officer Ozzel and Expanded Hangar Bays for a pre-round-1 move followed by a free speed 1 bump on 4 squadrons.",
+      "Officer Ozzel is cheap and helps with the standard VSD problem of not being fast enough/having problems getting outdeployed. A speed 1 move before the game starts can help with both of these problems and combines well with Harrow."
+    ]
+  },
+  {
+    "name": "LMC80: Battle Cruise Crazy (Just Be Glad It's Him, Not You)",
+    "summary": "",
+    "tips": [
+      "Command 3 - plan your turns out, else you're gonna run into some troubles (I speak from experience!)",
+      "Squadrons 2 - so you really SHOULDN'T be using a dial to command squadrons with it (we'll get there with the titles!)",
+      "Engineering 4 - Able to heal a fair amount, with the non-Interdictor standard strongest",
+      "A very different navigational pattern than anything the Rebellion has seen before (we'll get here too)",
+      "Crazy dice in the front! Not so much in the sides or rear!"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Separatist ship review: Munificent-class frigate",
+    "summary": "The first serious Separatist warship we'll be discussing is the Munificent-class frigate. It's a dependable scrappy and adaptable little medium-based ship that operates very differently from every oth",
+    "tips": [
+      "Command 2 makes it surprisingly responsive for a medium-based combat ship.",
+      "Engineering 4 is average for a medium-based brawler but very welcome given the Munificent is pretty cheap for a medium-based ship.",
+      "Top speed of 2 is slow, but it has a lot of yaw at speed 2, especially for its size.",
+      "6 hull with 4/3/2 shields is identical to the Rebel Assault Frigate, but with a lower speed and no evade token, the Munificent comes off worse against attacks.",
+      "A good number of red dice all over and with 2 red dice in the rear arc and a salvo token you can get some work done with return fire if you need to."
+    ],
+    "synergies": [
+      "Medical Team is a very affordable option at 1 point and it combines very well with Tide of Progress to give you the option to ignore the first faceup card you take regardless of whether it is Crew or Ship type.",
+      "Fighter Coordination Team has obvious benefits on a carrier Munificent. In that case, you should consider a Flight Commander officer for the bonus synergy of being able to both FCT bump and then command squadrons after you move.",
+      "Auxiliary Shield Team is handy if you want a bit of extra durability and don't mind going for a repair command round 1 and potentially again later into the game. This combines well with the officer Wat Tambor for quickly stripping shields from other areas or other ships to supercharge your own."
+    ]
+  },
+  {
+    "name": "Separatist ship review: Providence-class Dreadnought",
+    "summary": "The first release of wave 10 (in the States anyways), the Providence-class Dreadnought offers the Separatists a dedicated multi-role flagship.",
+    "tips": [
+      "Total durability a bit under an Imperial-class Star Destroyer, for a bit less cost.",
+      "5 shields in front is superior to the ISD's 4, but 2 less hull points and only one redirect can cause problems.",
+      "Identical points cost of 105 for both variants.",
+      "Pretty standard \"wave 2 large\" profile of Command 3, Squadron 4, Engineering 4. The Squadron value stands out a bit (as most larges vary between 2 to 4), but Separatists need those higher squadron values to push their cheap fragile squads en masse.",
+      "5/6/3 dice batteries are somewhat reminiscent of a Rebel MC75's 5/5/2, although the ranges are more standardized between front and sides compared to the 75's."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "The GAR Victory!",
+    "summary": "Cross-faction ships! The ol' Victory! Bringing its might to the Republic! Just like we always something something let's break the ship down and pretend it has value.",
+    "tips": [
+      "Maximum speed 2. This isn't inherently awful (many ships with a higher maximum speed will still spend much of the game around speed 2, such as ISDs), but it can be troublesome when you need to chase something down or run away and you just can't step on the gas to make that happen. Speed 2 and an Engine Techs \"third\" aren't the same as speed 3, especially if/when you need to hop something in your way.  You're GAR, you don't \"hop\" so much as \"plow through.\"",
+      "Terrible yaw. They get a single click of yaw at both their speed settings and it comes at the final segment of the maneuver tool. No non-huge ship has worse yaw than a VSD does. Because the click is further along than an Acclamator, as well, it's much harder to correct bad deployment and bad navigation.",
+      "Trying to get your front arc on target with poor yaw can be particularly frustrating against fast, maneuverable ships like CR90s.",
+      "A single blue flak die for flak is poor for the VSD's points cost and coupled with its low speed means that it can't threaten bombers going after it nor can it outrun them. You'll need fighter squadrons to keep bombers from picking you to pieces.",
+      "No defensive retrofit slot. So long as a VSD gets to use its defense tokens, it's actually pretty durable. If it doesn't, it can be surprisingly vulnerable, especially given it's not fast enough to run away."
+    ],
+    "synergies": []
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Building a Fleet for Cheap 2: Rebel Boogaloo!",
+    "summary": "Nebulon-B Support Refit (51 points)-  Salvation  ( 7  points)-  Auxiliary Shields Team  ( 3  points)= 61 total ship cost",
+    "tips": [
+      "Armada Core Set ($100)",
+      "Extra Dice Pack ($10)",
+      "Upgrade Card Collection ($25)",
+      "Rebel Transports (AKA Flotilla) Pack ($20)",
+      "Rebel Squadrons Pack 1 ($20)"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Building an Imperial fleet on the cheap: the $250 challenge",
+    "summary": "When it comes to cost of entry, the first big hurdle is the $100 core set. It's basically unavoidable, as the core set comes with numerous things each person needs to play: the deck of damage cards, t",
+    "tips": [
+      "Star Wars Armada core set ($100)",
+      "Upgrade card collection ($25)",
+      "Gladiator-class Star Destroyer ($30)",
+      "Arquitens light cruiser ($20)",
+      "Quasar light carrier ($30)"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fighting Fleets: Annulling Avenger Boarding Troopers",
+    "summary": "",
+    "tips": [
+      "ABT activates late in the round (preferably last) and comes zooming in at its preferred target at close range, preferably setting up a double-arc attack on it.",
+      "ABT activates early in the next round (preferably first), spends a squadron token to use Boarding Troopers, taps out all its prey's defense tokens, and lets rip with both arcs (preferably with a concentrate fire).",
+      "With the new errata where Avenger exhausts to use, the Avenger attack will be used on the big front arc blast, with the side arc either going first (with a Kuat, likely) to tempt you into spending more defense tokens early or afterwards to hopefully drill an extra damage or two into the hull (with an ISD-I, usually).",
+      "In most cases its prey is then dead. Without any special tricks to save them, this will destroy most ships, but heavier ships (like HMC80s, front arcs of LMC80s, and particularly other ISDs, sometimes even a VSD) can survive if they were healthy before the attack run and/or if the dice weren't too hot. If the prey is brought down to 1 hull, a timely ram will finish it off.",
+      "The ABT then decides if it wants to come around and start harassing other ships or if it's satisfied with a large meal and wishes to step on the gas to get away before the remaining enemy fleet can destroy it in turn."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fighting Fleets: Cancelling Conga Lines",
+    "summary": "",
+    "tips": [
+      "Decent to good overall speed and maneuverability for their class (sometimes augmented with Engine Techs).",
+      "Subpar overall offensive capability for their class (the exception is the MC30, and that only applies at close range).",
+      "For example, the Arquitens is in the same league points-wise as the Gladiator, which is capable of explosive amounts of burst damage and is in most ways completely different from the Arquitens in how it should be used. Similar comparisons can be made between the Assault Frigate and the VSD and the HMC80 and the ISD.",
+      "This is not to say that you can't get up to decent offensive output (a conga line fleet specializes in upping the offensive output to at least \"decent,\" which we're getting to), but the base attack dice are generally unimpressive.",
+      "The front arc is often very poor for its class. If you're not able to bring your broadside to bear on your enemy, you're going to have a bad time."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fighting Fleets: Flushing Flotillas",
+    "summary": "",
+    "tips": [
+      "Activate your ramming ship prior to the enemy flotilla activation. Complete your attacks and then ram the flotilla, making sure to land in its flight path as obstructively as possible.",
+      "When the enemy flotilla activates, unless it can crank its speed up to 3 (and even then, it won't be enough to escape well-positioned and/or larger enemy ships), it will be stuck overlapping your ramming ship, dealing it another hull damage.",
+      "During the subsequent activations of ramming ship, it can finish off the flotilla with another ram while making its attacks on other targets.",
+      "A second ramming ship (even another flotilla, if you need it!) can also do the trick, but be careful not to over-dedicate your resources to killing a cheap flotilla and be extra careful not to accidentally ram your original ramming ship instead.",
+      "The Garel's Honor title on a Hammerhead Corvette inflicts a face-up damage card when it rams an enemy ship, which you can use to potentially pull a Structural Damage (for an extra damage card), especially with Dodonna helping you fish for it. Structurals are 8 of the 52 crits in the deck, so you've got a 15.4% chance inherently of pulling it and with Dodonna it goes up to nearly coin-flip odds of 48.7%."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fighting Fleets: Swatting Swarms/MSU",
+    "summary": "How do I beat MSU?\nThis is the big question behind this article, of course, and the first step towards understanding MSU's weaknesses are understanding how it works, which I outlined above. When you'r",
+    "tips": [
+      "Your good arcs can expect to get long-ranged attacks in, particularly earlier in the game when MSU is on the approach and can't arc-dodge as well until ranges get closer.",
+      "Your weaker arcs can expect to get up to even close range (when MSU ships are dodging around/past you) periodically.",
+      "MSU corvettes will be using every trick to dodge out of your best arcs and/or to limit the amount of attacks you can make back at their fleet, which means they're frequently navigating to get into the best position and to manage their speed.",
+      "Corvettes are often looking to get in several smaller attacks on the same target in one turn to overheat its defense tokens rather than go one-on-one with enemy ships.",
+      "Corvettes generally do not handle punching matches well and so don't expect them to hang around for more than a round or perhaps two before jetting away."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fighting Fleets: Whale Hunting",
+    "summary": "",
+    "tips": [
+      "His non-contain tokens are all exhausted, so he can't get rid of more attacks unless he wants to discard those tokens forever AND",
+      "He still (in this example) has to take 5 damage in whatever hull zone you've been shooting at AND",
+      "He's reduced his shields in the adjacent sides of wherever you WERE shooting him and has none in the side all your damage originated from.  Hit him there AGAIN."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fleet building 201: Big Heavy",
+    "summary": "",
+    "tips": [
+      "Sufficient threat projection. With fewer activations,",
+      "On a related note, simply bringing more combat ships can help with",
+      "Damage maximization. This includes a number of considerations",
+      "Basically anything that improves your dice reliability through",
+      "Counter-tech. Consider the other two main archetypes and"
+    ],
+    "synergies": [
+      "When combined with a heavy combat ship with a decent to high Squadrons value (like an ISD-I or -II), you can get some extremely strong individual activations with this pairing. Commanding a large number of squadrons and then getting in two heavy ship attacks does a substantial amount of damage in a single activation, which can quickly overwhelm enemies that were hoping for a less explosive burst of damage all at once."
+    ]
+  },
+  {
+    "name": "Fleet building 201: Swarm/MSU",
+    "summary": "Weak would mean no more than 1/6 of your available points. It's \nfeaturing that element in a support role at best, usually to cover \nweaknesses. This leaves enough room to add a dash of the other arch",
+    "tips": [
+      "This is one of the core elements of getting MSU to work consistently. You want to have activation parity and preferably activation advantage over every other non-MSU fleet. Nowadays, that usually means at least 6 activations.",
+      "Some Armada players think \"MSU\" basically just means \"lots of activations\" and that's certainly a part of it, but not the entirety of it.",
+      "Ships taken just to pad activations that don't meaningfully contribute (prime example being flotillas without a decent job to do) aren't really a great use of your points, on a related note. Activations are good and essential to running MSU but they're not the only thing.",
+      "All that said, I recommend making at least a small bid of 2+ points so you have the option to go first against fleets not making a bid. The option to have the first and last activations from the get-go is too good to not at least make a small investment towards.",
+      "Overall, the more you're relying on short-ranged ships and/or an expensive hammer ship (the classic example is a kitted-out Demolisher), the more you probably want to go first."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fleet Building 301: Damage synergy",
+    "summary": "",
+    "tips": [
+      "Amount of damage. This will vary at different ranges and in different arcs, of course, but you're looking at your ship/squadrons when used ideally. The basic elements are light, moderate, and heavy. I put them at light: 1-3 damage, moderate 4-5, and heavy 6+. I'll cover why, exactly, I have these groupings when we talk about this in more detail later.",
+      "Threat range. Again, this depends on different arcs and various factors but for the most part, how far out can your damage platform threaten enemy ships with its strongest attacks? Although a Gladiator has red dice in its battery armament, it's still more of a close ranged threat, although the Demolisher title upgrades it to a long range threat. A Raider-II or CR90B would be a medium range threat.",
+      "Damage consistency. This requires a bit more explanation:",
+      "Burst damage platforms can also have issues keeping their best attacks in the fight for more than 2 rounds or so due to their arcs (short-ranged front arc ships, for example) and/or because they're fragile (like Torpedo Hammerheads or Raider-Is) and so will tend to die or need to run within a round or two of serious combat."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fleet support article updated for wave 9",
+    "summary": "Not a huge change, but I added in the two new fleet support upgrades and also changed the Slicer Tools advice (still awaiting the new card image) based on the updated version. I also changed up advice",
+    "tips": [
+      "It starts with 5 concentrate fire tokens on the card. They can only be used by this card.",
+      "You can assign a token to yourself if you wish. It makes it easier to ready the card later if you're desperate."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "\"I remember when this show was about community college\" - Building Your Community",
+    "summary": "",
+    "tips": [
+      "Cheap start up cost as compared to other miniatures games!",
+      "No need to paint, unless you WANT to!",
+      "Easy to understand, fire then move!  The rules aren't super complicated, I swear!",
+      "Play whatever Star Wars ships and characters you want!",
+      "No auto-win, it's a matter of what you bring and how you play it!"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Raddus Rite-Up from Stewbucket! AKA Fleet Building 313A: A Blue Fish Case Study",
+    "summary": "More free content from the blog mines! Stewbucket (previous Worlds judge!) wanted to write this and it seemed pretty interesting (and i will freely take most content thrown my way, blog for the blog g",
+    "tips": [
+      "Cheap activations for optimal Jane positioning for optimal Ruthless Drop Ship placement.",
+      "Home for Toryn (mandatory for two ships with blue flak and a whole bunch of squads throwing blue dice).",
+      "Home for Adar? Nearly every squad in this list is worthy of a double-tap. Dutch shutting off two key aces? A third shot from blue-black bomber? Delicious.",
+      "Carrier capability? The Armored has squad 3 and I’ve got Hera, but these guys will probably have to pitch in sometimes",
+      "Token generation? I might need ECM on my drop ship, and I can’t get the readying token from a turn 1 dial, as the ship isn’t on the board."
+    ],
+    "synergies": []
+  }
+]

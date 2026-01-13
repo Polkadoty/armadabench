@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Assault Frigate: Generalist Space Potato",
+    "summary": "",
+    "tips": [
+      "6 health is a goodish start!",
+      "4 shields in the front, and 3 on the sides, is a great way to stay alive for longer.  Identical to an ISD, but with half its health.",
+      "Really solid side shots! From the good red range!",
+      "A great suite of defense tokens! One of everything! It can Evade 2 dice against large bases!",
+      "Engineering 4! All the heals! The strongest Rebel Engineering (And the general standard of strongest across the board, Interdictor excepted)"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "updates!",
+    "summary": "",
+    "tips": [
+      "Removed part about how I'm not keen on Screed with blue crits (yes, there are a few Screed references/comparisons in the Vader article). With HIEs now, I'm just fine with him there, so both he and Vader work fine for that.",
+      "Pretty much everything apart from the rules discussion got a substantial rewrite, often from the ground up, so it's easier to just say \"go reread it.\"",
+      "Given I just wrote this one not long ago, I mostly just added a \"ships\" section to the article and reconfigured/expanded on the \"fleet builds\" section a bit.",
+      "Is still bad, just like his buddy Konstantine.",
+      "Another incidence of updating \"turn\" to \"round\" in older articles to keep consistent with correct Armada terminology."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Grand Admiral Thrawn article hot take",
+    "summary": "",
+    "tips": [
+      "This is going to require a hefty FAQ entry to clear up a lot of uncertainties. Such as:",
+      "Can you have two of the same fleet command in play at the same time (with a Chimaera ISD and a Cymoon), given the unique icon is normally a fleet-building restriction but isn't checked mid-game? (I'd say yes you could)",
+      "Normally discarded cards are kept face-down and count towards points at the end of the game. Because the cards are replaced, are the discarded cards actually removed, then, and don't count for points at the end of the game? (I'd say yes as well)",
+      "If the discarded cards are kept face-down, does a discarded fleet command prevent you from subbing the same fleet command upgrade back in later? (I'd say no)",
+      "When a Chimaera ISD is destroyed, does it count its points value as the value it was bought at or the value it was destroyed at, assuming it swapped out its original fleet command for one of a different cost? (I'd say destroyed cost)"
+    ],
+    "synergies": [
+      "Does the fleet command ship fit into my desired fleet? For example, a Pelta is a very awkward fit into an Ackbar fleet, even if the Ackbar Assault Frigates would love Intensify Firepower!, the fleet as a whole will probably lose more than it gains compared to spending those points on more conventional choices that synergize better with Ackbar."
+    ]
+  },
+  {
+    "name": "article updates, every Admiral X updated",
+    "summary": "",
+    "tips": [
+      "Rules (how it works, things you might not at first realize, FAQ stuff, etc.)",
+      "Discussion (basic introduction, laying out foundational points that will get developed and/or exemplified later)",
+      "Ships (what ships this commander likes to use and why)",
+      "Fleet building (how do we put this all together to make a type of fleet this commander does well with?)",
+      "He's still terrible, just in case anyone was waiting for some big changes in my opinion there."
+    ],
+    "synergies": [
+      "Added ISD-IIs as ships with some synergy.",
+      "Mentioned the Command Arq as a reasonable flagship choice in an MSU fleet, even if Ozzel's synergy with them is okay but not amazing."
+    ]
+  },
+  {
+    "name": "review: Admiral Konstantine",
+    "summary": "FleetbuildingOnce you've made the important decision of what medium-sized+ ship(s) you're bringing, you'll need to fill in the rest of your fleet. Your fleet should look to its bigger ships for how it",
+    "tips": [
+      "Konstantine's ability triggers at the start of each Status Phase, which is the final phase of each round after the Ship and Squadron Phases (it is basically the \"ready exhausted things and get ready for next round\" phase).",
+      "This also means that enemy Command 1 ships will be able to assign a navigate command dial next round after seeing their new speed if they don't like it.",
+      "The ability checks every enemy ship to see if its at distance 5 of at least two of your ships, one of which needs to be medium or larger. Hypothetically if you had a VSD and Raider at distance 1-5 of the entire enemy fleet, then you'd get to mess around with the speed of every single enemy ship.",
+      "You either discard a navigate token from each ship or change its speed up or down by 1.",
+      "You generally should change the speed instead of removing the navigate token, but there are some cases where removing the token is the better move. Examples would include:"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Admiral Motti",
+    "summary": "",
+    "tips": [
+      "Your ships only gain the bonus hull points while Motti is on the table. Once your flagship is destroyed, Motti takes the secret of his magic duct tape to the grave, which can cause fleets to exist in a perilous circumstance where destroying Motti's ship can cause some (or all!) of your remaining ships to be destroyed as their inflated hull values revert to normal.",
+      "Flotillas are ships of the same size class as their base so Motti will give them bonus hull depending on their base size (as of the writing of this article, only small flotillas exist). I've come across some players who erroneously believe flotillas are their own size class but that is incorrect.",
+      "Motti does nothing for huge ships, so he doesn't work with the SSD.",
+      "Access to a defensive retrofit slot and/or some other kind of defensive tech (like the Interdictor's Targeting Scrambler). Stacked defensive improvements are often greater than the sum of their parts, so combining Motti's extra hull with upgrades that make it more difficult to destroy the ship in question are pretty great. You can cheat a defensive retrofit in with Tua, but it's even better if you can save the officer seat for someone else.",
+      "It should be noted that simply being tanky isn't enough, though. You need some way to actually win and good objectives and/or punchy ships and squads is how it's done."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Admiral Piett",
+    "summary": "",
+    "tips": [
+      "It's any friendly ship, not \"another\" friendly ship, so it definitely works on the ship Piett is on.",
+      "Piett only works when a ship spends only a command token to resolve a command.",
+      "That command resolves as if the command was triggered using only a command dial.",
+      "Meaning you can't spend only a token, use Piett, and then sneak in another token of the same type to augment the dial (say, on an Executor title SSD).",
+      "When in doubt, double-check the article on commands and command resolution about this kind of thing."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Admiral Screed",
+    "summary": "",
+    "tips": [
+      "A ship can only use Screed's ability once per activation. Not once per attack, as I sometimes see players believe it to be. So if you're getting more than one attack with a ship, you need to consider whether to use it on the first attack or save it for the second. If you need to keep track of whether you used it or not, I'd recommend using some kind of token or tapping and untapping Screed's card to keep it straight.",
+      "You need to spend a die before flipping another die to a side with the crit icon. Spent dice are removed from your pool and have no effect, so choose your sacrifice wisely.",
+      "This ability triggers during the Resolve Attack Effects step of attacking.",
+      "You should note that black dice have additional hits on their crit sides and so are extremely good recipients of this ability.",
+      "Yes, you can (and should, when possible) use Screed's ability this way. There's nothing in his text stopping you from flipping a die to a side with a crit icon and another icon."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Admiral Sloane",
+    "summary": "",
+    "tips": [
+      "Obviously she only affects non-Rogue squadrons (it's pretty straightforward there), so all plans of silliness with Firesprays or Decimators is unfortunately not going to work.",
+      "That's true whether they're activated in the Squadron Phase using Rogue or by a squadron command, there's no way around it.",
+      "This applies to all of Sloane's effects (both the reroll and spending defense tokens).",
+      "Remember that the critical icon reroll only applies when attacking a ship (not a squadron) and you may only reroll 1 die with the critical icon showing. In short, if your TIE Phantom rolls two critical icons against a ship, only 1 of them gets a reroll.",
+      "The spending defense tokens portion of Sloane's ability is easily the one most likely to cause arguments, so let's break it down:"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Review: Darth Vader",
+    "summary": "",
+    "tips": [
+      "Tenacious V's ability only works on ship versus ship attacks. You cannot use it while attacking squadrons.",
+      "It's a \"while\" ability, which means it tells you when it triggers and that you can do it one time during that window. You can't keep spending defense tokens to keep rerolling dice.",
+      "Spending a defense token works the same way as when you use it defensively - a green (readied) defense token turns to red (exhausted), a red defense token is discarded.",
+      "Vader's ability works during the Resolve Attack Effects step, so don't forget to use any effects that add dice (such as concentrate fire) prior to using Vader's ability - you can reroll any added dice that turn up blank (as well as your initial volley), which is quite helpful.",
+      "There are 4 different versions of Darth Vader in the game (dude gets around), and remember that you can't have more than one in any given fleet. So no Vader commander and Vader boarding team, for example."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Emperor Palpatine",
+    "summary": "",
+    "tips": [
+      "1 defense token of each type means even future defense tokens that don't exist yet (salvo, as a recent example) get roped in when they're released.",
+      "Because this happens after deploying fleets, if Palpatine isn't on the table just yet he does nothing at all. So don't put him on your Hyperspace Assault ship, please.",
+      "Start of the Ship Phase has a few things going on there (like fleet commands, for example, but also Han Solo and some objectives) but the important part is it's sandwiched between the end of the Command Phase (where you set dials) and before you start activating ships.",
+      "So long as Palpatine survives to the start of the Ship Phase to do his thing, the token he calls a hit out on will be debuffed for the entire round, even if his flagship is destroyed or he is discarded shortly afterwards.",
+      "Palpatine's called shot works on every token of that type spent during the Spend Defense Tokens step and only that step."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: General Romodi",
+    "summary": "",
+    "tips": [
+      "General Romodi only works on ship-on-ship attacks.",
+      "His effect will trigger on any amount of obstruction provided at least one source of obstruction was a ship or obstacle.",
+      "This means if your opponent's ship had obstruction from Early Warning System and General Cracken, Romodi is still obstructed like normal and has to drop one die. If it had obstruction from those two sources and an obstacle, then Romodi kicks in instead.",
+      "Remember that when Romodi works, you don't drop a die from obstruction and instead add 1 red die.",
+      "Adding the die is optional if for some reason you don't want to."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: General Tagge",
+    "summary": "After that, you need to try to set the game tempo correctly so Tagge isn't firing off prematurely or too late. Your opponent clearly is going to be keen on disrupting this tempo to trip you up so gene",
+    "tips": [
+      "You choose the round tokens after deploying fleets. This means if Tagge isn't on the table at that point, he literally does nothing.",
+      "So don't put him on your Hyperspace Assault ship is what I'm saying.",
+      "The round tokens can't be consecutive, so no rounds 4 and 5, for example.",
+      "This sucks, but we'll talk more about why soon.",
+      "Each of your ships recovers a single discarded defense token at the start of the rounds you chose."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Grand Admiral Thrawn",
+    "summary": "",
+    "tips": [
+      "Thrawn's dial stacking triggers after deploying fleets. That means that if he is for some reason not on the table at that point (perhaps he's on a ship that's set aside for Hyperspace Assault?) then he does literally nothing all game. So try not to do that.",
+      "The decision on which command dials you put in the stack cannot be changed later.",
+      "Handing out those dials afterwards triggers at the start of the Ship Phase and requires revealing and discarding the dial you want to use, reducing the size of the stack by one.",
+      "Once you have no dials left, Thrawn no longer does anything.",
+      "If Thrawn's ship is destroyed later in the round, he still keeps handing out the dial of the round to all his ships from beyond the grave."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Grand Moff Tarkin",
+    "summary": "",
+    "tips": [
+      "Grand Moff Tarkin's ability triggers at the start of the Ship Phase. This is after you've already assigned your command dials but before any ships are activated. If there are any other abilities that trigger at the same time (such as Han Solo's \"shoots first\" ability) remember that they are resolved in player order.",
+      "Remember that ships can't have more command tokens than their Command value and that you can't have duplicates of the same token. When you temporarily have more tokens than a ship can hold, you need to immediately choose which token(s) get discarded to make room.",
+      "Every ship in your fleet gets the same token. Sorry.",
+      "There are Sovereign ways around this, but by default it's everybody gets the same token.",
+      "Spamming navigate? Why not use Ozzel or Jerrjerrod for their superior speed/maneuverability abilities?"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Moff Jerjerrod",
+    "summary": "",
+    "tips": [
+      "Please note that by the most current errata, Moff Jerry's ability is now: \"While a friendly ship executes a maneuver, during the Determine Course",
+      "This means that you choose whether to use Moff Jerry for each maneuver a ship makes. If it gets multiple maneuvers (like with Engine Techs) then you will need to decide for each maneuver whether you wish to use him (and suffer damage) or not.",
+      "When a ship suffers damage but the effect doesn't stipulate to where, the owner of that ship decides. That means you should usually choose to do the damage to a hull zone with shields that isn't at risk of attack. The short version is: Moff Jerry's ability doesn't inherently deal you hull damage, which is a common misconception. It's usually best to deal the damage to a shielded hull zone instead and take off a shield.",
+      "That said, there can be advantages to damaging an unshielded hull zone if you've got Reinforced Blast Doors or Repair Crews ready to help.",
+      "Because damage must go to a hull zone, this means it is impossible to choose to do hull damage to your ship with Moff Jerjerrod so long as all your hull zones have shields, even if you want Jerry to deal hull damage. You'll need to pick a hull zone to deal the damage to and it hits shields first."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Know Your Enemy/Commander's Corner: Admiral Raddus!",
+    "summary": "",
+    "tips": [
+      "1 other friendly ship.  Which means if Raddus is on it, you can't set that aside FOR RADDUS'S ABILITY (other stuff, like Hyperspace Assault, are perfectly fine to set aside Raddus's ship on).",
+      "Command 3 or less: no Starhawks.  NO STARHAWKS, STOP IT.",
+      "Cannot be the first ship to"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Know Your Enemy/Commander's Corner: Garm bel Iblis",
+    "summary": "",
+    "tips": [
+      "Navigate Token - This is the default token most ships take Turn 1 (in a non-Garm list).  Eric and I have talked about how important",
+      "Repair - Repair is a strong choice.  Moving shields or bringing them back can keep ships of yours alive.  Not a",
+      "Squadrons - Put it on whatever carrier you need, or use it as a Boarding Team trigger."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Obstacle deployment: asteroids do not concern me, admiral!",
+    "summary": "",
+    "tips": [
+      "Obstacle deployment begins with the second player and then alternates back and forth until all obstacles are placed.",
+      "Obstacles must be deployed beyond distance 3 of the player edges and beyond distance 5 of the short edges (which are the borders of the \"setup area\").",
+      "Obstacles must be deployed beyond distance 1 of other obstacles.",
+      "The standard obstacles are 3 asteroid fields, 2 debris fields, and 1 space station.",
+      "There are some objectives that modify these parameters."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Admiral Trench",
+    "summary": "Sorry for the delay on getting this article out - I've been busy with a massive garden upgrade project involving 150 cubic feet of soil, Mother's Day, and my wife's birthday. Not a lot of downtime to ",
+    "tips": [
+      "You set the dials on his card once his ship is deployed during fleet deployment, just like every upgrade that has dials/tokens on it. If for some reason his ship isn't deployed during fleet deployment (like with Hyperspace Assault), you get no dials. Ever. So don't do that.",
+      "This is also when you choose the dials, so be careful as there's no take-backsies after he's deployed.",
+      "The order of the dials doesn't matter. You can choose whichever dial you like. There's no need to put them in a tower except to save space.",
+      "Because they're dials and not tokens, they're secret to your opponent until you use them to power Trench's ability.",
+      "He triggers at the start of the Ship Phase, so make sure to resolve him before anyone starts activating their ships."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Count Dooku",
+    "summary": "RulesThankfully, Dooku is pretty straightforward and his card explains how he works well. It wouldn't hurt to brush up on how raid tokens work, though.",
+    "tips": [
+      "Phylon Q7 Tractor Beams cause trouble for enemy ships once you raid them for navigate - the tractor beams zap off navigate tokens to make it difficult to remove the raid tokens and if they're not banking navigate tokens then you can slow them down and get them stuck there for a little while by lowering speed.",
+      "B2 Rocket Troopers take your fleet's raid token shenanigans and crank them to 11. Between Dooku and your BORT droids you can put a lot of raid out pretty quickly, especially on important targets.",
+      "Ion Storm. Removing objective tokens requires a repair command, which you can raid against. You can also use the effect of the objective to zap off command tokens that were going to be used next round to remove a raid token.",
+      "Surprise Attack. Howsabout assigning a total of 6 raid tokens to every enemy ship over the course of a game? Sounds good? Great.",
+      "Keep in mind the raid tokens from Surprise Attack are a set order and must be dealt out in rounds 1, 2, and 3. Dooku is optional. Whether you decide to piledrive enemy ships with a bunch of raid tokens early or keep a steady drip will depend on the circumstances. You don't want it to be too easy of a choice to remove all the raid tokens by sacrificing a dial, so generally once you get to 3 or 4 raid tokens on a ship, you've probably gone a bit too far."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: General Grievous",
+    "summary": "RulesNothing major to discuss, thankfully. Just make sure you keep the on-its-way-to-dead squadron or ship on the table before you remove it so you can measure from it for Grievous's effect. Once you'",
+    "tips": [
+      "The Beast of Burden title. Beast can spend its own defense tokens to ready other ship's defense tokens. This can be extremely handy at further recharging just-brought-back-from-the-dead defense tokens on your more frontline ships or you can overspend Beast's defense tokens themselves and bring them back later with Grievous. Either way, it provides even more defense token flexibility and utility for your fleet.",
+      "Battle Refit Hardcells with Turbolaser Reroute Circuits. Normally TRCs are not a great choice on ships with a single evade defense token because they can burn out very quickly. Here you can be a bit more aggressive with their use due to Grievous bringing them back. I wouldn't get too reckless, mind you, but depending on the circumstance there's nothing wrong with spending the evade to both power TRCs and as a proper defense token if you're confident you'll be bringing it back shortly."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Kraken",
+    "summary": "On to Separatist commander article number two: Kraken. I know I've got a good image around here somewhere...",
+    "tips": [
+      "I know it says it right there on the card, but this is once per activation. People sometimes forget this with other commanders like Screed so it bears repeating.",
+      "That said, much like Screed, this will work (once) during an opponent's activation if you are using an effect like salvo that allows you to attack during their activation.",
+      "Kraken only works against enemy ships, not squadrons.",
+      "Remember that measuring for everything but attacks is from plastic to plastic, so you may be at medium range of the defender with your spotter ship for purposes of helping but at long range for purposes of attacking (which is cardboard to cardboard).",
+      "No using Kraken to flip dice to faces with double icons, like the black hit+crit or red double-hit. Only single-icon faces count."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: Mar Tuuk",
+    "summary": "There are many contenders but the owner of the most punchable Separatist face has officially entered the building: give it up for Mar Tuuk!",
+    "tips": [
+      "The hull zone has at least one shield: add one red die.",
+      "The hull zone has no shields in that hull zone but has shields elsewhere: nothing happens.",
+      "The hull zone has no shields in any hull zone: remove one attack die.",
+      "When all redirect tokens are exhausted (red) unless the only place to redirect to is the final shielded hull zone, in which case it's not much of a choice.",
+      "If other attackers are lined up to go after a shieldless hull zone later in the round, depending on the number of available redirects. The defender will tend to prioritize keeping damage from sticking to the hull over a longer-term plan to run themselves completely out of shields."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "review: TF-1726",
+    "summary": "Because the BORT droids and TF-1726 have the same timing window, make sure to use the BORT droids first to add a raid token and then resolve TF-1726 to add the extra black dice.",
+    "tips": [
+      "Remember that he works once per activation, not once per attack.",
+      "While a salvo attack is an attack made in an activation (your opponent's), so effects like Screed can work on salvo, you can't add dice to a salvo attack so it doesn't actually matter for TF-1726.",
+      "Unless otherwise stated, add effects happen during the Resolve Attack Effects step of the attack sequence, which is when the bonus black dice kick in from TF-1726."
+    ],
+    "synergies": []
+  }
+]

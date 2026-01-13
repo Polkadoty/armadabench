@@ -1,0 +1,40 @@
+# Time for Tarkin
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2021/06/time-for-tarkin.html
+**Date:** 2021-06-18T07:00:00-05:00
+**Category:** general
+**Tags:** 
+
+---
+
+Now a better man than I would find a photoshopped version of young Tarkin for this article, or make a joke about this being the second Tarkin article, or a Daniel/the cooler Daniel meme reference. I am not that man.  Hit the jump for a breakdown of GAR Tarkin!
+
+The Card!
+
+RulesIt's time for your protagonist and definitely good guys yes sir-mandated education about a commander ability, bullet-points style!
+
+- Tarkin's ability triggers at the start of the Ship Phase. This is after you've already assigned your command dials but before any ships are activated. If there are any other abilities that trigger at the same time (such as Han Solo's "shoots first" ability) remember that they are resolved in player order.
+- Remember that ships can't have more command tokens than their Command value and that you can't have duplicates of the same token. When you temporarily have more tokens than a ship can hold, you need to immediately choose which token(s) get discarded to make room.
+- Every ship in your fleet gets the same token. Sorry.
+Why Play Him!
+
+You need to make some considerations about getting optimal use from his ability. Think of it this way: there's a rainstorm and you're trying to collect as much drinking water as possible. Is it better to use a few deep buckets or numerous shallow buckets? Maybe a mix of each? The correct answer depends a lot on how frequently those buckets can be emptied. Moving back to Armada and away from bucket-land, you run a real risk with Tarkin of providing tokens to ships that have no use for them or are already full up on tokens. With his second ability that lets you turn his commands into dials for his flagship, you can get around not having ships that want all of his tokens that turn. I wouldn't make it a full game habit, though. You're not going to do well with Tarkin on a Venator running a Charger swarm; you'd do well with the list in spite of him, if you did.The final consideration is opportunity cost: why Tarkin over a different commander? If you're planning to use Tarkin to simply spam a specific type of command throughout the game, you generally have better options for commander that do something better with that command.  Squadron spammers would want Plo or Yularen, while repair spam wants someone like Luminara or Obi-Wan to just reduce the incoming damage from what's hitting them.
+
+To really get use from Tarkin, you need a fleet where his token creation is consistently useful and rarely wasted but where you are doing something a more focused commander can't. There's a few ways to do this and I'd generally recommend trying to get as many of these features into a Tarkin fleet as possible:
+
+- Fleet command upgrades. Fleet command upgrades are very command-token hungry and Tarkin can feed them much easier than most of the other GAR commanders, especially with a helper Pelta friend.  Since they're command 2, it can take a token every other round and pass one to the flagship when it gets it; allowing Tarkin to power his own ship on turn X and the Pelta's token powering it on turn X+1. The fleet command also provides another universal buff to your fleet alongside Tarkin's, which can get rather strong.
+- Ships that are capable of meaningfully spending just about any kind of command token. For example, ships with red dice can usually spend concentrate fire tokens while attacking from long-range, even if it's just a throwaway attack. Including upgrades like Boosted Comms can allow ships with squadron tokens to spend those during their activation even if commanding squadrons isn't their usual use.
+- Make sure your Command 1 ships in particular are capable of utilizing the same token on the same turn, as otherwise they'll need to decide between keeping a previous turn's token and accepting the new one next turn. A bit of this will happen from time to time but when it's the norm, it's a big drain on Tarkin's efficacy. I agree with Eric, and I'll say that one Charger is fine but more starts to look like a very questionable decision to me.
+- Upgrades that trigger upon using commands. Upgrades like Engineering Teams, Projection Experts, Engine Techs, and Nav Teams all trigger whenever a command of their type is used and you can (and should!) try to abuse their abilities by "cheating" out these command types by using Tarkin-provided tokens.
+- This is particularly true of Gunnery Team in 1.5, which now works only after resolving a concentrate fire command, which Tarkin can trigger very easily with concentrate fire tokens.
+- SPHA-Ts, as mentioned above, definitely fall in this category for sure, and if you have some sort of dream of dual Venators each running them, well, go for Garkin.
+- Upgrades that consume tokens to ready, like Electronic Countermeasures or Slicer Tools.
+With a decreased cost for Tarkin amid a wave of slightly-nerfed bread-and-butter upgrades like Gunnery Team and Electronic Countermeasures requiring commands to use or command tokens to ready, Tarkin can really get some work done in a well-designed fleet, minimizing support bloat to keep your mainstay ships and their upgrades firing on all cylinders. The one thing that I've found from the GAR is a strong dependence on tokens for some of their most powerful upgrades and getting the most out of your ships. Tarkin lets you get away with a lot less of the token generating upgrades, which then allows space for either defensive or offensive ones in their place. If I don't need Clone Navigation Officer, as good as he is, I can fit in Clone Captain Zak or Captain Silver or Adi Gallia or maybe even Barriss Offee?  Proper planning prevents poor performance.... which is me saying plan your commands and dials for your fleet for the first few turns in an ideal world.  Not only will this help you figure out if you can cut some of those other token generating upgrades, it'll point you towards the commands you'll want on his card!
+
+Ships!
+
+Anything really works for him, though I'd steer you away from multiple Chargers.  Command 1 doesn't have the "buckets" to keep tokens significantly around for multiple uses each turn. Make sure whatever ships you end up choosing, you're able to get good use from Tarkin for multiple turns.  Luckily, most of the Republic ships are able/want to do several things a turn so giving them some upgrades to use the tokens will ensure you're getting good use out of Tarkin.  And fun note: The Resolute Venator title triggers off revealed Garkin commands used as dials, so it makes a great flagship to get even more tokens for use.  Tarkin also feeds you with a steady diet of concentrate fire tokens, so SPHA-Ts aren't a bad call with him for sure (as I realize I've said like 3 times, haha). Power them up one turn with your token, then use a Pelta to pass you another.  I'm not going to tell you not to do both Intensify Firepower! and SPHA-Ts with him, but that is a LOT of tokens you're going to need to power things up with, so test it out a few times before you take that to a tournament.
+
+Fleets!
+
+If you're building a fleet that specializes in spamming squadrons, you can generate tokens for squad commands much faster than Wulff Yularen, but his tokens do more. It's really a matter of what you're doing with the rest of your fleet, as I can promise you won't need 6 squadron commands for the game, so what are your other tokens doing? He does a great job powering up Intensify Firepower!, and notoriously unreliable red dice on GAR ships love having some dice modifications built in for them. He does very good with well-rounded fleets that are using the tokens to accentuate what the fleets need/want to do each turn.  The only major downside to him being so versatile is the fact that he is the costliest GAR commander, but what he allows you to cut can allow for much stronger fleets than you'd expect from him.  Give GARkin a go, gosh darnit!

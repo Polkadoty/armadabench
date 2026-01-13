@@ -1,0 +1,3739 @@
+{
+  "downloadedAt": "2026-01-13T22:32:13.805Z",
+  "totalArticles": 532,
+  "categories": {
+    "general": 328,
+    "fleet-building": 28,
+    "commanders": 42,
+    "upgrades": 42,
+    "squadrons": 52,
+    "ships": 20,
+    "tactics": 20
+  },
+  "articles": [
+    {
+      "title": "The Hunt for October Update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2025/03/the-hunt-for-october-update.html",
+      "date": "2025-03-31T08:26:00-05:00",
+      "category": "general",
+      "filename": "general/the-hunt-for-october-update.md"
+    },
+    {
+      "title": "Armada Independence Day",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/07/armada-independence-day.html",
+      "date": "2024-07-27T21:44:00-05:00",
+      "category": "general",
+      "filename": "general/armada-independence-day.md"
+    },
+    {
+      "title": "John's Catch-All Post",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/07/johns-catch-all-post.html",
+      "date": "2024-07-18T21:46:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-catch-all-post.md"
+    },
+    {
+      "title": "Armada's End: a Retrospective",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/07/armadas-end-retrospective.html",
+      "date": "2024-07-15T11:21:00-05:00",
+      "category": "general",
+      "filename": "general/armada-s-end-a-retrospective.md"
+    },
+    {
+      "title": "Ani Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/07/ani-updated.html",
+      "date": "2024-07-12T14:30:00-05:00",
+      "category": "general",
+      "filename": "general/ani-updated.md"
+    },
+    {
+      "title": "Draven Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/07/draven-updated.html",
+      "date": "2024-07-06T22:31:00-05:00",
+      "category": "general",
+      "filename": "general/draven-updated.md"
+    },
+    {
+      "title": "Xantos Worlds 2024 Write-Up",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/06/xantos-worlds-2024-write-up.html",
+      "date": "2024-06-29T23:35:00-05:00",
+      "category": "general",
+      "filename": "general/xantos-worlds-2024-write-up.md"
+    },
+    {
+      "title": "John Got Off His Butt!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2024/06/john-got-off-his-butt.html",
+      "date": "2024-06-29T23:25:00-05:00",
+      "category": "general",
+      "filename": "general/john-got-off-his-butt.md"
+    },
+    {
+      "title": "Raddus Rite-Up from Stewbucket! AKA Fleet Building 313A: A Blue Fish Case Study",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/09/raddus-rite-up-from-stewbucket-aka.html",
+      "date": "2023-09-10T20:28:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/raddus-rite-up-from-stewbucket-aka-fleet-building-313a-a-blue-fish-case-study.md"
+    },
+    {
+      "title": "LSO 2023 After Action Report - Kelorn",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/08/lso-2023-after-action-report-kelorn.html",
+      "date": "2023-08-01T21:05:00-05:00",
+      "category": "general",
+      "filename": "general/lso-2023-after-action-report-kelorn.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Davits Draven",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/06/know-your-enemycommanders-corner-davits.html",
+      "date": "2023-06-14T20:32:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-davits-draven.md"
+    },
+    {
+      "title": "Two RR Officers!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/05/two-rr-officers.html",
+      "date": "2023-05-23T20:51:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/two-rr-officers.md"
+    },
+    {
+      "title": "Four RR2 Squadrons!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/05/four-rr2-squadrons.html",
+      "date": "2023-05-17T20:39:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/four-rr2-squadrons.md"
+    },
+    {
+      "title": "You Underestimate My Power!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/05/you-underestimate-my-power.html",
+      "date": "2023-05-10T16:40:00-05:00",
+      "category": "general",
+      "filename": "general/you-underestimate-my-power.md"
+    },
+    {
+      "title": "Rapid Reinforcements 2 Announcement Post!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/05/rapid-reinforcements-2-announcement-post.html",
+      "date": "2023-05-04T20:16:00-05:00",
+      "category": "general",
+      "filename": "general/rapid-reinforcements-2-announcement-post.md"
+    },
+    {
+      "title": "Cannot Get Your Ship Out: the speed zero maneuver",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/bonjour-mon-amis-im-here-again-with.html",
+      "date": "2023-04-26T20:02:00-05:00",
+      "category": "general",
+      "filename": "general/cannot-get-your-ship-out-the-speed-zero-maneuver.md"
+    },
+    {
+      "title": "Xantos part 2!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/xantos-part-2.html",
+      "date": "2023-04-25T21:45:00-05:00",
+      "category": "general",
+      "filename": "general/xantos-part-2.md"
+    },
+    {
+      "title": "Truthi vs the World",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/truthi-vs-world.html",
+      "date": "2023-04-25T16:12:00-05:00",
+      "category": "general",
+      "filename": "general/truthi-vs-the-world.md"
+    },
+    {
+      "title": "James AKA Malador AKA Did John Get the Winner",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/james-aka-malador-aka-did-john-get.html",
+      "date": "2023-04-16T21:29:00-05:00",
+      "category": "general",
+      "filename": "general/james-aka-malador-aka-did-john-get-the-winner.md"
+    },
+    {
+      "title": "Gilarius and THE Sector Fleet Game!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/gilarius-and-sector-fleet-game.html",
+      "date": "2023-04-11T20:29:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/gilarius-and-the-sector-fleet-game.md"
+    },
+    {
+      "title": "Black Admiral's Worlds Write-Up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/black-admirals-worlds-write-up.html",
+      "date": "2023-04-03T16:40:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/black-admiral-s-worlds-write-up.md"
+    },
+    {
+      "title": "Armada Worlds 2023 LCQ Recap: Xantos1159",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/04/armada-worlds-2023-lcq-recap-xantos1159.html",
+      "date": "2023-04-02T21:08:00-05:00",
+      "category": "general",
+      "filename": "general/armada-worlds-2023-lcq-recap-xantos1159.md"
+    },
+    {
+      "title": "Armada World Championship Recap: Biggs - Or \"How I Learned To Stop Worrying and Love the Crab Bucket\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/03/armada-world-championship-recap-biggs.html",
+      "date": "2023-03-31T15:35:00-05:00",
+      "category": "general",
+      "filename": "general/armada-world-championship-recap-biggs-or-how-i-learned-to-stop-worrying-and-love.md"
+    },
+    {
+      "title": "Armada Worlds Updates! Shirts! Food! Drinks!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/03/armada-worlds-updates-shirts-food-drinks.html",
+      "date": "2023-03-20T21:19:00-05:00",
+      "category": "general",
+      "filename": "general/armada-worlds-updates-shirts-food-drinks.md"
+    },
+    {
+      "title": "One Day More (Shirts Update!)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/02/one-day-more-shirts-update.html",
+      "date": "2023-02-20T20:46:00-06:00",
+      "category": "general",
+      "filename": "general/one-day-more-shirts-update.md"
+    },
+    {
+      "title": "Worlds Shirts Update!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/02/worlds-shirts-update.html",
+      "date": "2023-02-16T20:44:00-06:00",
+      "category": "general",
+      "filename": "general/worlds-shirts-update.md"
+    },
+    {
+      "title": "Worlds Shirts 2023",
+      "url": "https://cannotgetyourshipout.blogspot.com/2023/02/worlds-shirts-2023.html",
+      "date": "2023-02-14T21:24:00-06:00",
+      "category": "general",
+      "filename": "general/worlds-shirts-2023.md"
+    },
+    {
+      "title": "GAR and CIS Starters!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/11/gar-and-cis-starters.html",
+      "date": "2022-11-13T19:09:00-06:00",
+      "category": "general",
+      "filename": "general/gar-and-cis-starters.md"
+    },
+    {
+      "title": "Kelorn Day 2! Return of the Guest Post!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/11/kelorn-day-2-return-of-guest-post.html",
+      "date": "2022-11-13T17:02:00-06:00",
+      "category": "general",
+      "filename": "general/kelorn-day-2-return-of-the-guest-post.md"
+    },
+    {
+      "title": "Kelorn Guest Post Golden State Games (part 1)!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/11/kelorn-guest-post-golden-state-games.html",
+      "date": "2022-11-13T16:45:00-06:00",
+      "category": "general",
+      "filename": "general/kelorn-guest-post-golden-state-games-part-1.md"
+    },
+    {
+      "title": "C-ROC CIS Gozanti",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/09/geek-again-in-my-traditional-blue.html",
+      "date": "2022-09-06T12:38:00-05:00",
+      "category": "general",
+      "filename": "general/c-roc-cis-gozanti.md"
+    },
+    {
+      "title": "Keep Exploding You Cowards: Trials and Tribulations of a Grievous Fleet",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/09/keep-exploding-you-cowards-trials-and.html",
+      "date": "2022-09-01T08:00:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/keep-exploding-you-cowards-trials-and-tribulations-of-a-grievous-fleet.md"
+    },
+    {
+      "title": "Imperial Venator (Jotto Otts Guest Post)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/08/imperial-venator-jotto-otts-guest-post.html",
+      "date": "2022-08-07T18:04:00-05:00",
+      "category": "general",
+      "filename": "general/imperial-venator-jotto-otts-guest-post.md"
+    },
+    {
+      "title": "Hey Look Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/07/hey-look-updates.html",
+      "date": "2022-07-29T16:58:00-05:00",
+      "category": "general",
+      "filename": "general/hey-look-updates.md"
+    },
+    {
+      "title": "New Blogger Added!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/07/new-blogger-added.html",
+      "date": "2022-07-28T17:23:00-05:00",
+      "category": "general",
+      "filename": "general/new-blogger-added.md"
+    },
+    {
+      "title": "Dumpster Fire the Faction: Musing on Building Republic Fleets",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/06/dumpster-fire-faction-musing-on.html",
+      "date": "2022-06-04T18:22:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/dumpster-fire-the-faction-musing-on-building-republic-fleets.md"
+    },
+    {
+      "title": "Imperial commander review: Moff Jerjerrod",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-commander-review-moff-jerjerrod.html",
+      "date": "2022-06-04T13:19:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-moff-jerjerrod.md"
+    },
+    {
+      "title": "CIS-Cast!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/06/cis-cast.html",
+      "date": "2022-06-02T23:35:00-05:00",
+      "category": "general",
+      "filename": "general/cis-cast.md"
+    },
+    {
+      "title": "Rebel Providence!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/05/rebel-providence.html",
+      "date": "2022-05-29T19:44:00-05:00",
+      "category": "general",
+      "filename": "general/rebel-providence.md"
+    },
+    {
+      "title": "The GAR Victory!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/05/the-gar-victory.html",
+      "date": "2022-05-15T07:01:00-05:00",
+      "category": "ships",
+      "filename": "ships/the-gar-victory.md"
+    },
+    {
+      "title": "Hera and Anakin Actually in articles!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/05/hera-and-anakin-added-to-articles-and.html",
+      "date": "2022-05-06T15:31:00-05:00",
+      "category": "general",
+      "filename": "general/hera-and-anakin-actually-in-articles.md"
+    },
+    {
+      "title": "The Adepticon Write-Up Part II: Who's the Bossk",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/05/the-adepticon-write-up-part-ii-whos.html",
+      "date": "2022-05-01T22:34:00-05:00",
+      "category": "general",
+      "filename": "general/the-adepticon-write-up-part-ii-who-s-the-bossk.md"
+    },
+    {
+      "title": "Jank Army of the Republic Podcast Companion",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/04/jank-army-of-republic-podcast-companion.html",
+      "date": "2022-04-27T10:46:00-05:00",
+      "category": "general",
+      "filename": "general/jank-army-of-the-republic-podcast-companion.md"
+    },
+    {
+      "title": "The Adepticon Write-Up Part 1",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/04/the-adepticon-write-up-part-1.html",
+      "date": "2022-04-12T18:46:00-05:00",
+      "category": "general",
+      "filename": "general/the-adepticon-write-up-part-1.md"
+    },
+    {
+      "title": "Rapid Reinforcements Hot Takes",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/04/rapid-reinforcements-hot-takes.html",
+      "date": "2022-04-08T10:27:00-05:00",
+      "category": "general",
+      "filename": "general/rapid-reinforcements-hot-takes.md"
+    },
+    {
+      "title": "Who's the Bossk SECRET RULESET",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/03/whos-bossk-secret-ruleset.html",
+      "date": "2022-03-21T18:55:00-05:00",
+      "category": "general",
+      "filename": "general/who-s-the-bossk-secret-ruleset.md"
+    },
+    {
+      "title": "More Experimentation",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/03/more-experimentation.html",
+      "date": "2022-03-04T15:58:00-06:00",
+      "category": "general",
+      "filename": "general/more-experimentation.md"
+    },
+    {
+      "title": "Dipping My Toes Back In",
+      "url": "https://cannotgetyourshipout.blogspot.com/2022/02/dipping-my-toes-back-in.html",
+      "date": "2022-02-08T19:56:00-06:00",
+      "category": "general",
+      "filename": "general/dipping-my-toes-back-in.md"
+    },
+    {
+      "title": "BIG Holiday Tournament!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/12/big-holiday-tournament.html",
+      "date": "2021-12-02T23:19:00-06:00",
+      "category": "general",
+      "filename": "general/big-holiday-tournament.md"
+    },
+    {
+      "title": "Guest post: “A Frank Correspondence on the Future of Armada”",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/09/guest-post-frank-correspondence-on.html",
+      "date": "2021-09-09T21:59:00-05:00",
+      "category": "general",
+      "filename": "general/guest-post-a-frank-correspondence-on-the-future-of-armada.md"
+    },
+    {
+      "title": "Introducing the Armada Nuzlocke League",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/09/introducing-armada-nuzlocke-league.html",
+      "date": "2021-09-01T15:20:00-05:00",
+      "category": "general",
+      "filename": "general/introducing-the-armada-nuzlocke-league.md"
+    },
+    {
+      "title": "The Sum of All Things",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/08/the-sum-of-all-things.html",
+      "date": "2021-08-26T09:59:00-05:00",
+      "category": "general",
+      "filename": "general/the-sum-of-all-things.md"
+    },
+    {
+      "title": "FUNDAMENTALS OF TACTICS - GiledPallaeon Guest Post",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/07/fundamentals-of-tactics-giledpallaeon.html",
+      "date": "2021-07-30T10:43:00-05:00",
+      "category": "tactics",
+      "filename": "tactics/fundamentals-of-tactics-giledpallaeon-guest-post.md"
+    },
+    {
+      "title": "Un-named Armada Podcast 41: waves 5 and 6 retrospection",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/07/un-named-armada-podcast-41-waves-5-and.html",
+      "date": "2021-07-20T08:27:00-05:00",
+      "category": "general",
+      "filename": "general/un-named-armada-podcast-41-waves-5-and-6-retrospection.md"
+    },
+    {
+      "title": "Highlander Format! Games Start July 24th!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/07/highlander-format-games-start-july-24th.html",
+      "date": "2021-07-11T08:38:00-05:00",
+      "category": "general",
+      "filename": "general/highlander-format-games-start-july-24th.md"
+    },
+    {
+      "title": "Episode 40 of the BIG Unnamed Armada Podcast is available",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/episode-40-of-big-unnamed-armada.html",
+      "date": "2021-06-24T09:46:00-05:00",
+      "category": "general",
+      "filename": "general/episode-40-of-the-big-unnamed-armada-podcast-is-available.md"
+    },
+    {
+      "title": "Eric updates 6/22",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/eric-updates-622.html",
+      "date": "2021-06-22T14:58:00-05:00",
+      "category": "general",
+      "filename": "general/eric-updates-6-22.md"
+    },
+    {
+      "title": "Separatist ship review: Providence-class Dreadnought",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/separatist-ship-review-providence-class.html",
+      "date": "2021-06-22T14:55:00-05:00",
+      "category": "ships",
+      "filename": "ships/separatist-ship-review-providence-class-dreadnought.md"
+    },
+    {
+      "title": "Separatist commander review: General Grievous",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/separatist-commander-review-general.html",
+      "date": "2021-06-22T08:41:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-general-grievous.md"
+    },
+    {
+      "title": "Separatist commander review: Admiral Trench",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/separatist-commander-review-admiral.html",
+      "date": "2021-06-22T08:36:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-admiral-trench.md"
+    },
+    {
+      "title": "Separatist commander review: Kraken",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-commander-review-kraken.html",
+      "date": "2021-06-22T08:32:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-kraken.md"
+    },
+    {
+      "title": "Separatist commander review: TF-1726",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/separatist-commander-review-tf-1726.html",
+      "date": "2021-06-18T16:39:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-tf-1726.md"
+    },
+    {
+      "title": "Acclamator Ahoy!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/acclamator-ahoy.html",
+      "date": "2021-06-18T10:30:00-05:00",
+      "category": "general",
+      "filename": "general/acclamator-ahoy.md"
+    },
+    {
+      "title": "Clone Officers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/clone-officers.html",
+      "date": "2021-06-18T10:00:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/clone-officers.md"
+    },
+    {
+      "title": "GAR Specific Upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/gar-specific-upgrades.html",
+      "date": "2021-06-18T09:50:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/gar-specific-upgrades.md"
+    },
+    {
+      "title": "Pelta and Tarkin and Yularen OH MY!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/a-series-of-links-compiled-into-one.html",
+      "date": "2021-06-18T08:54:00-05:00",
+      "category": "general",
+      "filename": "general/pelta-and-tarkin-and-yularen-oh-my.md"
+    },
+    {
+      "title": "catch all",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/catch-all.html",
+      "date": "2021-06-18T08:30:00-05:00",
+      "category": "general",
+      "filename": "general/catch-all.md"
+    },
+    {
+      "title": "2 Pelta 2 Furious!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/2-pelta-2-furious.html",
+      "date": "2021-06-18T08:00:00-05:00",
+      "category": "general",
+      "filename": "general/2-pelta-2-furious.md"
+    },
+    {
+      "title": "You'll Love Yularen",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/youll-love-yularen.html",
+      "date": "2021-06-18T07:30:00-05:00",
+      "category": "general",
+      "filename": "general/you-ll-love-yularen.md"
+    },
+    {
+      "title": "Time for Tarkin",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/time-for-tarkin.html",
+      "date": "2021-06-18T07:00:00-05:00",
+      "category": "general",
+      "filename": "general/time-for-tarkin.md"
+    },
+    {
+      "title": "Charger Coming In!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/charger-coming-in.html",
+      "date": "2021-06-17T22:30:00-05:00",
+      "category": "general",
+      "filename": "general/charger-coming-in.md"
+    },
+    {
+      "title": "Separatist commander review: Mar Tuuk",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/separatist-commander-review-mar-tuuk.html",
+      "date": "2021-06-17T12:44:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-mar-tuuk.md"
+    },
+    {
+      "title": "Separatist ship review: Recusant-class Destroyer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/separatist-ship-review-recusant-class.html",
+      "date": "2021-06-15T21:27:00-05:00",
+      "category": "general",
+      "filename": "general/separatist-ship-review-recusant-class-destroyer.md"
+    },
+    {
+      "title": "Obstacle deployment: asteroids do not concern me, admiral!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/obstacle-deployment-asteroids-do-not.html",
+      "date": "2021-06-15T10:05:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/obstacle-deployment-asteroids-do-not-concern-me-admiral.md"
+    },
+    {
+      "title": "john 6/13 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/john-613-updates.html",
+      "date": "2021-06-13T21:04:00-05:00",
+      "category": "general",
+      "filename": "general/john-6-13-updates.md"
+    },
+    {
+      "title": "MC75: Your Big New Friend!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/mc75.html",
+      "date": "2021-06-13T21:00:00-05:00",
+      "category": "general",
+      "filename": "general/mc75-your-big-new-friend.md"
+    },
+    {
+      "title": "H1MC80: Space Hoagie of DOOOOOOM!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/h1mc80-space-hoagie-of-doooooom.html",
+      "date": "2021-06-13T21:00:00-05:00",
+      "category": "ships",
+      "filename": "ships/h1mc80-space-hoagie-of-doooooom.md"
+    },
+    {
+      "title": "There's a Starhawk, Waiting in the Sky.....",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/theres-starhawk-waiting-in-sky.html",
+      "date": "2021-06-13T21:00:00-05:00",
+      "category": "general",
+      "filename": "general/there-s-a-starhawk-waiting-in-the-sky.md"
+    },
+    {
+      "title": "John Updates 6/11",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/john-updates-611.html",
+      "date": "2021-06-11T23:08:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-6-11.md"
+    },
+    {
+      "title": "Blissfully Ignorant Gaming!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/blissfully-ignorant-gaming.html",
+      "date": "2021-06-10T23:37:00-05:00",
+      "category": "general",
+      "filename": "general/blissfully-ignorant-gaming.md"
+    },
+    {
+      "title": "Separatist Officers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-officers.html",
+      "date": "2021-06-07T16:48:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/separatist-officers.md"
+    },
+    {
+      "title": "Recusant Separatist Officers Added to the Separatist Officers article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/recusant-separatist-officers-added-to.html",
+      "date": "2021-06-07T16:48:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/recusant-separatist-officers-added-to-the-separatist-officers-article.md"
+    },
+    {
+      "title": "One-Stop Shop for Sunday Links!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/one-stop-shop-for-sunday-links.html",
+      "date": "2021-06-05T23:23:00-05:00",
+      "category": "general",
+      "filename": "general/one-stop-shop-for-sunday-links.md"
+    },
+    {
+      "title": "Venator Vidi Vici!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/venator-vidi-vici.html",
+      "date": "2021-06-05T23:19:00-05:00",
+      "category": "general",
+      "filename": "general/venator-vidi-vici.md"
+    },
+    {
+      "title": "Providence article updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/06/providence-article-updated.html",
+      "date": "2021-06-02T09:01:00-05:00",
+      "category": "general",
+      "filename": "general/providence-article-updated.md"
+    },
+    {
+      "title": "DBY Updated and Added!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/dby-updated-and-added.html",
+      "date": "2021-05-31T21:50:00-05:00",
+      "category": "general",
+      "filename": "general/dby-updated-and-added.md"
+    },
+    {
+      "title": "Eric article updates 5/30",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/eric-article-updates-530.html",
+      "date": "2021-05-30T13:50:00-05:00",
+      "category": "general",
+      "filename": "general/eric-article-updates-5-30.md"
+    },
+    {
+      "title": "Imperial ship review: Imperial-class Star Destroyer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-ship-review-imperial-class.html",
+      "date": "2021-05-30T13:49:00-05:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-imperial-class-star-destroyer.md"
+    },
+    {
+      "title": "Separatist ship review: Munificent-class frigate",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-ship-review-munificent-class.html",
+      "date": "2021-05-30T12:26:00-05:00",
+      "category": "ships",
+      "filename": "ships/separatist-ship-review-munificent-class-frigate.md"
+    },
+    {
+      "title": "Separatist ship review: Hardcell transport",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-ship-review-hardcell.html",
+      "date": "2021-05-30T10:39:00-05:00",
+      "category": "general",
+      "filename": "general/separatist-ship-review-hardcell-transport.md"
+    },
+    {
+      "title": "Separatist commander review: Count Dooku",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-commander-review-count-dooku.html",
+      "date": "2021-05-30T09:05:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/separatist-commander-review-count-dooku.md"
+    },
+    {
+      "title": "Imperial ship review: Interdictor cruiser",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/imperial-ship-review-interdictor-cruiser.html",
+      "date": "2021-05-30T08:59:00-05:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-interdictor-cruiser.md"
+    },
+    {
+      "title": "Where's my Ven Article, John?",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/wheres-my-ven-article-john.html",
+      "date": "2021-05-28T14:00:00-05:00",
+      "category": "general",
+      "filename": "general/where-s-my-ven-article-john.md"
+    },
+    {
+      "title": "The Power of Plo Koon",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/the-power-of-plo-koon.html",
+      "date": "2021-05-28T10:00:00-05:00",
+      "category": "general",
+      "filename": "general/the-power-of-plo-koon.md"
+    },
+    {
+      "title": "Flak Guns added to Offensive Retrofits",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/flak-guns-added-to-offensive-retrofits.html",
+      "date": "2021-05-28T08:00:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/flak-guns-added-to-offensive-retrofits.md"
+    },
+    {
+      "title": "The Ever Present Luminarticle!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/the-ever-present-luminarticle.html",
+      "date": "2021-05-28T06:00:00-05:00",
+      "category": "general",
+      "filename": "general/the-ever-present-luminarticle.md"
+    },
+    {
+      "title": "Who's the Bossk Followup!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/whos-bossk-followup.html",
+      "date": "2021-05-07T15:08:00-05:00",
+      "category": "general",
+      "filename": "general/who-s-the-bossk-followup.md"
+    },
+    {
+      "title": "Quick Update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/05/quick-update.html",
+      "date": "2021-05-07T11:04:00-05:00",
+      "category": "general",
+      "filename": "general/quick-update.md"
+    },
+    {
+      "title": "Invisible Hand upgrades added, articles updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/04/invisible-hand-upgrades-added-articles.html",
+      "date": "2021-04-30T13:19:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/invisible-hand-upgrades-added-articles-updated.md"
+    },
+    {
+      "title": "Ion cannon upgrades: she blinded me with science!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/ion-cannon-upgrades-she-blinded-me-with.html",
+      "date": "2021-04-30T13:18:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/ion-cannon-upgrades-she-blinded-me-with-science.md"
+    },
+    {
+      "title": "Separatist-specific upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-specific-upgrades.html",
+      "date": "2021-04-30T10:44:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/separatist-specific-upgrades.md"
+    },
+    {
+      "title": "Wave Ten Rulings!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/04/wave-ten-rulings.html",
+      "date": "2021-04-29T16:44:00-05:00",
+      "category": "general",
+      "filename": "general/wave-ten-rulings.md"
+    },
+    {
+      "title": "Public service announcement: list and ship build critiques and upcoming wave 10",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/04/public-service-announcement-list-and.html",
+      "date": "2021-04-16T15:56:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/public-service-announcement-list-and-ship-build-critiques-and-upcoming-wave-10.md"
+    },
+    {
+      "title": "Fighting Fleets: Obliterating Onagers!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/04/fighting-fleets-obliterating-onagers.html",
+      "date": "2021-04-11T17:35:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-obliterating-onagers.md"
+    },
+    {
+      "title": "Who's the Bossk Inaugural Tournament",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/04/whos-bossk-inaugural-tournament.html",
+      "date": "2021-04-01T00:13:00-05:00",
+      "category": "general",
+      "filename": "general/who-s-the-bossk-inaugural-tournament.md"
+    },
+    {
+      "title": "Cool Games You Should Own: Marvel Champions",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/02/cool-games-you-should-own-marvel.html",
+      "date": "2021-02-16T12:42:00-06:00",
+      "category": "general",
+      "filename": "general/cool-games-you-should-own-marvel-champions.md"
+    },
+    {
+      "title": "Interdictor update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/02/interdictor-update.html",
+      "date": "2021-02-11T15:02:00-06:00",
+      "category": "general",
+      "filename": "general/interdictor-update.md"
+    },
+    {
+      "title": "CGYSO turns 4 years old and wave 10 articles",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/cgyso-turns-4-years-old-and-wave-10.html",
+      "date": "2021-01-26T09:08:00-06:00",
+      "category": "general",
+      "filename": "general/cgyso-turns-4-years-old-and-wave-10-articles.md"
+    },
+    {
+      "title": "1.5 conjecture on squadron points changes",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/15-conjecture-on-squadron-points-changes.html",
+      "date": "2021-01-22T16:00:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/1-5-conjecture-on-squadron-points-changes.md"
+    },
+    {
+      "title": "1.5 conjecture on ship points changes",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/15-conjecture-on-ship-points-changes.html",
+      "date": "2021-01-15T15:23:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/1-5-conjecture-on-ship-points-changes.md"
+    },
+    {
+      "title": "john 1/10 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/john-110-updates.html",
+      "date": "2021-01-10T19:45:00-06:00",
+      "category": "general",
+      "filename": "general/john-1-10-updates.md"
+    },
+    {
+      "title": "RitR Finale: The Future of RitR",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/11/ritr-finale-future-of-ritr.html",
+      "date": "2021-01-10T19:42:00-06:00",
+      "category": "general",
+      "filename": "general/ritr-finale-the-future-of-ritr.md"
+    },
+    {
+      "title": "Rebellion in the Rim PENULTIMA: The Undiscovered Country",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/10/rebellion-in-rim-penultima-undiscovered.html",
+      "date": "2021-01-10T19:41:00-06:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-penultima-the-undiscovered-country.md"
+    },
+    {
+      "title": "Rebellion in the Rim Article 9,058: Actually Fighting",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/08/rebellion-in-rim-article-9058-actually.html",
+      "date": "2021-01-10T19:32:00-06:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-article-9-058-actually-fighting.md"
+    },
+    {
+      "title": "Rebellion in the Rim 6 Special: It's Not Easy Playing Green",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/08/rebellion-in-rim-6-special-its-not-easy.html",
+      "date": "2021-01-10T19:15:00-06:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-6-special-it-s-not-easy-playing-green.md"
+    },
+    {
+      "title": "ReyLo in the Rim 5 - A Good Day To Play Hard",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/reylo-in-rim-5-good-day-to-play-hard.html",
+      "date": "2021-01-10T18:57:00-06:00",
+      "category": "general",
+      "filename": "general/reylo-in-the-rim-5-a-good-day-to-play-hard.md"
+    },
+    {
+      "title": "RitR 4: Picking Planets and the Goblet of Fire",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/ritr-4-picking-planets-and-goblet-of.html",
+      "date": "2021-01-10T18:40:00-06:00",
+      "category": "general",
+      "filename": "general/ritr-4-picking-planets-and-the-goblet-of-fire.md"
+    },
+    {
+      "title": "RitR 3: Mygeeto Drift - Team Work Makes the Teams Work",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/ritr-3-mygeeto-drift-team-work-makes.html",
+      "date": "2021-01-10T17:47:00-06:00",
+      "category": "general",
+      "filename": "general/ritr-3-mygeeto-drift-team-work-makes-the-teams-work.md"
+    },
+    {
+      "title": "2 Rebellion 2 Rim: Basic Fleet Building and Starting Your Campaign",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/06/2-rebellion-2-rim-basic-fleet-building.html",
+      "date": "2021-01-10T17:42:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/2-rebellion-2-rim-basic-fleet-building-and-starting-your-campaign.md"
+    },
+    {
+      "title": "Rebellion in the Rim: Promoting Cross-Blog Synergy!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/06/rebellion-in-rim-promoting-cross-blog.html",
+      "date": "2021-01-10T17:16:00-06:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-promoting-cross-blog-synergy.md"
+    },
+    {
+      "title": "Gaming Online: Vassal and TTS!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/04/gaming-online-vassal-and-tts.html",
+      "date": "2021-01-10T16:33:00-06:00",
+      "category": "general",
+      "filename": "general/gaming-online-vassal-and-tts.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Kyrsta Agate",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/know-your-enemycommanders-corner-kyrsta.html",
+      "date": "2021-01-10T16:26:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-kyrsta-agate.md"
+    },
+    {
+      "title": "Painting Your Ships",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/06/painting-your-ships_14.html",
+      "date": "2021-01-10T16:14:00-06:00",
+      "category": "general",
+      "filename": "general/painting-your-ships.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Admiral Raddus!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/know-your-enemycommanders-corner.html",
+      "date": "2021-01-10T13:56:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-admiral-raddus.md"
+    },
+    {
+      "title": "john updates 1/5",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/john-updates-15.html",
+      "date": "2021-01-06T00:01:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-1-5.md"
+    },
+    {
+      "title": "Prohibitively Expensive? Han, Hera, Costs, and Usage",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/prohibitively-expensive-han-hera-costs.html",
+      "date": "2021-01-05T23:53:00-06:00",
+      "category": "general",
+      "filename": "general/prohibitively-expensive-han-hera-costs-and-usage.md"
+    },
+    {
+      "title": "Strategic Play!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/strategic-play.html",
+      "date": "2021-01-05T23:53:00-06:00",
+      "category": "general",
+      "filename": "general/strategic-play.md"
+    },
+    {
+      "title": "Learning from Losing 2: How to Git Gud, Scrub",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/learning-from-losing-2-how-to-git-gud.html",
+      "date": "2021-01-05T23:53:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/learning-from-losing-2-how-to-git-gud-scrub.md"
+    },
+    {
+      "title": "Pass tokens: a how-to for those who wish to not-do",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/pass-tokens-how-to-for-those-who-wish.html",
+      "date": "2021-01-05T17:32:00-06:00",
+      "category": "general",
+      "filename": "general/pass-tokens-a-how-to-for-those-who-wish-to-not-do.md"
+    },
+    {
+      "title": "Eric 1.5 updates finally finished",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/eric-15-updates-finally-finished.html",
+      "date": "2021-01-03T14:48:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-updates-finally-finished.md"
+    },
+    {
+      "title": "The Spend Defense Tokens Step and the Fine Art of Not Dying",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/the-spend-defense-tokens-step-and-fine.html",
+      "date": "2021-01-03T14:47:00-06:00",
+      "category": "general",
+      "filename": "general/the-spend-defense-tokens-step-and-the-fine-art-of-not-dying.md"
+    },
+    {
+      "title": "Imperial ship review: Onager-class Star Destroyer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/imperial-ship-review-onager-class-star.html",
+      "date": "2021-01-03T11:06:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-onager-class-star-destroyer.md"
+    },
+    {
+      "title": "Imperial commander review: General Romodi",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/imperial-commander-review-general-romodi.html",
+      "date": "2021-01-02T17:28:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-general-romodi.md"
+    },
+    {
+      "title": "Imperial commander review: Emperor Palpatine",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/imperial-commander-review-emperor.html",
+      "date": "2021-01-02T16:27:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-emperor-palpatine.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Piett",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/10/imperial-commander-review-admiral-piett.html",
+      "date": "2021-01-02T15:27:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-piett.md"
+    },
+    {
+      "title": "Imperial ship review: Super Star Destroyer/Star Dreadnought",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/super-star-destroyerstar-dreadnought.html",
+      "date": "2021-01-02T15:23:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-super-star-destroyer-star-dreadnought.md"
+    },
+    {
+      "title": "Eric 1.5 updates New Years Eve and New Years Day",
+      "url": "https://cannotgetyourshipout.blogspot.com/2021/01/eric-15-updates-new-years-eve-and-new.html",
+      "date": "2021-01-01T15:35:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-updates-new-years-eve-and-new-years-day.md"
+    },
+    {
+      "title": "Yellow (defense) objectives, Rebellion in the Rim",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/yellow-defense-objectives-rebellion-in.html",
+      "date": "2021-01-01T15:34:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/yellow-defense-objectives-rebellion-in-the-rim.md"
+    },
+    {
+      "title": "Blue (navigation) objectives, Rebellion in the Rim",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/blue-navigation-objectives-rebellion-in.html",
+      "date": "2021-01-01T11:24:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/blue-navigation-objectives-rebellion-in-the-rim.md"
+    },
+    {
+      "title": "Red (assault) objectives, Rebellion in the Rim",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/red-assault-objectives-rebellion-in-rim.html",
+      "date": "2021-01-01T10:33:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/red-assault-objectives-rebellion-in-the-rim.md"
+    },
+    {
+      "title": "Imperial commander review: Grand Admiral Thrawn",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/imperial-commander-review-grand-admiral.html",
+      "date": "2020-12-31T11:48:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-grand-admiral-thrawn.md"
+    },
+    {
+      "title": "Imperial squadron review: Mandalorian Gauntlet Fighter",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/imperial-squadron-review-mandalorian.html",
+      "date": "2020-12-31T11:26:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-mandalorian-gauntlet-fighter.md"
+    },
+    {
+      "title": "Eric updates 12/30",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-updates-1230.html",
+      "date": "2020-12-30T22:10:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-12-30.md"
+    },
+    {
+      "title": "Fleet building 201: Swarm/MSU",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/09/fleet-building-201-swarmmsu.html",
+      "date": "2020-12-30T22:07:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fleet-building-201-swarm-msu.md"
+    },
+    {
+      "title": "Fleet building 201: Heavy Squadron",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/fleet-building-201-heavy-squadron.html",
+      "date": "2020-12-30T16:46:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/fleet-building-201-heavy-squadron.md"
+    },
+    {
+      "title": "Fleet building 201: Big Heavy",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/fleet-building-201-big-heavy.html",
+      "date": "2020-12-30T11:18:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fleet-building-201-big-heavy.md"
+    },
+    {
+      "title": "Fleet building 201: Archetype guidelines",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/fleet-building-201-archetype-guidelines.html",
+      "date": "2020-12-30T09:49:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/fleet-building-201-archetype-guidelines.md"
+    },
+    {
+      "title": "Cannot Get Your Ship Out: the speed zero maneuver",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/updates-for-today-anti-flotillas-minor.html",
+      "date": "2020-12-29T21:44:00-06:00",
+      "category": "general",
+      "filename": "general/cannot-get-your-ship-out-the-speed-zero-maneuver.md"
+    },
+    {
+      "title": "Fighting Fleets: Swatting Swarms/MSU",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/fighting-fleets-swatting-swarms.html",
+      "date": "2020-12-29T21:44:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-swatting-swarms-msu.md"
+    },
+    {
+      "title": "Overlapping, or \"demolition derby in space\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/overlapping-or-demolition-derby-in-space.html",
+      "date": "2020-12-29T09:48:00-06:00",
+      "category": "general",
+      "filename": "general/overlapping-or-demolition-derby-in-space.md"
+    },
+    {
+      "title": "Fighting Fleets: Cancelling Conga Lines",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/fighting-fleets-cancelling-conga-lines.html",
+      "date": "2020-12-29T09:12:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-cancelling-conga-lines.md"
+    },
+    {
+      "title": "Fighting Fleets: Flushing Flotillas",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/fighting-fleets-flushing-flotillas.html",
+      "date": "2020-12-29T09:00:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-flushing-flotillas.md"
+    },
+    {
+      "title": "Eric 1.5 article updates 12/28",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-15-article-updates-1228.html",
+      "date": "2020-12-28T16:44:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-article-updates-12-28.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Sloane",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/imperial-commander-review-admiral-sloane.html",
+      "date": "2020-12-28T16:42:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-sloane.md"
+    },
+    {
+      "title": "Boarding team upgrades (weapon team + offensive retrofit)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/boarding-team-upgrades-weapon-team.html",
+      "date": "2020-12-28T12:55:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/boarding-team-upgrades-weapon-team-offensive-retrofit.md"
+    },
+    {
+      "title": "Commands in Armada",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/commands-in-armada.html",
+      "date": "2020-12-28T12:31:00-06:00",
+      "category": "general",
+      "filename": "general/commands-in-armada.md"
+    },
+    {
+      "title": "Imperial ship review: Quasar Fire Cruiser-Carrier",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/imperial-ship-review-quasar-fire.html",
+      "date": "2020-12-28T11:28:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-quasar-fire-cruiser-carrier.md"
+    },
+    {
+      "title": "Eric article updates 12/26",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-article-updates-1226.html",
+      "date": "2020-12-26T16:27:00-06:00",
+      "category": "general",
+      "filename": "general/eric-article-updates-12-26.md"
+    },
+    {
+      "title": "Imperial officers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/imperial-officers.html",
+      "date": "2020-12-26T16:26:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/imperial-officers.md"
+    },
+    {
+      "title": "Offensive retrofits: I'm offensive, how about you?",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/offensive-retrofits-im-offensive-how.html",
+      "date": "2020-12-24T14:33:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/offensive-retrofits-i-m-offensive-how-about-you.md"
+    },
+    {
+      "title": "Eric minor Christmas Eve updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-minor-christmas-eve-updates.html",
+      "date": "2020-12-24T14:33:00-06:00",
+      "category": "general",
+      "filename": "general/eric-minor-christmas-eve-updates.md"
+    },
+    {
+      "title": "Yellow (defense) objectives, wave five",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/yellow-defense-objectives-wave-five.html",
+      "date": "2020-12-24T13:09:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/yellow-defense-objectives-wave-five.md"
+    },
+    {
+      "title": "Blue (navigation) objectives, wave five",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/blue-navigation-objectives-wave-five.html",
+      "date": "2020-12-24T12:50:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/blue-navigation-objectives-wave-five.md"
+    },
+    {
+      "title": "Red (assault) objectives, wave 5",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/red-assault-objectives-wave-5.html",
+      "date": "2020-12-24T12:33:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/red-assault-objectives-wave-5.md"
+    },
+    {
+      "title": "john 12/23",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1223.html",
+      "date": "2020-12-23T14:38:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-23.md"
+    },
+    {
+      "title": "Hammerheads: Costco Brand Raiders!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/hammerheads-costco-brand-raiders.html",
+      "date": "2020-12-23T14:38:00-06:00",
+      "category": "general",
+      "filename": "general/hammerheads-costco-brand-raiders.md"
+    },
+    {
+      "title": "Toryn Farr: A Rebel Haiku",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/toryn-farr-rebel-haiku.html",
+      "date": "2020-12-23T13:50:00-06:00",
+      "category": "general",
+      "filename": "general/toryn-farr-a-rebel-haiku.md"
+    },
+    {
+      "title": "\"I remember when this show was about community college\" - Building Your Community",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/i-remember-when-this-show-was-about.html",
+      "date": "2020-12-23T13:36:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/i-remember-when-this-show-was-about-community-college-building-your-community.md"
+    },
+    {
+      "title": "Theme Music and You: How to PROPERLY Play Admiral Raddus",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/theme-music-and-you-how-to-properly.html",
+      "date": "2020-12-23T13:30:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/theme-music-and-you-how-to-properly-play-admiral-raddus.md"
+    },
+    {
+      "title": "Fighting Fleets: Whale Hunting",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/fighting-fleets-whale-hunting.html",
+      "date": "2020-12-23T13:21:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-whale-hunting.md"
+    },
+    {
+      "title": "JOHN 12/22 -",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1222.html",
+      "date": "2020-12-22T16:43:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-22.md"
+    },
+    {
+      "title": "Fleet Command ACTUAL Post!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/fleet-command-actual-post.html",
+      "date": "2020-12-22T16:40:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fleet-command-actual-post.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Leia Organa",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/know-your-enemycommanders-corner-leia.html",
+      "date": "2020-12-22T12:25:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-leia-organa.md"
+    },
+    {
+      "title": "Rebel Officers!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/rebel-officers.html",
+      "date": "2020-12-22T11:29:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/rebel-officers.md"
+    },
+    {
+      "title": "Generic Officer Friends!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/generic-officer-friends.html",
+      "date": "2020-12-22T10:57:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/generic-officer-friends.md"
+    },
+    {
+      "title": "The Best Defensive Retrofits....",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/the-best-defensive-retrofits.html",
+      "date": "2020-12-22T10:20:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/the-best-defensive-retrofits.md"
+    },
+    {
+      "title": "Support Team Upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/support-team-upgrades.html",
+      "date": "2020-12-22T09:51:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/support-team-upgrades.md"
+    },
+    {
+      "title": "john 12/19 and 12/20",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1219-and-1220.html",
+      "date": "2020-12-21T15:15:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-19-and-12-20.md"
+    },
+    {
+      "title": "Eric article updates 12/20",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-article-updates-1220.html",
+      "date": "2020-12-20T15:54:00-06:00",
+      "category": "general",
+      "filename": "general/eric-article-updates-12-20.md"
+    },
+    {
+      "title": "Weapon team upgrades: the best defense is a good offense",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/weapon-team-upgrades-best-defense-is.html",
+      "date": "2020-12-20T15:52:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/weapon-team-upgrades-the-best-defense-is-a-good-offense.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Phantom",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-squadron-review-tie-phantom.html",
+      "date": "2020-12-20T11:14:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-phantom.md"
+    },
+    {
+      "title": "Imperial squadron review: VT-49 Decimator",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-squadron-review-vt-49-decimator.html",
+      "date": "2020-12-20T11:03:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-vt-49-decimator.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Defender",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-squadron-review-tie-defender.html",
+      "date": "2020-12-20T10:45:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-defender.md"
+    },
+    {
+      "title": "Imperial squadron review: Lambda-class Shuttle",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-squadron-review-lambda-class.html",
+      "date": "2020-12-20T10:31:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-lambda-class-shuttle.md"
+    },
+    {
+      "title": "Imperial ship review: Arquitens Light Cruiser",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/imperial-ship-review-arquitens-light.html",
+      "date": "2020-12-20T10:03:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-arquitens-light-cruiser.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Jun Sato",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/know-your-enemycommanders-corner-jun.html",
+      "date": "2020-12-19T23:26:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-jun-sato.md"
+    },
+    {
+      "title": "Alpha Beta Charlie PELTA!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/alpha-beta-charlie-pelta.html",
+      "date": "2020-12-19T22:44:00-06:00",
+      "category": "general",
+      "filename": "general/alpha-beta-charlie-pelta.md"
+    },
+    {
+      "title": "Commander's Corner/Know Your Enemy: Crix Madine",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/commanders-cornerknow-your-enemy-crix.html",
+      "date": "2020-12-19T18:33:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/commander-s-corner-know-your-enemy-crix-madine.md"
+    },
+    {
+      "title": "john 12/17 and 12/18",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1217-and-1218.html",
+      "date": "2020-12-19T00:43:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-17-and-12-18.md"
+    },
+    {
+      "title": "LMC80: Battle Cruise Crazy (Just Be Glad It's Him, Not You)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/lmc80-battle-cruise-crazy-just-be-glad.html",
+      "date": "2020-12-19T00:42:00-06:00",
+      "category": "ships",
+      "filename": "ships/lmc80-battle-cruise-crazy-just-be-glad-it-s-him-not-you.md"
+    },
+    {
+      "title": "Turbolaser Upgrades: Or \"Knowing is Half the Battle!\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/turbolaser-upgrades-or-knowing-is-half.html",
+      "date": "2020-12-18T23:28:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/turbolaser-upgrades-or-knowing-is-half-the-battle.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Konstantine",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/imperial-commander-review-admiral.html",
+      "date": "2020-12-18T18:59:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-konstantine.md"
+    },
+    {
+      "title": "Eric 1.5 updates 12/18",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-15-updates-1218.html",
+      "date": "2020-12-18T18:59:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-updates-12-18.md"
+    },
+    {
+      "title": "Gear up for battle: Armada peripherals for the player looking to upgrade their game and storage",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/gear-up-for-battle-armada-peripherals.html",
+      "date": "2020-12-18T11:53:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/gear-up-for-battle-armada-peripherals-for-the-player-looking-to-upgrade-their-ga.md"
+    },
+    {
+      "title": "Black dice: blowing up enemy ships for fun and profit!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/black-dice-blowing-up-enemy-ships-for.html",
+      "date": "2020-12-18T10:00:00-06:00",
+      "category": "general",
+      "filename": "general/black-dice-blowing-up-enemy-ships-for-fun-and-profit.md"
+    },
+    {
+      "title": "General Airen Cracken: Know Your Enemy/Commander's Corner",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/general-airen-cracken-know-your.html",
+      "date": "2020-12-17T22:59:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/general-airen-cracken-know-your-enemy-commander-s-corner.md"
+    },
+    {
+      "title": "GR75s: We All Float Down Here",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/gr75s-we-all-float-down-here.html",
+      "date": "2020-12-17T22:02:00-06:00",
+      "category": "general",
+      "filename": "general/gr75s-we-all-float-down-here.md"
+    },
+    {
+      "title": "Eric 12/16 and 12/17 article updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-1216-and-1217-article-updates.html",
+      "date": "2020-12-17T16:20:00-06:00",
+      "category": "general",
+      "filename": "general/eric-12-16-and-12-17-article-updates.md"
+    },
+    {
+      "title": "Fleet building 101: the basics of fleet building",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/the-basics-of-fleet-building.html",
+      "date": "2020-12-17T16:18:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/fleet-building-101-the-basics-of-fleet-building.md"
+    },
+    {
+      "title": "Imperial commander review: General Tagge",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/imperial-commander-review-general-tagge.html",
+      "date": "2020-12-17T15:24:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-general-tagge.md"
+    },
+    {
+      "title": "The attack sequence and you!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/the-attack-sequence-and-you.html",
+      "date": "2020-12-17T12:55:00-06:00",
+      "category": "general",
+      "filename": "general/the-attack-sequence-and-you.md"
+    },
+    {
+      "title": "Bidding for initiative/Mailbox #3",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/bidding-for-initiativemailbox-3.html",
+      "date": "2020-12-17T12:52:00-06:00",
+      "category": "general",
+      "filename": "general/bidding-for-initiative-mailbox-3.md"
+    },
+    {
+      "title": "John 12/16 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1216-updates.html",
+      "date": "2020-12-17T00:09:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-16-updates.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Admiral Gial Ackbar",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/know-your-enemycommanders-corner.html",
+      "date": "2020-12-17T00:07:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-admiral-gial-ackbar.md"
+    },
+    {
+      "title": "Imperial ship review: Gozanti Cruisers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/imperial-ship-review-gozanti-cruisers_28.html",
+      "date": "2020-12-16T22:06:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-gozanti-cruisers.md"
+    },
+    {
+      "title": "Fleet Support upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/fleet-support-upgrades.html",
+      "date": "2020-12-16T21:21:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/fleet-support-upgrades.md"
+    },
+    {
+      "title": "John Updates 12/15",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-updates-1215.html",
+      "date": "2020-12-15T23:40:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-15.md"
+    },
+    {
+      "title": "MC30: The Curse of the Flying Hellfish!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/mc30-curse-of-flying-hellfish.html",
+      "date": "2020-12-15T23:39:00-06:00",
+      "category": "general",
+      "filename": "general/mc30-the-curse-of-the-flying-hellfish.md"
+    },
+    {
+      "title": "Eric updates 12/15/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-updates-12152020.html",
+      "date": "2020-12-15T16:17:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-12-15-2020.md"
+    },
+    {
+      "title": "Building an Imperial fleet on the cheap: the $250 challenge",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/building-imperial-fleet-on-cheap-250.html",
+      "date": "2020-12-15T16:16:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/building-an-imperial-fleet-on-the-cheap-the-250-challenge.md"
+    },
+    {
+      "title": "Armada objectives: yellow objectives, wave one",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/armada-objectives-yellow-objectives.html",
+      "date": "2020-12-15T13:43:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/armada-objectives-yellow-objectives-wave-one.md"
+    },
+    {
+      "title": "Armada objectives: blue objectives, wave one",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/armada-objectives-blue-objectives-wave.html",
+      "date": "2020-12-15T11:15:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/armada-objectives-blue-objectives-wave-one.md"
+    },
+    {
+      "title": "Armada objectives: red objectives, wave one",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/armada-objectives-red-objectives-wave.html",
+      "date": "2020-12-15T10:48:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/armada-objectives-red-objectives-wave-one.md"
+    },
+    {
+      "title": "Armada objectives introduction",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/armada-objectives-introduction.html",
+      "date": "2020-12-15T09:56:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/armada-objectives-introduction.md"
+    },
+    {
+      "title": "John 12/13 and 12/14",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1213-and-1214.html",
+      "date": "2020-12-14T23:57:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-13-and-12-14.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Mon Mothma",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/know-your-enemycommanders-corner-mon.html",
+      "date": "2020-12-14T23:56:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-mon-mothma.md"
+    },
+    {
+      "title": "Eric updates 12/14/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-updates-12142020.html",
+      "date": "2020-12-14T23:43:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-12-14-2020.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Ozzel",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/imperial-commander-review-admiral-ozzel.html",
+      "date": "2020-12-14T23:42:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-ozzel.md"
+    },
+    {
+      "title": "Imperial ship review: Raider Corvette",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/imperial-ship-review-raider-corvette.html",
+      "date": "2020-12-14T16:32:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-raider-corvette.md"
+    },
+    {
+      "title": "Imperial Commander Review: Darth Vader",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-commander-review-darth-vader.html",
+      "date": "2020-12-14T09:42:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-darth-vader.md"
+    },
+    {
+      "title": "Assault Frigate: Generalist Space Potato",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/assault-frigate-generalist-space-potato.html",
+      "date": "2020-12-14T00:22:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/assault-frigate-generalist-space-potato.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Garm bel Iblis",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/know-your-enemycommanders-corner-garm.html",
+      "date": "2020-12-13T23:48:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-garm-bel-iblis.md"
+    },
+    {
+      "title": "Eric updates 12/13/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-updates-12132020.html",
+      "date": "2020-12-13T22:37:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-12-13-2020.md"
+    },
+    {
+      "title": "Imperial squadron review: Firespray-31",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-firespray-31.html",
+      "date": "2020-12-13T12:11:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-firespray-31.md"
+    },
+    {
+      "title": "Imperial squadron review: YV-666, or \"garbage trucks from outer space\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-yv-666-or.html",
+      "date": "2020-12-13T11:37:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-yv-666-or-garbage-trucks-from-outer-space.md"
+    },
+    {
+      "title": "Imperial squadron review: Aggressor Assault Fighter or \"attack of the space ticks\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-aggressor.html",
+      "date": "2020-12-13T11:25:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-aggressor-assault-fighter-or-attack-of-the-space-ticks.md"
+    },
+    {
+      "title": "Imperial squadron review: Jumpmaster 5000",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-jumpmaster-5000.html",
+      "date": "2020-12-13T11:06:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-jumpmaster-5000.md"
+    },
+    {
+      "title": "Imperial ship review: Gladiator-class Star Destroyer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-ship-review-gladiator-class.html",
+      "date": "2020-12-13T09:59:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-gladiator-class-star-destroyer.md"
+    },
+    {
+      "title": "Ordnance upgrades review, or \"how I learned to stop worrying and love the bomb\"",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/ordnance-upgrades-review-or-how-i.html",
+      "date": "2020-12-12T16:46:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/ordnance-upgrades-review-or-how-i-learned-to-stop-worrying-and-love-the-bomb.md"
+    },
+    {
+      "title": "John 12/11 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1211-updates.html",
+      "date": "2020-12-11T23:47:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-11-updates.md"
+    },
+    {
+      "title": "Building a Fleet for Cheap 2: Rebel Boogaloo!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/building-fleet-for-cheap-2-rebel.html",
+      "date": "2020-12-11T17:12:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/building-a-fleet-for-cheap-2-rebel-boogaloo.md"
+    },
+    {
+      "title": "Rebel Specific Upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/rebel-specific-upgrades.html",
+      "date": "2020-12-11T15:26:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/rebel-specific-upgrades.md"
+    },
+    {
+      "title": "Rebel Squadron Groups",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/rebel-squadron-groups.html",
+      "date": "2020-12-11T15:16:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/rebel-squadron-groups.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia 4: Large Fighter Coverage",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/squadrons-encyclopedia-4-large-fighter.html",
+      "date": "2020-12-10T23:54:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-4-large-fighter-coverage.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia Chapter 5: Actually Attacking Ships!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/squadrons-encyclopedia-chapter-7.html",
+      "date": "2020-12-10T23:54:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-chapter-5-actually-attacking-ships.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia 6: Fighting (Squadron Heavy) Fleets and Running Squadronless",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/squadron-encyclopedia-9-running.html",
+      "date": "2020-12-10T23:54:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-6-fighting-squadron-heavy-fleets-and-running-squadronless.md"
+    },
+    {
+      "title": "John 12/10 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-1210-updates.html",
+      "date": "2020-12-10T23:54:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-10-updates.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia 3: Medium Fighter Coverage!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/squadrons-encyclopedia-3-medium-fighter.html",
+      "date": "2020-12-10T23:53:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-3-medium-fighter-coverage.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia 2: Small Fighter Coverage",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/squadrons-encyclopedia-2-small-fighter.html",
+      "date": "2020-12-10T23:53:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-2-small-fighter-coverage.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia Chapter 1: Basics and Definitions",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/squadrons-encyclopedia-chapter-1-basics.html",
+      "date": "2020-12-10T23:53:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-chapter-1-basics-and-definitions.md"
+    },
+    {
+      "title": "Squadrons Encyclopedia II: An Introduction (READ ME FIRST IF NEW!)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/squadron-roles-and-basic-thoughts.html",
+      "date": "2020-12-10T23:53:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadrons-encyclopedia-ii-an-introduction-read-me-first-if-new.md"
+    },
+    {
+      "title": "Nebulon Bs! Jousting for Fun and Profit",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/nebulon-bs-jousting-for-fun-and-profit.html",
+      "date": "2020-12-10T23:51:00-06:00",
+      "category": "ships",
+      "filename": "ships/nebulon-bs-jousting-for-fun-and-profit.md"
+    },
+    {
+      "title": "Eric updates 12/10/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-updates-12102020.html",
+      "date": "2020-12-10T21:09:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-12-10-2020.md"
+    },
+    {
+      "title": "Squadron keywords/mailbox #2",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/squadron-keywordsmailbox-2.html",
+      "date": "2020-12-10T17:31:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadron-keywords-mailbox-2.md"
+    },
+    {
+      "title": "John 12/9 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-129-updates.html",
+      "date": "2020-12-09T23:13:00-06:00",
+      "category": "general",
+      "filename": "general/john-12-9-updates.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Jan Dodonna",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/know-your-enemycommanders-corner-jan.html",
+      "date": "2020-12-09T23:11:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-jan-dodonna.md"
+    },
+    {
+      "title": "CR90 Corvette: Everyone's First Ship",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/cr90-corvette-everyones-first-ship.html",
+      "date": "2020-12-09T23:11:00-06:00",
+      "category": "ships",
+      "filename": "ships/cr90-corvette-everyone-s-first-ship.md"
+    },
+    {
+      "title": "Know Your Enemy/Commander's Corner: Carlist Rieekan",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/know-your-enemycommanders-corner.html",
+      "date": "2020-12-09T23:11:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/know-your-enemy-commander-s-corner-carlist-rieekan.md"
+    },
+    {
+      "title": "Eric 1.5 article updates 12/9/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-15-article-updates-1292020.html",
+      "date": "2020-12-09T16:34:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-article-updates-12-9-2020.md"
+    },
+    {
+      "title": "Imperial ship review: Victory-class Star Destroyer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-ship-review-victory-class-star.html",
+      "date": "2020-12-09T16:33:00-06:00",
+      "category": "ships",
+      "filename": "ships/imperial-ship-review-victory-class-star-destroyer.md"
+    },
+    {
+      "title": "Imperial commander review: Grand Moff Tarkin",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-commander-review-grand-moff.html",
+      "date": "2020-12-09T14:08:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-grand-moff-tarkin.md"
+    },
+    {
+      "title": "John Updates 12/8/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/john-updates-1282020.html",
+      "date": "2020-12-09T00:25:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-8-2020.md"
+    },
+    {
+      "title": "Wave 5 Squadrons: VCX-100",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/wave-5-squadrons-vcx-100.html",
+      "date": "2020-12-09T00:25:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/wave-5-squadrons-vcx-100.md"
+    },
+    {
+      "title": "Z95s: Baby's First Starfighter",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/z95s-babys-first-starfighter.html",
+      "date": "2020-12-09T00:25:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/z95s-baby-s-first-starfighter.md"
+    },
+    {
+      "title": "\"Lock S-foils in Attack Position\" - The Mighty X-Wing Fighter!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/lock-s-foils-in-attack-position-mighty.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/lock-s-foils-in-attack-position-the-mighty-x-wing-fighter.md"
+    },
+    {
+      "title": "Lancer Pursuit Craft",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/lancer-pursuit-craft.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "general",
+      "filename": "general/lancer-pursuit-craft.md"
+    },
+    {
+      "title": "E-wings! Or: John gets whiny about Star Wars lore!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/e-wings-or-john-gets-whiny-about-star.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "general",
+      "filename": "general/e-wings-or-john-gets-whiny-about-star-wars-lore.md"
+    },
+    {
+      "title": "YT-2400s: Fear the Angry Frisbees!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/yt-2400s-fear-angry-frisbees.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/yt-2400s-fear-the-angry-frisbees.md"
+    },
+    {
+      "title": "YT-1300s: The Magnificent 7 (Health)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/yt-1300s-magnificent-7-health.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "general",
+      "filename": "general/yt-1300s-the-magnificent-7-health.md"
+    },
+    {
+      "title": "Scurrgs: Space Manatees!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/scurrgs-space-manatees.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "general",
+      "filename": "general/scurrgs-space-manatees.md"
+    },
+    {
+      "title": "HWK-290s",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/hwk-290s-and-jan-ors-intel-squadrons.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "general",
+      "filename": "general/hwk-290s.md"
+    },
+    {
+      "title": "\"Stay on target...\" - The Y Wing Starfighter",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/stay-on-target-y-wing-starfighter.html",
+      "date": "2020-12-09T00:24:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/stay-on-target-the-y-wing-starfighter.md"
+    },
+    {
+      "title": "B-Wings: Doom Turtles!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/b-wings-doom-turtles.html",
+      "date": "2020-12-09T00:23:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/b-wings-doom-turtles.md"
+    },
+    {
+      "title": "A Wings: Jumping Off the Deck, Shove it into Overdrive",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/a-wings-jumping-off-deck-shove-it-into.html",
+      "date": "2020-12-09T00:23:00-06:00",
+      "category": "general",
+      "filename": "general/a-wings-jumping-off-the-deck-shove-it-into-overdrive.md"
+    },
+    {
+      "title": "Imperial-specific upgrades",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/imperial-specific-upgrades.html",
+      "date": "2020-12-08T23:19:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/imperial-specific-upgrades.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Screed",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-commander-review-admiral-screed.html",
+      "date": "2020-12-08T22:52:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-screed.md"
+    },
+    {
+      "title": "Imperial commander review: Admiral Motti",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-commander-review-admiral-motti.html",
+      "date": "2020-12-08T21:55:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-review-admiral-motti.md"
+    },
+    {
+      "title": "Eric 1.5 updated articles and timestamp changes going forward 12/8/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/eric-15-updated-articles-and-timestamp.html",
+      "date": "2020-12-08T17:48:00-06:00",
+      "category": "general",
+      "filename": "general/eric-1-5-updated-articles-and-timestamp-changes-going-forward-12-8-2020.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Interceptor",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-tie-interceptor.html",
+      "date": "2020-12-08T17:44:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-interceptor.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Bomber",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-tie-bomber.html",
+      "date": "2020-12-08T17:30:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-bomber.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Advanced",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/imperial-squadron-review-tie-advanced.html",
+      "date": "2020-12-08T17:20:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-advanced.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Fighter aces",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/imperial-squadron-review-tie-fighter.html",
+      "date": "2020-12-08T17:17:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-fighter-aces.md"
+    },
+    {
+      "title": "Imperial squadron review: TIE Fighters",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/imperial-squadron-review-tie-fighters.html",
+      "date": "2020-12-08T17:08:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-review-tie-fighters.md"
+    },
+    {
+      "title": "Imperial Squadron Groups",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/imperial-squadron-groups.html",
+      "date": "2020-12-07T20:15:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-squadron-groups.md"
+    },
+    {
+      "title": "Separatist squadron groups",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-squadron-groups.html",
+      "date": "2020-12-06T13:49:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/separatist-squadron-groups.md"
+    },
+    {
+      "title": "Separatist squadron review: Vulture-class Droid Fighters",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-squadron-review-vulture.html",
+      "date": "2020-12-05T15:03:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/separatist-squadron-review-vulture-class-droid-fighters.md"
+    },
+    {
+      "title": "Merry Shipsmas!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/merry-shipsmas.html",
+      "date": "2020-12-04T07:08:00-06:00",
+      "category": "general",
+      "filename": "general/merry-shipsmas.md"
+    },
+    {
+      "title": "Separatist squadron review: Droid Tri-Fighters",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-squadron-review-droid-tri.html",
+      "date": "2020-12-04T07:04:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/separatist-squadron-review-droid-tri-fighters.md"
+    },
+    {
+      "title": "Separatist squadron review: Hyena-class Droid Bombers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-squadron-review-hyena-class.html",
+      "date": "2020-12-04T07:04:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/separatist-squadron-review-hyena-class-droid-bombers.md"
+    },
+    {
+      "title": "Separatist squadron review: Belbullab-22 Starfighters",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/separatist-squadron-review-belbullab-22.html",
+      "date": "2020-12-04T07:03:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/separatist-squadron-review-belbullab-22-starfighters.md"
+    },
+    {
+      "title": "Republic Squadrons - Y-Wing",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/republic-squadrons-y-wing.html",
+      "date": "2020-12-04T00:33:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/republic-squadrons-y-wing.md"
+    },
+    {
+      "title": "Republic Squadrons - Deltas and Jedi",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/republic-squadrons-deltas-and-jedi.html",
+      "date": "2020-12-04T00:33:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/republic-squadrons-deltas-and-jedi.md"
+    },
+    {
+      "title": "GAR squad groups",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/gar-squad-groups.html",
+      "date": "2020-12-04T00:33:00-06:00",
+      "category": "general",
+      "filename": "general/gar-squad-groups.md"
+    },
+    {
+      "title": "Republic Squadrons - V19",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/republic-squadrons-v19.html",
+      "date": "2020-12-04T00:33:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/republic-squadrons-v19.md"
+    },
+    {
+      "title": "Republic Squadrons - ARC-170",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/republic-squadrons-arc-170.html",
+      "date": "2020-12-04T00:33:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/republic-squadrons-arc-170.md"
+    },
+    {
+      "title": "Bail Organa",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/bail-organa.html",
+      "date": "2020-12-04T00:32:00-06:00",
+      "category": "general",
+      "filename": "general/bail-organa.md"
+    },
+    {
+      "title": "Obi Wan",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/obi-wan.html",
+      "date": "2020-12-04T00:32:00-06:00",
+      "category": "general",
+      "filename": "general/obi-wan.md"
+    },
+    {
+      "title": "Fleet support article updated for wave 9",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/12/fleet-support-article-updated-for-wave-9.html",
+      "date": "2020-12-03T16:47:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fleet-support-article-updated-for-wave-9.md"
+    },
+    {
+      "title": "Incredibly Speculative Thoughts on the 1.5 Changes Article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/incredibly-speculative-thoughts-on.html",
+      "date": "2020-12-02T10:46:00-06:00",
+      "category": "general",
+      "filename": "general/incredibly-speculative-thoughts-on-the-1-5-changes-article.md"
+    },
+    {
+      "title": "A Semi-Serious Note",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/11/a-semi-serious-note.html",
+      "date": "2020-11-10T20:00:00-06:00",
+      "category": "general",
+      "filename": "general/a-semi-serious-note.md"
+    },
+    {
+      "title": "2 million page views!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/09/2-million-page-views.html",
+      "date": "2020-09-21T17:41:00-05:00",
+      "category": "general",
+      "filename": "general/2-million-page-views.md"
+    },
+    {
+      "title": "Let's talk about Clone Wars spoilers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/lets-talk-about-clone-wars-spoilers.html",
+      "date": "2020-07-31T15:46:00-05:00",
+      "category": "general",
+      "filename": "general/let-s-talk-about-clone-wars-spoilers.md"
+    },
+    {
+      "title": "Comment settings updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/07/comment-settings-updated.html",
+      "date": "2020-07-03T21:06:00-05:00",
+      "category": "general",
+      "filename": "general/comment-settings-updated.md"
+    },
+    {
+      "title": "Rebellion in the Rim Campaign and a Glimpse Behind the Process",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/05/rebellion-in-rim-campaign-and-glimpse.html",
+      "date": "2020-05-06T18:08:00-05:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-campaign-and-a-glimpse-behind-the-process.md"
+    },
+    {
+      "title": "John Updates 4/9!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/04/john-updates-49.html",
+      "date": "2020-04-09T01:01:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-4-9.md"
+    },
+    {
+      "title": "3/5 Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/03/35-updates.html",
+      "date": "2020-03-05T22:20:00-06:00",
+      "category": "general",
+      "filename": "general/3-5-updates.md"
+    },
+    {
+      "title": "3/3 Updates from John!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/03/33-updates-from-john.html",
+      "date": "2020-03-03T22:56:00-06:00",
+      "category": "general",
+      "filename": "general/3-3-updates-from-john.md"
+    },
+    {
+      "title": "Eric article updates post-FAQ 3/3/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/03/eric-article-updates-post-faq-332020.html",
+      "date": "2020-03-03T19:28:00-06:00",
+      "category": "general",
+      "filename": "general/eric-article-updates-post-faq-3-3-2020.md"
+    },
+    {
+      "title": "John Updates 3/2/2020",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/03/john-updates-322020.html",
+      "date": "2020-03-02T23:33:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-3-2-2020.md"
+    },
+    {
+      "title": "3/2/2020 Armada FAQ update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/03/322020-armada-faq-update.html",
+      "date": "2020-03-02T16:16:00-06:00",
+      "category": "general",
+      "filename": "general/3-2-2020-armada-faq-update.md"
+    },
+    {
+      "title": "Wave 8 Imperial ship article updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/wave-8-imperial-ship-article-updates.html",
+      "date": "2020-02-20T23:28:00-06:00",
+      "category": "general",
+      "filename": "general/wave-8-imperial-ship-article-updates.md"
+    },
+    {
+      "title": "Wave 8 Rebel Officers!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/wave-8-rebel-officers.html",
+      "date": "2020-02-09T22:24:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/wave-8-rebel-officers.md"
+    },
+    {
+      "title": "Turbolasers Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/turbolasers-updated.html",
+      "date": "2020-02-04T23:15:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/turbolasers-updated.md"
+    },
+    {
+      "title": "Wave 8 upgrades: weapon teams",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/wave-8-upgrades-weapon-teams.html",
+      "date": "2020-02-02T12:38:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/wave-8-upgrades-weapon-teams.md"
+    },
+    {
+      "title": "Wave 8 upgrades: flag bridge",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/wave-8-upgrades-flag-bridge.html",
+      "date": "2020-02-02T09:43:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/wave-8-upgrades-flag-bridge.md"
+    },
+    {
+      "title": "Eric was on the Steel Strategy podcast",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/02/eric-was-on-steel-strategy-podcast.html",
+      "date": "2020-02-02T09:26:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/eric-was-on-the-steel-strategy-podcast.md"
+    },
+    {
+      "title": "Wave 8 upgrades: Imperial officers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/wave-8-upgrades-imperial-officers.html",
+      "date": "2020-01-31T22:18:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/wave-8-upgrades-imperial-officers.md"
+    },
+    {
+      "title": "John Updates 1/26",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/john-updates-126.html",
+      "date": "2020-01-26T15:45:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-1-26.md"
+    },
+    {
+      "title": "Fleet Building 301: Damage synergy",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/fleet-building-301-damage-synergy.html",
+      "date": "2020-01-23T21:11:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fleet-building-301-damage-synergy.md"
+    },
+    {
+      "title": "The Denouement!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/the-denouement.html",
+      "date": "2020-01-05T22:40:00-06:00",
+      "category": "general",
+      "filename": "general/the-denouement.md"
+    },
+    {
+      "title": "Cross-Blog Synergistic Promotional Movement to Fix the Paradigm",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/cross-blog-synergistic-promotional.html",
+      "date": "2020-01-02T17:23:00-06:00",
+      "category": "general",
+      "filename": "general/cross-blog-synergistic-promotional-movement-to-fix-the-paradigm.md"
+    },
+    {
+      "title": "Rebel Commanders!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2020/01/rebel-commanders.html",
+      "date": "2020-01-02T00:19:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/rebel-commanders.md"
+    },
+    {
+      "title": "Upgrades... upgraded!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/upgrades-upgraded.html",
+      "date": "2019-12-29T09:41:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/upgrades-upgraded.md"
+    },
+    {
+      "title": "Minor Squadron Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/minor-squadron-updates.html",
+      "date": "2019-12-27T20:48:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/minor-squadron-updates.md"
+    },
+    {
+      "title": "MC75 Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/mc75-updated.html",
+      "date": "2019-12-25T15:14:00-06:00",
+      "category": "general",
+      "filename": "general/mc75-updated.md"
+    },
+    {
+      "title": "Hammerhead Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/hammerhead-updated.html",
+      "date": "2019-12-24T11:35:00-06:00",
+      "category": "general",
+      "filename": "general/hammerhead-updated.md"
+    },
+    {
+      "title": "Liberty Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/liberty-updated.html",
+      "date": "2019-12-22T23:06:00-06:00",
+      "category": "general",
+      "filename": "general/liberty-updated.md"
+    },
+    {
+      "title": "Updates 12/16",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/updates-1216.html",
+      "date": "2019-12-16T21:31:00-06:00",
+      "category": "general",
+      "filename": "general/updates-12-16.md"
+    },
+    {
+      "title": "12/13 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/1213-updates.html",
+      "date": "2019-12-13T21:15:00-06:00",
+      "category": "general",
+      "filename": "general/12-13-updates.md"
+    },
+    {
+      "title": "Updates 12/11",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/updates-1211.html",
+      "date": "2019-12-11T22:19:00-06:00",
+      "category": "general",
+      "filename": "general/updates-12-11.md"
+    },
+    {
+      "title": "John Updates 12/8/19",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/john-updates-12819.html",
+      "date": "2019-12-08T22:35:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-8-19.md"
+    },
+    {
+      "title": "Imperial section of the medium fighter coverage article updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/imperial-section-of-medium-fighter.html",
+      "date": "2019-12-03T10:07:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/imperial-section-of-the-medium-fighter-coverage-article-updated.md"
+    },
+    {
+      "title": "John Updates 12-2",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/john-updates-12-2.html",
+      "date": "2019-12-03T00:58:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-2.md"
+    },
+    {
+      "title": "John Updates 12-1",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/12/john-updates-12-1.html",
+      "date": "2019-12-02T01:15:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-1.md"
+    },
+    {
+      "title": "All Eric upgrade articles updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/all-eric-upgrade-articles-updated.html",
+      "date": "2019-11-23T12:16:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/all-eric-upgrade-articles-updated.md"
+    },
+    {
+      "title": "Every Imperial squadron article updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/imperial-squadron-updates.html",
+      "date": "2019-11-21T12:16:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/every-imperial-squadron-article-updated.md"
+    },
+    {
+      "title": "Finished the Imperial commander updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/finished-imperial-commander-updates.html",
+      "date": "2019-11-19T15:27:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/finished-the-imperial-commander-updates.md"
+    },
+    {
+      "title": "LFC Updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/lfc-updated.html",
+      "date": "2019-11-19T00:05:00-06:00",
+      "category": "general",
+      "filename": "general/lfc-updated.md"
+    },
+    {
+      "title": "SFC Update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/sfc-update.html",
+      "date": "2019-11-13T23:10:00-06:00",
+      "category": "general",
+      "filename": "general/sfc-update.md"
+    },
+    {
+      "title": "Imperial commander article updates, every Admiral X updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/imperial-commander-article-updates.html",
+      "date": "2019-11-13T21:25:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/imperial-commander-article-updates-every-admiral-x-updated.md"
+    },
+    {
+      "title": "SSD and VSD articles updated, all Imperial ship articles completely finished (...for now)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/ssd-and-vsd-articles-updated-all.html",
+      "date": "2019-11-12T15:50:00-06:00",
+      "category": "general",
+      "filename": "general/ssd-and-vsd-articles-updated-all-imperial-ship-articles-completely-finished-for-.md"
+    },
+    {
+      "title": "John Article Update(s)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/john-article-updates.html",
+      "date": "2019-11-11T00:13:00-06:00",
+      "category": "general",
+      "filename": "general/john-article-update-s.md"
+    },
+    {
+      "title": "Article updates 11/10",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/article-updates-1110.html",
+      "date": "2019-11-11T00:00:00-06:00",
+      "category": "general",
+      "filename": "general/article-updates-11-10.md"
+    },
+    {
+      "title": "Quasar article updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/quasar-article-updated.html",
+      "date": "2019-11-08T14:40:00-06:00",
+      "category": "general",
+      "filename": "general/quasar-article-updated.md"
+    },
+    {
+      "title": "Further Imperial ship updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/further-imperial-ship-updates.html",
+      "date": "2019-11-07T14:10:00-06:00",
+      "category": "general",
+      "filename": "general/further-imperial-ship-updates.md"
+    },
+    {
+      "title": "Arquitens article updated and Imperial maintenance ahead",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/11/arquitens-article-updated-and-imperial.html",
+      "date": "2019-11-06T17:17:00-06:00",
+      "category": "general",
+      "filename": "general/arquitens-article-updated-and-imperial-maintenance-ahead.md"
+    },
+    {
+      "title": "Reminder: Chicagoland Armada Charity tournament on Saturday November 9th",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/10/reminder-chicagoland-armada-charity.html",
+      "date": "2019-10-08T14:28:00-05:00",
+      "category": "general",
+      "filename": "general/reminder-chicagoland-armada-charity-tournament-on-saturday-november-9th.md"
+    },
+    {
+      "title": "NOVA Winner Guest Post 2/2!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/09/nova-winner-guest-post-22.html",
+      "date": "2019-09-02T23:51:00-05:00",
+      "category": "general",
+      "filename": "general/nova-winner-guest-post-2-2.md"
+    },
+    {
+      "title": "More Guest Posts! NOVA Winning Guest Post 1/2!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/09/more-guest-posts-nova-winning-guest.html",
+      "date": "2019-09-02T23:01:00-05:00",
+      "category": "general",
+      "filename": "general/more-guest-posts-nova-winning-guest-post-1-2.md"
+    },
+    {
+      "title": "John's Finished!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/johns-finished.html",
+      "date": "2019-08-31T09:45:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-finished.md"
+    },
+    {
+      "title": "John's making his way through!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/johns-making-his-way-through.html",
+      "date": "2019-08-31T00:05:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-making-his-way-through.md"
+    },
+    {
+      "title": "John Half Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/john-half-updates.html",
+      "date": "2019-08-30T00:51:00-05:00",
+      "category": "general",
+      "filename": "general/john-half-updates.md"
+    },
+    {
+      "title": "LTTs (yeah you know me!)",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/turbolaser-update-alphabetical-updated.html",
+      "date": "2019-08-26T23:43:00-05:00",
+      "category": "general",
+      "filename": "general/ltts-yeah-you-know-me.md"
+    },
+    {
+      "title": "New Neb Next!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/new-neb-next.html",
+      "date": "2019-08-26T22:07:00-05:00",
+      "category": "general",
+      "filename": "general/new-neb-next.md"
+    },
+    {
+      "title": "CR90 updates whaaaaa",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/cr90-updates-whaaaaa.html",
+      "date": "2019-08-26T20:41:00-05:00",
+      "category": "ships",
+      "filename": "ships/cr90-updates-whaaaaa.md"
+    },
+    {
+      "title": "John's Dropping Articles Like Taylor Swift Albums!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/johns-dropping-articles-like-taylor.html",
+      "date": "2019-08-25T23:22:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-dropping-articles-like-taylor-swift-albums.md"
+    },
+    {
+      "title": "John did MORE updates????",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/john-did-more-updates.html",
+      "date": "2019-08-25T22:49:00-05:00",
+      "category": "general",
+      "filename": "general/john-did-more-updates.md"
+    },
+    {
+      "title": "Generic Officer Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/generic-officer-updates.html",
+      "date": "2019-08-25T21:11:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/generic-officer-updates.md"
+    },
+    {
+      "title": "GenCon Data Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/gencon-data-updated.html",
+      "date": "2019-08-18T14:58:00-05:00",
+      "category": "general",
+      "filename": "general/gencon-data-updated.md"
+    },
+    {
+      "title": "Quick John Post!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/quick-john-post.html",
+      "date": "2019-08-16T22:07:00-05:00",
+      "category": "general",
+      "filename": "general/quick-john-post.md"
+    },
+    {
+      "title": "Harrow",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/harrow.html",
+      "date": "2019-08-15T14:40:00-05:00",
+      "category": "general",
+      "filename": "general/harrow.md"
+    },
+    {
+      "title": "Imperial Rogues & Villains aces from Rebellion in the Rim",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/imperial-rogues-villains-aces-from.html",
+      "date": "2019-08-15T11:31:00-05:00",
+      "category": "general",
+      "filename": "general/imperial-rogues-villains-aces-from-rebellion-in-the-rim.md"
+    },
+    {
+      "title": "Rebellion in the Rim offensive retrofits",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/rebellion-in-rim-offensive-retrofits.html",
+      "date": "2019-08-14T15:28:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/rebellion-in-the-rim-offensive-retrofits.md"
+    },
+    {
+      "title": "A quick primer on Raid",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/a-quick-primer-on-raid.html",
+      "date": "2019-08-14T13:19:00-05:00",
+      "category": "general",
+      "filename": "general/a-quick-primer-on-raid.md"
+    },
+    {
+      "title": "Corvus",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/corvus.html",
+      "date": "2019-08-13T21:14:00-05:00",
+      "category": "general",
+      "filename": "general/corvus.md"
+    },
+    {
+      "title": "GenCon Analysis",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/gencon-analysis.html",
+      "date": "2019-08-13T20:55:00-05:00",
+      "category": "general",
+      "filename": "general/gencon-analysis.md"
+    },
+    {
+      "title": "RitR weapon team - Weapons Battery Techs",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/ritr-weapon-team-weapons-battery-techs.html",
+      "date": "2019-08-13T19:38:00-05:00",
+      "category": "general",
+      "filename": "general/ritr-weapon-team-weapons-battery-techs.md"
+    },
+    {
+      "title": "Guest Article: Mike \"comatose\" Bohlmann's 2019 GenCon Experience!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/mike-comatose-bohlmanns-2019-gencon.html",
+      "date": "2019-08-12T21:17:00-05:00",
+      "category": "general",
+      "filename": "general/guest-article-mike-comatose-bohlmann-s-2019-gencon-experience.md"
+    },
+    {
+      "title": "Rebellion in the Rim obstacles and proximity mine tokens",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/rebellion-in-rim-obstacles-and.html",
+      "date": "2019-08-07T14:14:00-05:00",
+      "category": "general",
+      "filename": "general/rebellion-in-the-rim-obstacles-and-proximity-mine-tokens.md"
+    },
+    {
+      "title": "SSD and RitR Imperial officers added",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/ssd-and-ritr-imperial-officers-added.html",
+      "date": "2019-08-06T15:29:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/ssd-and-ritr-imperial-officers-added.md"
+    },
+    {
+      "title": "John's 2019 GenCon Writeup!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/johns-2019-gencon-writeup.html",
+      "date": "2019-08-05T00:57:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-2019-gencon-writeup.md"
+    },
+    {
+      "title": "Gencon and Rebellion in the Rim",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/gencon-and-rebellion-in-rim.html",
+      "date": "2019-08-04T23:22:00-05:00",
+      "category": "general",
+      "filename": "general/gencon-and-rebellion-in-the-rim.md"
+    },
+    {
+      "title": "GenCon Weekend!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/08/gencon-weekend.html",
+      "date": "2019-08-02T22:37:00-05:00",
+      "category": "general",
+      "filename": "general/gencon-weekend.md"
+    },
+    {
+      "title": "Even Hotter Takes Than Steel Squadron's!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/07/even-hotter-takes-than-steel-squadrons.html",
+      "date": "2019-07-17T00:15:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/even-hotter-takes-than-steel-squadron-s.md"
+    },
+    {
+      "title": "Chicagoland Armada tournament for charity 11/9/2019!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/07/chicagoland-armada-tournament-for.html",
+      "date": "2019-07-08T13:37:00-05:00",
+      "category": "general",
+      "filename": "general/chicagoland-armada-tournament-for-charity-11-9-2019.md"
+    },
+    {
+      "title": "Updates 4/23!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/updates-423.html",
+      "date": "2019-04-23T23:20:00-05:00",
+      "category": "general",
+      "filename": "general/updates-4-23.md"
+    },
+    {
+      "title": "Nathan Coda Worlds 2019 AAR",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/nathan-coda-worlds-2019-worlds-aar.html",
+      "date": "2019-04-17T08:05:00-05:00",
+      "category": "general",
+      "filename": "general/nathan-coda-worlds-2019-aar.md"
+    },
+    {
+      "title": "Tips and tricks: running away",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/tips-and-tricks-running-away.html",
+      "date": "2019-04-16T10:30:00-05:00",
+      "category": "general",
+      "filename": "general/tips-and-tricks-running-away.md"
+    },
+    {
+      "title": "John's Regionals and Worlds Write-Up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/johns-regionals-and-worlds-write-up.html",
+      "date": "2019-04-14T23:33:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-regionals-and-worlds-write-up.md"
+    },
+    {
+      "title": "Worlds 2019 data and analysis",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/worlds-2019-data-and-analysis.html",
+      "date": "2019-04-08T23:36:00-05:00",
+      "category": "general",
+      "filename": "general/worlds-2019-data-and-analysis.md"
+    },
+    {
+      "title": "Pictures of the SSD",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/pictures-of-ssd.html",
+      "date": "2019-04-03T16:52:00-05:00",
+      "category": "general",
+      "filename": "general/pictures-of-the-ssd.md"
+    },
+    {
+      "title": "Eric's Worlds/Adepticon 2019 AAR",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/erics-worldsadepticon-2019-aar.html",
+      "date": "2019-04-03T16:02:00-05:00",
+      "category": "general",
+      "filename": "general/eric-s-worlds-adepticon-2019-aar.md"
+    },
+    {
+      "title": "Cannot Get Your Shoes Out Late Game Special!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/cannot-get-your-shoes-out-late-game.html",
+      "date": "2019-04-03T08:05:00-05:00",
+      "category": "general",
+      "filename": "general/cannot-get-your-shoes-out-late-game-special.md"
+    },
+    {
+      "title": "Cannot Get Your Shoes Out! Special Running Episode!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/cannot-get-your-shoes-out-special_1.html",
+      "date": "2019-04-01T13:51:00-05:00",
+      "category": "general",
+      "filename": "general/cannot-get-your-shoes-out-special-running-episode.md"
+    },
+    {
+      "title": "Cannot Get Your Seeds Out Vegetable Gardening Special Episode!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/04/cannot-get-your-seeds-out-vegetable.html",
+      "date": "2019-04-01T08:23:00-05:00",
+      "category": "general",
+      "filename": "general/cannot-get-your-seeds-out-vegetable-gardening-special-episode.md"
+    },
+    {
+      "title": "The (Jedi) Knight's (Re)-Watch: Return of the Jedi",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/03/the-jedi-knights-re-watch-return-of-jedi.html",
+      "date": "2019-03-26T10:36:00-05:00",
+      "category": "general",
+      "filename": "general/the-jedi-knight-s-re-watch-return-of-the-jedi.md"
+    },
+    {
+      "title": "The (Jedi) Knight's (Re)-Watch: The Empire Strikes Back",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/03/the-knights-re-watch-empire-strikes-back_20.html",
+      "date": "2019-03-20T00:31:00-05:00",
+      "category": "general",
+      "filename": "general/the-jedi-knight-s-re-watch-the-empire-strikes-back.md"
+    },
+    {
+      "title": "The (Jedi) Knight's (Re)-Watch: A New Hope",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/03/the-knights-re-watch-new-hope.html",
+      "date": "2019-03-11T21:45:00-05:00",
+      "category": "general",
+      "filename": "general/the-jedi-knight-s-re-watch-a-new-hope.md"
+    },
+    {
+      "title": "The (Jedi) Knight's (Re)-Watch: Rogue One",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/03/the-knights-re-watch-rogue-one.html",
+      "date": "2019-03-05T00:58:00-06:00",
+      "category": "general",
+      "filename": "general/the-jedi-knight-s-re-watch-rogue-one.md"
+    },
+    {
+      "title": "2/2 Atlanta Regional recap: GiledPallaeon",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/02/22-atlanta-regional-recap-giledpallaeon.html",
+      "date": "2019-02-06T12:59:00-06:00",
+      "category": "general",
+      "filename": "general/2-2-atlanta-regional-recap-giledpallaeon.md"
+    },
+    {
+      "title": "Tips and tricks: forking",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/02/tips-and-tricks-forking.html",
+      "date": "2019-02-05T23:38:00-06:00",
+      "category": "general",
+      "filename": "general/tips-and-tricks-forking.md"
+    },
+    {
+      "title": "2/2 Atlanta Regional Recap: Jack Otto",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/02/22-atlanta-regional-recap-jack-otto.html",
+      "date": "2019-02-05T20:04:00-06:00",
+      "category": "general",
+      "filename": "general/2-2-atlanta-regional-recap-jack-otto.md"
+    },
+    {
+      "title": "Eric updates 2/3/2019",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/02/eric-updates-232019.html",
+      "date": "2019-02-03T21:13:00-06:00",
+      "category": "general",
+      "filename": "general/eric-updates-2-3-2019.md"
+    },
+    {
+      "title": "Armada 2.0 Too! AKA John's Thoughts and Feelings",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/01/armada-202-too-aka-johns-thoughts-and.html",
+      "date": "2019-01-31T00:40:00-06:00",
+      "category": "general",
+      "filename": "general/armada-2-0-too-aka-john-s-thoughts-and-feelings.md"
+    },
+    {
+      "title": "2 year anniversary, where Armada is at, and 2.0 thoughts on ace squadrons",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/01/2-year-anniversary-where-armada-is-at.html",
+      "date": "2019-01-25T01:03:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/2-year-anniversary-where-armada-is-at-and-2-0-thoughts-on-ace-squadrons.md"
+    },
+    {
+      "title": "DEAD LINK",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/01/squadrons-encyclopedia-2-small-fighter.html",
+      "date": "2019-01-22T22:32:00-06:00",
+      "category": "general",
+      "filename": "general/dead-link.md"
+    },
+    {
+      "title": "XI7 Turbolasers: yours is the drill that will pierce the hull points",
+      "url": "https://cannotgetyourshipout.blogspot.com/2019/01/xi7-turbolasers-yours-is-drill-that.html",
+      "date": "2019-01-09T20:42:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/xi7-turbolasers-yours-is-the-drill-that-will-pierce-the-hull-points.md"
+    },
+    {
+      "title": "John Updates 12/28",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/12/john-updates-1228.html",
+      "date": "2018-12-28T17:00:00-06:00",
+      "category": "general",
+      "filename": "general/john-updates-12-28.md"
+    },
+    {
+      "title": "Fighting Fleets: Tackling Two-Ship!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/12/fighting-fleets-tackling-two-ship.html",
+      "date": "2018-12-11T00:13:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-tackling-two-ship.md"
+    },
+    {
+      "title": "Chicago Worlds guide addendum: Schaumburg",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/chicago-worlds-guide-addendum-schaumburg.html",
+      "date": "2018-11-28T10:48:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/chicago-worlds-guide-addendum-schaumburg.md"
+    },
+    {
+      "title": "Chicago Gets Its Ship Out! AKA The Worlds Guide!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/chicago-gets-its-ship-out-aka-worlds.html",
+      "date": "2018-11-27T23:39:00-06:00",
+      "category": "tactics",
+      "filename": "tactics/chicago-gets-its-ship-out-aka-the-worlds-guide.md"
+    },
+    {
+      "title": "SSD spoilers hot take",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/ssd-spoilers-hot-take.html",
+      "date": "2018-11-25T01:18:00-06:00",
+      "category": "general",
+      "filename": "general/ssd-spoilers-hot-take.md"
+    },
+    {
+      "title": "A Re-Introduction to Squadron Play",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/a-re-introduction-to-squadron-play.html",
+      "date": "2018-11-12T22:09:00-06:00",
+      "category": "squadrons",
+      "filename": "squadrons/a-re-introduction-to-squadron-play.md"
+    },
+    {
+      "title": "Holy Crud John Did Something!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/holy-crud-john-did-something.html",
+      "date": "2018-11-10T22:38:00-06:00",
+      "category": "general",
+      "filename": "general/holy-crud-john-did-something.md"
+    },
+    {
+      "title": "Tips and tricks: inside turns",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/11/tips-and-tricks-inside-turns.html",
+      "date": "2018-11-05T13:14:00-06:00",
+      "category": "general",
+      "filename": "general/tips-and-tricks-inside-turns.md"
+    },
+    {
+      "title": "Objectives update and where we're at on updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/10/objectives-update-and-where-were-at-on.html",
+      "date": "2018-10-30T09:02:00-05:00",
+      "category": "tactics",
+      "filename": "tactics/objectives-update-and-where-we-re-at-on-updates.md"
+    },
+    {
+      "title": "Breaking one million page views!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/09/breaking-one-million-page-views.html",
+      "date": "2018-09-28T23:49:00-05:00",
+      "category": "general",
+      "filename": "general/breaking-one-million-page-views.md"
+    },
+    {
+      "title": "9/10 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/09/910-updates.html",
+      "date": "2018-09-10T22:17:00-05:00",
+      "category": "general",
+      "filename": "general/9-10-updates.md"
+    },
+    {
+      "title": "8/31 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/831-updates.html",
+      "date": "2018-08-31T23:46:00-05:00",
+      "category": "general",
+      "filename": "general/8-31-updates.md"
+    },
+    {
+      "title": "John Updates 8/20",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/john-updates-820.html",
+      "date": "2018-08-21T00:21:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-8-20.md"
+    },
+    {
+      "title": "Eric's post-Gencon thoughts",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/erics-post-gencon-thoughts.html",
+      "date": "2018-08-15T22:58:00-05:00",
+      "category": "general",
+      "filename": "general/eric-s-post-gencon-thoughts.md"
+    },
+    {
+      "title": "Eric Gencon 2018 report",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/eric-gencon-2018-report.html",
+      "date": "2018-08-15T16:52:00-05:00",
+      "category": "general",
+      "filename": "general/eric-gencon-2018-report.md"
+    },
+    {
+      "title": "Workable Insanity AKA John's GenCon Wrap-Up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/workable-insanity-aka-johns-gencon-wrap.html",
+      "date": "2018-08-13T22:27:00-05:00",
+      "category": "general",
+      "filename": "general/workable-insanity-aka-john-s-gencon-wrap-up.md"
+    },
+    {
+      "title": "SSD teaser article is up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/ssd-teaser-article-is-up.html",
+      "date": "2018-08-03T15:45:00-05:00",
+      "category": "general",
+      "filename": "general/ssd-teaser-article-is-up.md"
+    },
+    {
+      "title": "Onwards to GenCon!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/onwards-to-gencon.html",
+      "date": "2018-08-02T22:28:00-05:00",
+      "category": "general",
+      "filename": "general/onwards-to-gencon.md"
+    },
+    {
+      "title": "SSD teased at Gencon",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/08/ssd-teased-at-gencon.html",
+      "date": "2018-08-01T19:37:00-05:00",
+      "category": "general",
+      "filename": "general/ssd-teased-at-gencon.md"
+    },
+    {
+      "title": "John Updates 7/23",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/john-updates-723.html",
+      "date": "2018-07-23T22:32:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-7-23.md"
+    },
+    {
+      "title": "John Article Updates 7/21",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/john-article-updates-721.html",
+      "date": "2018-07-21T11:21:00-05:00",
+      "category": "general",
+      "filename": "general/john-article-updates-7-21.md"
+    },
+    {
+      "title": "DEAD LINK",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/whats-in-name-name-titles-and-fleet.html",
+      "date": "2018-07-13T15:29:00-05:00",
+      "category": "general",
+      "filename": "general/dead-link.md"
+    },
+    {
+      "title": "Some article updates 7/10",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/07/some-article-updates-710.html",
+      "date": "2018-07-10T23:35:00-05:00",
+      "category": "general",
+      "filename": "general/some-article-updates-7-10.md"
+    },
+    {
+      "title": "Rebel Squad Pack II: A Re-Primer",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/rebel-squad-pack-ii-re-primer.html",
+      "date": "2018-06-29T19:05:00-05:00",
+      "category": "general",
+      "filename": "general/rebel-squad-pack-ii-a-re-primer.md"
+    },
+    {
+      "title": "John Updates 6/25",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/john-updates-625.html",
+      "date": "2018-06-26T22:51:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-6-25.md"
+    },
+    {
+      "title": "But Oh, Those Summer Nights!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/but-oh-those-summer-nights.html",
+      "date": "2018-06-15T16:53:00-05:00",
+      "category": "general",
+      "filename": "general/but-oh-those-summer-nights.md"
+    },
+    {
+      "title": "Eric's post-Worlds wave 7-ish thoughts",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/erics-post-worlds-wave-7-ish-thoughts.html",
+      "date": "2018-06-12T22:57:00-05:00",
+      "category": "general",
+      "filename": "general/eric-s-post-worlds-wave-7-ish-thoughts.md"
+    },
+    {
+      "title": "John Article Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/06/john-article-updates.html",
+      "date": "2018-06-03T22:50:00-05:00",
+      "category": "general",
+      "filename": "general/john-article-updates.md"
+    },
+    {
+      "title": "Guest article: Nathan Coda's Worlds report!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/guest-article-nathan-codas-worlds-report.html",
+      "date": "2018-05-21T18:26:00-05:00",
+      "category": "general",
+      "filename": "general/guest-article-nathan-coda-s-worlds-report.md"
+    },
+    {
+      "title": "Where Do We Go, and Why Do We Fight?",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/where-do-we-go-and-why-do-we-fight.html",
+      "date": "2018-05-19T16:10:00-05:00",
+      "category": "general",
+      "filename": "general/where-do-we-go-and-why-do-we-fight.md"
+    },
+    {
+      "title": "Eric's Worlds 2018 report",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/erics-worlds-2018-report.html",
+      "date": "2018-05-14T09:27:00-05:00",
+      "category": "general",
+      "filename": "general/eric-s-worlds-2018-report.md"
+    },
+    {
+      "title": "Transmissions from the Medical Center: John's Post-Worlds Wrap Up",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/05/transmissions-from-medical-center-johns.html",
+      "date": "2018-05-05T19:04:00-05:00",
+      "category": "general",
+      "filename": "general/transmissions-from-the-medical-center-john-s-post-worlds-wrap-up.md"
+    },
+    {
+      "title": "Nebulon Article Updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/nebulon-article-updated.html",
+      "date": "2018-04-23T22:53:00-05:00",
+      "category": "ships",
+      "filename": "ships/nebulon-article-updated.md"
+    },
+    {
+      "title": "Nerf-Related Articles, v 1.1",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/nerf-related-articles-v-11.html",
+      "date": "2018-04-09T23:02:00-05:00",
+      "category": "general",
+      "filename": "general/nerf-related-articles-v-1-1.md"
+    },
+    {
+      "title": "Nerf-related articles updated, v1.0",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/nerf-affected-articles-updated-v10.html",
+      "date": "2018-04-09T17:44:00-05:00",
+      "category": "general",
+      "filename": "general/nerf-related-articles-updated-v1-0.md"
+    },
+    {
+      "title": "New FAQ/erratas are up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/new-faqerratas-are-up.html",
+      "date": "2018-04-07T00:35:00-05:00",
+      "category": "general",
+      "filename": "general/new-faq-erratas-are-up.md"
+    },
+    {
+      "title": "We're heading to Worlds!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/were-heading-to-worlds.html",
+      "date": "2018-04-03T00:08:00-05:00",
+      "category": "general",
+      "filename": "general/we-re-heading-to-worlds.md"
+    },
+    {
+      "title": "Training Montages and You: Worlds Preparations!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/04/training-montages-and-you-worlds.html",
+      "date": "2018-04-01T23:53:00-05:00",
+      "category": "general",
+      "filename": "general/training-montages-and-you-worlds-preparations.md"
+    },
+    {
+      "title": "Imperial article updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/imperial-article-updates.html",
+      "date": "2018-03-27T22:36:00-05:00",
+      "category": "general",
+      "filename": "general/imperial-article-updates.md"
+    },
+    {
+      "title": "Eric's Adepticon wrap-up",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/eric-adepticon-wrapup.html",
+      "date": "2018-03-27T14:56:00-05:00",
+      "category": "general",
+      "filename": "general/eric-s-adepticon-wrap-up.md"
+    },
+    {
+      "title": "John's Adepticon Write-Up!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/johns-adepticon-write-up.html",
+      "date": "2018-03-26T21:16:00-05:00",
+      "category": "general",
+      "filename": "general/john-s-adepticon-write-up.md"
+    },
+    {
+      "title": "Interdictor article updated!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/interdictor-article-updated.html",
+      "date": "2018-03-25T23:36:00-05:00",
+      "category": "general",
+      "filename": "general/interdictor-article-updated.md"
+    },
+    {
+      "title": "Boarding teams article updated",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/boarding-teams-article-updated.html",
+      "date": "2018-03-23T13:27:00-05:00",
+      "category": "general",
+      "filename": "general/boarding-teams-article-updated.md"
+    },
+    {
+      "title": "Adepticon 2018!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/adepticon-2018.html",
+      "date": "2018-03-21T21:15:00-05:00",
+      "category": "general",
+      "filename": "general/adepticon-2018.md"
+    },
+    {
+      "title": "Updated ISD article!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/updated-isd-article.html",
+      "date": "2018-03-21T20:52:00-05:00",
+      "category": "general",
+      "filename": "general/updated-isd-article.md"
+    },
+    {
+      "title": "Rebel Officer Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/rebel-officer-updates.html",
+      "date": "2018-03-19T23:59:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/rebel-officer-updates.md"
+    },
+    {
+      "title": "Imperial-class Star Destroyer article under construction",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/imperial-class-star-destroyer-article.html",
+      "date": "2018-03-19T09:56:00-05:00",
+      "category": "ships",
+      "filename": "ships/imperial-class-star-destroyer-article-under-construction.md"
+    },
+    {
+      "title": "Caitken and Shollan added to weapon teams article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/caitken-and-shollan-added-to-weapon.html",
+      "date": "2018-03-13T17:08:00-05:00",
+      "category": "general",
+      "filename": "general/caitken-and-shollan-added-to-weapon-teams-article.md"
+    },
+    {
+      "title": "Imperial officers updated to wave 7",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/imperial-officers-updated-to-wave-7.html",
+      "date": "2018-03-13T07:59:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/imperial-officers-updated-to-wave-7.md"
+    },
+    {
+      "title": "Defensive Retrofit Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/defensive-retrofit-updates.html",
+      "date": "2018-03-11T17:39:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/defensive-retrofit-updates.md"
+    },
+    {
+      "title": "Intensify Firepower Update!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/intensify-firepower-update.html",
+      "date": "2018-03-05T21:29:00-06:00",
+      "category": "general",
+      "filename": "general/intensify-firepower-update.md"
+    },
+    {
+      "title": "Generic Officers Update",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/generic-officers-update.html",
+      "date": "2018-03-03T09:24:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/generic-officers-update.md"
+    },
+    {
+      "title": "Ordnance article overhauled, Wide-Area Barrage and Ordnance Pods added",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/03/ordnance-article-overhauled-wide-area.html",
+      "date": "2018-03-01T23:48:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/ordnance-article-overhauled-wide-area-barrage-and-ordnance-pods-added.md"
+    },
+    {
+      "title": "Hardened Bulkheads added to Offensive Retrofits",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/hardened-bulkheads-added-to-offensive.html",
+      "date": "2018-02-20T17:28:00-06:00",
+      "category": "upgrades",
+      "filename": "upgrades/hardened-bulkheads-added-to-offensive-retrofits.md"
+    },
+    {
+      "title": "Raider-II section updated to include Heavy Ion Emplacements",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/raider-ii-section-updated-to-include.html",
+      "date": "2018-02-19T17:50:00-06:00",
+      "category": "general",
+      "filename": "general/raider-ii-section-updated-to-include-heavy-ion-emplacements.md"
+    },
+    {
+      "title": "Heavy Ion Emplacements",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/02/heavy-ion-emplacements.html",
+      "date": "2018-02-19T14:13:00-06:00",
+      "category": "general",
+      "filename": "general/heavy-ion-emplacements.md"
+    },
+    {
+      "title": "Scruffy-looking nerf herders: the search for a fix to flotilla-spam",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/scruffy-looking-nerf-herders-search-for.html",
+      "date": "2018-01-31T16:31:00-06:00",
+      "category": "general",
+      "filename": "general/scruffy-looking-nerf-herders-the-search-for-a-fix-to-flotilla-spam.md"
+    },
+    {
+      "title": "Monster Truck Madness!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/monster-truck-madness.html",
+      "date": "2018-01-30T23:01:00-06:00",
+      "category": "general",
+      "filename": "general/monster-truck-madness.md"
+    },
+    {
+      "title": "Happy birthday to us!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/happy-birthday-to-us.html",
+      "date": "2018-01-25T23:39:00-06:00",
+      "category": "general",
+      "filename": "general/happy-birthday-to-us.md"
+    },
+    {
+      "title": "Eric's Indianapolis 2018 recap",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/erics-indianapolis-2018-recap.html",
+      "date": "2018-01-25T16:24:00-06:00",
+      "category": "general",
+      "filename": "general/eric-s-indianapolis-2018-recap.md"
+    },
+    {
+      "title": "John's 2018 Indy Recap!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/johns-2018-indy-recap.html",
+      "date": "2018-01-22T21:52:00-06:00",
+      "category": "general",
+      "filename": "general/john-s-2018-indy-recap.md"
+    },
+    {
+      "title": "John's Indy Regionals Fleet!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/johns-indy-regionals-fleet_20.html",
+      "date": "2018-01-20T12:30:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/john-s-indy-regionals-fleet.md"
+    },
+    {
+      "title": "Eric's Indianapolis fleet list",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/erics-indianapolis-fleet-list.html",
+      "date": "2018-01-20T12:30:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/eric-s-indianapolis-fleet-list.md"
+    },
+    {
+      "title": "Headed to Indianapolis!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/headed-to-indianapolis.html",
+      "date": "2018-01-19T16:10:00-06:00",
+      "category": "general",
+      "filename": "general/headed-to-indianapolis.md"
+    },
+    {
+      "title": "Fighting Fleets: Admonishing Admonition!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/fighting-fleets-admonishing-admonition.html",
+      "date": "2018-01-15T15:01:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-admonishing-admonition.md"
+    },
+    {
+      "title": "Fighting Fleets: Annulling Avenger Boarding Troopers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/fighting-fleets-annulling-avenger.html",
+      "date": "2018-01-07T13:45:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/fighting-fleets-annulling-avenger-boarding-troopers.md"
+    },
+    {
+      "title": "MC75 HOT TAKES!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2018/01/mc75-hot-takes.html",
+      "date": "2018-01-04T00:03:00-06:00",
+      "category": "general",
+      "filename": "general/mc75-hot-takes.md"
+    },
+    {
+      "title": "With MULTIPLE Apologies to Clement Moore",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/with-multiple-apologies-to-clement-moore.html",
+      "date": "2017-12-23T10:17:00-06:00",
+      "category": "general",
+      "filename": "general/with-multiple-apologies-to-clement-moore.md"
+    },
+    {
+      "title": "Index changes",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/index-changes.html",
+      "date": "2017-12-16T10:35:00-06:00",
+      "category": "general",
+      "filename": "general/index-changes.md"
+    },
+    {
+      "title": "12/14 Updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/1214-updates.html",
+      "date": "2017-12-14T23:22:00-06:00",
+      "category": "general",
+      "filename": "general/12-14-updates.md"
+    },
+    {
+      "title": "Roll the chance cube: Armada, dice, and probability",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/roll-chance-cube-armada-dice-and.html",
+      "date": "2017-12-14T00:07:00-06:00",
+      "category": "general",
+      "filename": "general/roll-the-chance-cube-armada-dice-and-probability.md"
+    },
+    {
+      "title": "12/13 Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/1213-updates.html",
+      "date": "2017-12-13T23:14:00-06:00",
+      "category": "general",
+      "filename": "general/12-13-updates.md"
+    },
+    {
+      "title": "John's Regionals Wrap-Up 2! Games and Lessons Learned!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/johns-regionals-wrap-up-2-games-and.html",
+      "date": "2017-12-12T01:17:00-06:00",
+      "category": "general",
+      "filename": "general/john-s-regionals-wrap-up-2-games-and-lessons-learned.md"
+    },
+    {
+      "title": "John's Regionals Wrap-Up! Part 1: The Build",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/12/johns-regionals-wrap-up.html",
+      "date": "2017-12-10T23:12:00-06:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/john-s-regionals-wrap-up-part-1-the-build.md"
+    },
+    {
+      "title": "Grand Admiral Thrawn article hot take",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/grand-admiral-thrawn-article-hot-take.html",
+      "date": "2017-11-27T22:43:00-06:00",
+      "category": "commanders",
+      "filename": "commanders/grand-admiral-thrawn-article-hot-take.md"
+    },
+    {
+      "title": "Thanksgiving!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/thanksgiving.html",
+      "date": "2017-11-23T15:12:00-06:00",
+      "category": "general",
+      "filename": "general/thanksgiving.md"
+    },
+    {
+      "title": "Eric will be away for a little while due to becoming a father!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/eric-will-be-away-for-little-while-due.html",
+      "date": "2017-11-12T22:19:00-06:00",
+      "category": "general",
+      "filename": "general/eric-will-be-away-for-a-little-while-due-to-becoming-a-father.md"
+    },
+    {
+      "title": "Commenting changed back to blogger",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/commenting-changed-back-to-blogger.html",
+      "date": "2017-11-06T07:00:00-06:00",
+      "category": "general",
+      "filename": "general/commenting-changed-back-to-blogger.md"
+    },
+    {
+      "title": "Updates November 3",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/11/updates-november-3.html",
+      "date": "2017-11-03T16:39:00-05:00",
+      "category": "general",
+      "filename": "general/updates-november-3.md"
+    },
+    {
+      "title": "Does Yavaris Need a Nerf?",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/does-yavaris-need-nerf.html",
+      "date": "2017-10-30T21:26:00-05:00",
+      "category": "general",
+      "filename": "general/does-yavaris-need-a-nerf.md"
+    },
+    {
+      "title": "LINK IS DED",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/squadrons-encyclopedia-8-fighting_24.html",
+      "date": "2017-10-24T00:11:00-05:00",
+      "category": "general",
+      "filename": "general/link-is-ded.md"
+    },
+    {
+      "title": "Updates 10/22",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/updates-1022.html",
+      "date": "2017-10-22T23:37:00-05:00",
+      "category": "general",
+      "filename": "general/updates-10-22.md"
+    },
+    {
+      "title": "Preparing for and attending an Armada tournament: principles to keep in mind",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/preparing-for-and-attending-armada.html",
+      "date": "2017-10-20T21:31:00-05:00",
+      "category": "general",
+      "filename": "general/preparing-for-and-attending-an-armada-tournament-principles-to-keep-in-mind.md"
+    },
+    {
+      "title": "Updates 10/16",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/updates-1016.html",
+      "date": "2017-10-16T21:40:00-05:00",
+      "category": "general",
+      "filename": "general/updates-10-16.md"
+    },
+    {
+      "title": "Skilled First Officer: a love letter",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/skilled-first-officer-love-letter.html",
+      "date": "2017-10-10T13:36:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/skilled-first-officer-a-love-letter.md"
+    },
+    {
+      "title": "Slowly Updating",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/slowly-updating.html",
+      "date": "2017-10-09T21:44:00-05:00",
+      "category": "general",
+      "filename": "general/slowly-updating.md"
+    },
+    {
+      "title": "Squadron-heavier option added to the Imperial starter fleet article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/10/squadron-heavier-option-added-to.html",
+      "date": "2017-10-04T08:42:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/squadron-heavier-option-added-to-the-imperial-starter-fleet-article.md"
+    },
+    {
+      "title": "Gearing Up for Battle 2: Armada Fix Squadron Plates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/gearing-up-for-battle-2-armada-fix.html",
+      "date": "2017-09-29T08:37:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/gearing-up-for-battle-2-armada-fix-squadron-plates.md"
+    },
+    {
+      "title": "John Updates 9-26",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/john-updates-9-26.html",
+      "date": "2017-09-26T23:54:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-9-26.md"
+    },
+    {
+      "title": "Grand Inquisitor added to Imperial officers article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/grand-inquisitor-added-to-imperial.html",
+      "date": "2017-09-10T11:01:00-05:00",
+      "category": "upgrades",
+      "filename": "upgrades/grand-inquisitor-added-to-imperial-officers-article.md"
+    },
+    {
+      "title": "Checking it Twice! Individual Activations",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/checking-it-twice-individual-activations.html",
+      "date": "2017-09-08T22:04:00-05:00",
+      "category": "general",
+      "filename": "general/checking-it-twice-individual-activations.md"
+    },
+    {
+      "title": "John Updates 9/5!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/john-updates-95.html",
+      "date": "2017-09-05T19:45:00-05:00",
+      "category": "general",
+      "filename": "general/john-updates-9-5.md"
+    },
+    {
+      "title": "8/30-9/5 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/09/830-95-updates.html",
+      "date": "2017-09-05T09:25:00-05:00",
+      "category": "general",
+      "filename": "general/8-30-9-5-updates.md"
+    },
+    {
+      "title": "8/29 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/829-updates.html",
+      "date": "2017-08-29T18:14:00-05:00",
+      "category": "general",
+      "filename": "general/8-29-updates.md"
+    },
+    {
+      "title": "Update to Squadrons Encyclopedia 4 Large Fighter coverage Imperial segment",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/update-to-squadrons-encyclopedia-4.html",
+      "date": "2017-08-28T21:34:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/update-to-squadrons-encyclopedia-4-large-fighter-coverage-imperial-segment.md"
+    },
+    {
+      "title": "Wave 7 announcement hot take",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/wave-7-announcement-hot-take.html",
+      "date": "2017-08-25T16:56:00-05:00",
+      "category": "general",
+      "filename": "general/wave-7-announcement-hot-take.md"
+    },
+    {
+      "title": "8/22 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/822-updates.html",
+      "date": "2017-08-22T21:49:00-05:00",
+      "category": "general",
+      "filename": "general/8-22-updates.md"
+    },
+    {
+      "title": "8/21 updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/821-updates.html",
+      "date": "2017-08-21T21:14:00-05:00",
+      "category": "general",
+      "filename": "general/8-21-updates.md"
+    },
+    {
+      "title": "Rebel Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/rebel-updates.html",
+      "date": "2017-08-20T21:10:00-05:00",
+      "category": "general",
+      "filename": "general/rebel-updates.md"
+    },
+    {
+      "title": "More updates 8/20/2017",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/more-updates-8202017.html",
+      "date": "2017-08-20T19:04:00-05:00",
+      "category": "general",
+      "filename": "general/more-updates-8-20-2017.md"
+    },
+    {
+      "title": "TIE Squadrons updates",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/tie-squadrons-updates.html",
+      "date": "2017-08-19T07:30:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/tie-squadrons-updates.md"
+    },
+    {
+      "title": "Gencon stuff and Star Wars: Legion",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/gencon-stuff-and-star-wars-legion.html",
+      "date": "2017-08-18T12:18:00-05:00",
+      "category": "general",
+      "filename": "general/gencon-stuff-and-star-wars-legion.md"
+    },
+    {
+      "title": "Updates and an Update!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/updates-and-update.html",
+      "date": "2017-08-15T23:20:00-05:00",
+      "category": "general",
+      "filename": "general/updates-and-an-update.md"
+    },
+    {
+      "title": "Fleet deployment",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/08/fleet-deployment.html",
+      "date": "2017-08-08T16:57:00-05:00",
+      "category": "tactics",
+      "filename": "tactics/fleet-deployment.md"
+    },
+    {
+      "title": "Checking it Twice: Starting the Turn",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/checking-it-twice-starting-turn_31.html",
+      "date": "2017-07-31T08:25:00-05:00",
+      "category": "general",
+      "filename": "general/checking-it-twice-starting-the-turn.md"
+    },
+    {
+      "title": "Learning from losing",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/learning-from-losing.html",
+      "date": "2017-07-28T19:25:00-05:00",
+      "category": "general",
+      "filename": "general/learning-from-losing.md"
+    },
+    {
+      "title": "Tournament structure",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/tournament-structure.html",
+      "date": "2017-07-26T23:41:00-05:00",
+      "category": "general",
+      "filename": "general/tournament-structure.md"
+    },
+    {
+      "title": "Wave 6 article updates 7/25/2017",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/wave-6-article-updates-7252017.html",
+      "date": "2017-07-25T10:29:00-05:00",
+      "category": "general",
+      "filename": "general/wave-6-article-updates-7-25-2017.md"
+    },
+    {
+      "title": "Pastimes Store Championship wrap-up",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/pastimes-store-championship-wrap-up.html",
+      "date": "2017-07-24T13:27:00-05:00",
+      "category": "general",
+      "filename": "general/pastimes-store-championship-wrap-up.md"
+    },
+    {
+      "title": "Store Champs Round 2 Fight!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/store-champs-round-2-fight.html",
+      "date": "2017-07-24T07:06:00-05:00",
+      "category": "general",
+      "filename": "general/store-champs-round-2-fight.md"
+    },
+    {
+      "title": "Store Champs 2: Round 1 Fight!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/store-champs-2-round-1-fight.html",
+      "date": "2017-07-24T07:06:00-05:00",
+      "category": "general",
+      "filename": "general/store-champs-2-round-1-fight.md"
+    },
+    {
+      "title": "Store Championships II: Leia Boogaloo!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/store-championships-ii-leia-boogaloo.html",
+      "date": "2017-07-22T11:48:00-05:00",
+      "category": "general",
+      "filename": "general/store-championships-ii-leia-boogaloo.md"
+    },
+    {
+      "title": "Tilting and you",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/tilting-and-you.html",
+      "date": "2017-07-18T10:59:00-05:00",
+      "category": "general",
+      "filename": "general/tilting-and-you.md"
+    },
+    {
+      "title": "Wave 6 early impressions",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/wave-6-early-impressions.html",
+      "date": "2017-07-16T21:59:00-05:00",
+      "category": "general",
+      "filename": "general/wave-6-early-impressions.md"
+    },
+    {
+      "title": "Checking it Twice: Deployment!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/checking-it-twice-deployment.html",
+      "date": "2017-07-10T07:57:00-05:00",
+      "category": "tactics",
+      "filename": "tactics/checking-it-twice-deployment.md"
+    },
+    {
+      "title": "Q3 2017 tournament kit contents!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/q3-2017-tournament-kit-contents.html",
+      "date": "2017-07-07T15:32:00-05:00",
+      "category": "general",
+      "filename": "general/q3-2017-tournament-kit-contents.md"
+    },
+    {
+      "title": "Quick discussion on Admiral Sloane",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/quick-discussion-on-admiral-sloane.html",
+      "date": "2017-07-04T11:12:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/quick-discussion-on-admiral-sloane.md"
+    },
+    {
+      "title": "Checking it Twice: First Steps and Initial Thoughts",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/07/checking-it-twice-first-steps-and.html",
+      "date": "2017-07-03T17:04:00-05:00",
+      "category": "general",
+      "filename": "general/checking-it-twice-first-steps-and-initial-thoughts.md"
+    },
+    {
+      "title": "Checking it Twice: Setting Up the Idea",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/checking-it-twice-setting-up-idea.html",
+      "date": "2017-06-27T21:37:00-05:00",
+      "category": "general",
+      "filename": "general/checking-it-twice-setting-up-the-idea.md"
+    },
+    {
+      "title": "Quick Updates from the FAQ",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/quick-updates-from-faq.html",
+      "date": "2017-06-20T19:26:00-05:00",
+      "category": "general",
+      "filename": "general/quick-updates-from-the-faq.md"
+    },
+    {
+      "title": "NEW FAQ SUPER HOT TAKES",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/new-faq-super-hot-takes.html",
+      "date": "2017-06-20T16:52:00-05:00",
+      "category": "general",
+      "filename": "general/new-faq-super-hot-takes.md"
+    },
+    {
+      "title": "Store Championships: Round 2 Ackbar Boogaloo",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/store-championships-round-2-ackbar.html",
+      "date": "2017-06-12T10:47:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/store-championships-round-2-ackbar-boogaloo.md"
+    },
+    {
+      "title": "Store Championships: Round 1 FIGHT!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/store-championships-round-1-fight.html",
+      "date": "2017-06-12T10:47:00-05:00",
+      "category": "general",
+      "filename": "general/store-championships-round-1-fight.md"
+    },
+    {
+      "title": "Store Championships Fleet! John's Ackbar Attack",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/store-championships-fleet-johns-ackbar.html",
+      "date": "2017-06-10T10:31:00-05:00",
+      "category": "commanders",
+      "filename": "commanders/store-championships-fleet-john-s-ackbar-attack.md"
+    },
+    {
+      "title": "Store Championships 2017",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/store-championships-2017.html",
+      "date": "2017-06-09T16:58:00-05:00",
+      "category": "general",
+      "filename": "general/store-championships-2017.md"
+    },
+    {
+      "title": "Hammerhead Hot Taek!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/06/hammerhead-hot-taek.html",
+      "date": "2017-06-02T17:01:00-05:00",
+      "category": "general",
+      "filename": "general/hammerhead-hot-taek.md"
+    },
+    {
+      "title": "Minor update to the TIE Fighter article",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/minor-update-to-tie-fighter-article.html",
+      "date": "2017-05-23T17:41:00-05:00",
+      "category": "squadrons",
+      "filename": "squadrons/minor-update-to-the-tie-fighter-article.md"
+    },
+    {
+      "title": "Quasar preview article hot take",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/quasar-preview-article-hot-take.html",
+      "date": "2017-05-19T17:01:00-05:00",
+      "category": "general",
+      "filename": "general/quasar-preview-article-hot-take.md"
+    },
+    {
+      "title": "A Quick Discussion on Worlds and the Status of John's Blogging Updates!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/a-quick-discussion-on-worlds-and-status.html",
+      "date": "2017-05-09T00:18:00-05:00",
+      "category": "general",
+      "filename": "general/a-quick-discussion-on-worlds-and-the-status-of-john-s-blogging-updates.md"
+    },
+    {
+      "title": "A Quick Thanks to All our Readers",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/05/a-quick-thanks-to-all-our-readers.html",
+      "date": "2017-05-04T12:06:00-05:00",
+      "category": "general",
+      "filename": "general/a-quick-thanks-to-all-our-readers.md"
+    },
+    {
+      "title": "Store championship swag!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/store-championship-swag.html",
+      "date": "2017-04-28T13:49:00-05:00",
+      "category": "general",
+      "filename": "general/store-championship-swag.md"
+    },
+    {
+      "title": "Dead link!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/using-lfc-bombers-and-you.html",
+      "date": "2017-04-18T05:00:00-05:00",
+      "category": "general",
+      "filename": "general/dead-link.md"
+    },
+    {
+      "title": "Dead article, used to be bidding example fleets.",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/04/bidding-for-initiative-2-fleet-examples.html",
+      "date": "2017-04-02T11:26:00-05:00",
+      "category": "fleet-building",
+      "filename": "fleet-building/dead-article-used-to-be-bidding-example-fleets.md"
+    },
+    {
+      "title": "Adepticon Sunday!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/adepticon-sunday.html",
+      "date": "2017-03-26T20:18:00-05:00",
+      "category": "general",
+      "filename": "general/adepticon-sunday.md"
+    },
+    {
+      "title": "Friday Adepticon",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/friday-adepticon.html",
+      "date": "2017-03-25T09:22:00-05:00",
+      "category": "general",
+      "filename": "general/friday-adepticon.md"
+    },
+    {
+      "title": "To Adepticon!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/to-adepticon.html",
+      "date": "2017-03-24T09:56:00-05:00",
+      "category": "general",
+      "filename": "general/to-adepticon.md"
+    },
+    {
+      "title": "DEAD LINK",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/squadrons-encyclopedia-5-using-sfc.html",
+      "date": "2017-03-22T08:00:00-05:00",
+      "category": "general",
+      "filename": "general/dead-link.md"
+    },
+    {
+      "title": "Armada wave 6 spoilers!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/armada-wave-6-spoilers.html",
+      "date": "2017-03-15T15:30:00-05:00",
+      "category": "general",
+      "filename": "general/armada-wave-6-spoilers.md"
+    },
+    {
+      "title": "dead link",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/03/squadrons-encyclopedia-2-imperial.html",
+      "date": "2017-03-01T17:24:00-06:00",
+      "category": "general",
+      "filename": "general/dead-link.md"
+    },
+    {
+      "title": "Armada 101: working your way up from starter box games tips and reminders",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/armada-101-working-your-way-up-from.html",
+      "date": "2017-02-27T14:27:00-06:00",
+      "category": "general",
+      "filename": "general/armada-101-working-your-way-up-from-starter-box-games-tips-and-reminders.md"
+    },
+    {
+      "title": "Mailbox/Q&A Post #1",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/mailboxq-post-1.html",
+      "date": "2017-02-12T09:58:00-06:00",
+      "category": "general",
+      "filename": "general/mailbox-q-a-post-1.md"
+    },
+    {
+      "title": "Armada 101: faction breakdown",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/armada-101-faction-breakdown.html",
+      "date": "2017-02-08T22:45:00-06:00",
+      "category": "general",
+      "filename": "general/armada-101-faction-breakdown.md"
+    },
+    {
+      "title": "Why play Armada? What makes it unique?",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/02/why-play-armada-what-makes-it-unique.html",
+      "date": "2017-02-01T12:06:00-06:00",
+      "category": "general",
+      "filename": "general/why-play-armada-what-makes-it-unique.md"
+    },
+    {
+      "title": "\"You are a member of the rebel alliance, and a traitor.”",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/you-are-member-of-rebel-alliance-and.html",
+      "date": "2017-01-27T17:49:00-06:00",
+      "category": "general",
+      "filename": "general/you-are-a-member-of-the-rebel-alliance-and-a-traitor.md"
+    },
+    {
+      "title": "Welcome!",
+      "url": "https://cannotgetyourshipout.blogspot.com/2017/01/welcome.html",
+      "date": "2017-01-25T11:35:00-06:00",
+      "category": "general",
+      "filename": "general/welcome.md"
+    }
+  ]
+}

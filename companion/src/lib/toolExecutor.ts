@@ -68,6 +68,45 @@ async function validateFleet(fleetState: unknown): Promise<unknown> {
 }
 
 // ============================================================================
+// Star Forge Suggestion API Calls
+// ============================================================================
+
+const STAR_FORGE_API_URL = 'https://star-forge.tools/api';
+
+async function getUpgradeSuggestions(shipModelId: string, upgradeType?: string): Promise<unknown> {
+  const params = new URLSearchParams({ mode: 'upgrades' });
+  if (upgradeType) params.set('type', upgradeType);
+
+  const response = await fetch(
+    `${STAR_FORGE_API_URL}/suggestions/${encodeURIComponent(shipModelId)}?${params.toString()}`
+  );
+
+  if (!response.ok) {
+    if (response.status === 404) {
+      return { upgrades: [], message: 'No suggestion data available for this ship yet.' };
+    }
+    throw new Error(`Suggestions lookup failed: ${response.status}`);
+  }
+
+  return response.json();
+}
+
+async function getLoadoutSuggestions(shipModelId: string): Promise<unknown> {
+  const response = await fetch(
+    `${STAR_FORGE_API_URL}/suggestions/${encodeURIComponent(shipModelId)}?mode=loadouts`
+  );
+
+  if (!response.ok) {
+    if (response.status === 404) {
+      return { loadouts: [], message: 'No loadout data available for this ship yet.' };
+    }
+    throw new Error(`Loadout suggestions lookup failed: ${response.status}`);
+  }
+
+  return response.json();
+}
+
+// ============================================================================
 // Tool Executor
 // ============================================================================
 
@@ -193,6 +232,22 @@ export async function executeToolCall(
         } else {
           result = { error: 'Navigate to faction not supported - please navigate manually' };
         }
+        break;
+
+      // === SUGGESTION TOOLS ===
+      case 'get_upgrade_suggestions':
+        result = await getUpgradeSuggestions(
+          String(args.shipModelId),
+          args.upgradeType ? String(args.upgradeType) : undefined
+        );
+        console.log(`[ToolExecutor] get_upgrade_suggestions for ${args.shipModelId}:`,
+          (result as { upgrades?: unknown[] })?.upgrades?.length || 0, 'results');
+        break;
+
+      case 'get_loadout_suggestions':
+        result = await getLoadoutSuggestions(String(args.shipModelId));
+        console.log(`[ToolExecutor] get_loadout_suggestions for ${args.shipModelId}:`,
+          (result as { loadouts?: unknown[] })?.loadouts?.length || 0, 'results');
         break;
 
       default:

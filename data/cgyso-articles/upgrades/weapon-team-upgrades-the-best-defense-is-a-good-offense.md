@@ -1,0 +1,53 @@
+# Weapon team upgrades: the best defense is a good offense
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2017/05/weapon-team-upgrades-best-defense-is.html
+**Date:** 2020-12-20T15:52:00-06:00
+**Category:** upgrades
+**Tags:** 
+
+---
+
+- You can use the same critical icon to trigger two different critical effects provided the colors "match" correctly. So you could use Assault Concussion Missiles (which wants a black crit) and XX-9 Turbolasers (which wants any color crit) together triggering off of the same black hit+crit icon.
+- Damage Control Officer does horrible things to this card, as she spends a single contain to prevent you from choosing any critical effects, period, during the Resolve Damage step.
+- You exhaust Fire-Control Team when you use it, so you can only double up on critical effects once per round.
+Flight Controllers are pretty straightforward - every squadron their ship activates gets one more blue die against squadrons they attack that activation (but only for that squadron activation, it doesn't help Counter and it won't buff the attack given by Colonel Jendon because Jendon is the one being activated, not the squadron he tags in). They buff Snipe attacks as well (as the Snipe keyword simply replaces the normal anti-squadron armament with a temporary new one during the attack).
+
+Flight Controllers can be extremely effective at boosting your fighter squadrons' capacity to beat down enemy squadrons, adding 0.5 average damage to each anti-squadron attack and also improving your odds of generating an accuracy against aces. They can be useful for adding more blue dice to squadrons that don't get many or any of them naturally, such as with Valen Rudor or TIE Defenders, and they're also good for improving multi-role squadrons that are poor to mediocre against squadrons, such as Y-Wings or B-Wings, up to being more capable, allowing you to get by with less dedicated fighters overall as your mixed-role mostly-bomber squadrons can mostly handle themselves (...mostly).
+
+The main issue with Flight Controllers is finding a good home for it. You'll want a ship with a good Squadrons value to maximize their usefulness but that ship will also obviously need a weapon team slot that isn't being used for something else. It's not too tough giving it to a dedicated carrier like the Quasar, but for mixed-role combat ship-carriers, you need to choose between a weapon team that directly benefits the ship's attacks or Flight Controllers, which can be a tough call.
+
+Gunnery Team got a bit more complex in Armada 1.5 so to the rules bullet points!
+
+- Gunnery Team triggers only after you resolve a concentrate fire command on the current attack.
+- The next attack you make can come from the same hull zone as the current attack the concentrate fire command was resolved in.
+- In the case of huge ships like the SSD, this means two of your three attacks can come from the same hull zone. Otherwise, this is both attacks allowed for normal ships.
+- You can resolve a concentrate fire command with a concentrate fire token and choose not to reroll any dice in order to trigger con-fire dependent upgrades. This is exactly like resolving a navigate command without changing speed to trigger Engine Techs.
+- The restriction sentence is separate from the concentrate fire trigger (note that it begins on a new line instead of continuing from the preceding sentence). This means no matter what, each of your hull zones cannot target the same target more than once during your activation regardless of whether you're trying to do so through Gunnery Team or some other method.
+- This is relevant to the Advanced Gunnery objective in particular. Choosing a ship with Gunnery Team to be the Advanced Gunnery ship is a waste of Advanced Gunnery as the "cannot" on Gunnery Team overrides the "can" on Advanced Gunnery.
+Gunnery Team is an oldie-but-goodie back from wave one that has been changed a bit in Armada 1.5 to require a concentrate fire command to trigger and only allows for the next attack to come from the same hull zone (a meaningless distinction except for huge ships, as I noted above). It's still a great upgrade on medium or large ships with a strong arc with longer-ranged dice. Specifically, you'll see this on ISDs, VSDs, Liberty MC80s, and Assault Frigates most frequently as they check those boxes. The main problems with Gunnery Team are it's expensive, you'll only get best use from it when you've got multiple targets in a desirable arc, and it requires a concentrate fire command to trigger. For all those reasons, it shouldn't be taken lightly, but is still an upgrade-slot-defining upgrade.
+
+The reason you'll want a strong longer-ranged arc is the longer you can reach out, the better your odds of being able to meaningfully tag two targets from the same arc. An ISD-II with Gunnery Teams can unload its full salvo of 4 red and 4 blue dice at some unfortunate ship at medium range and then lob 4 red dice at another target at long range without too much trouble, for example, and this is superior to the same situation where its second attack is a 2-red-dice side arc attack. This varies from ship to ship, but in general I like to use Gunnery Teams on ships that will have either 4+ dice at long range (like a VSD-I with Spinal Armament) or 6+ red+blue dice at medium range (like an LMC80) to maximize the odds of getting efficient use from the Gunnery Team. The Assault Frigate seems like an exception, but it's important to note that you typically see Gunnery Team as the default upgrade on it with Ackbar for 5 red dice side arcs. Otherwise, the slot is much more competitive - Gunnery Team can still be the right call, but you've got other good choices, too.
+Anyways, the main counter-argument I'll see to Gunnery Teams is that you won't always get to use them to their utmost from your best arc, particularly against more maneuverable enemy fleets that are endeavoring to stay out of there. That can certainly be the case. I'd counter that Gunnery Teams improve your chances of your most expensive ships getting to make both of their allowed attacks in a given activation and can improve the quality of your second attack as well. Sometimes the Gunnery Team itself helps with this, other times it does not. When you're spending a lot of points on a single ship, you need to give it the best chances of being effective and when it's stuck making only one attack in its activation, it's not.
+
+Even if you're not using Gunnery Team to shoot two different ships in one activation, being able to attack a ship and flak from the same arc is quite handy. Smart bomber commanders like to put their bombers in arcs of enemy ships that would preferably like to target ships so as to avoid an easy decision to flak them instead. Gunnery Teams allow you to shoot from that arc and still flak regardless.That can add up pretty substantially against a heavy bomber wing.
+
+The important final element to touch on here is the need for a concentrate fire command. In many cases, the kind of heavier combat ships that want to use Gunnery Team don't generally want to spend their command dial on adding one die to an attack when they've already got plenty of dice in the pool as is. You also have the issue of knowing when to time your concentrate fire dials on a (usually) Command 3 ship, which can be tough. The easiest solution is to simply have a concentrate fire token around for when you'll want to use Gunnery Team on the next attack. Given Gunnery Team even in 1.0 got used around 1 to 3 times per game, it means you need to plan to funnel around 2 concentrate fire tokens to the ship in question over the course of the game. The traditional method is with a Comms Net (or the new kid, Munitions Resupply) but there's nothing wrong with using a token-producing or retaining officer to help even things out.
+
+- Assault Frigate Mk-IIAs.
+ Three rear dice makes salvo very strong for the points cost on an 
+Assault Frigate A and it can take Linked Turbolaser Towers to keep the 
+damage consistent.
+- Starhawks. Trading out the contain for a second salvo token plus the LTT combo option makes the Starhawk a pretty angry counter-attacker.
+- VSD-Is.
+ VSD-Is that aren't specialized at a weapons-team-related task often 
+aren't quite sure what to do with the slot. With Local Fire Control and 
+LTTs (noticing a trend?) they can whip out some respectable red dice, 
+especially on double arcs (3+2), with a 2 red salvo counter option as 
+well if you're looking for mid-ranged mid-expense fire support with a 
+DON'T GET CLOSE OR I'LL BITE element to it.
+- The effect triggers after attacking the squadron in question. So you get to see how that shakes out first. It can still trigger even if the attack did nothing (if you rolled no damage or the enemy squadron used a scatter defense token, for example). You do need to successfully make an attack, however, so if you've got one flak die and shoot an obstructed squadron, that attack is canceled (as you would have zero dice at that point) and thus cannot proceed and you couldn't use Ruthless Strategists as the attack never happened, effectively.
+- You may only deal 1 damage to an engaged friendly squadron. If the enemy squadron in question is at distance 1 of your squadrons but not engaged due to obstruction, you couldn't use Ruthless Strategists (as obstruction blocks engagement).
+- The 1 damage being dealt is not an attack. Therefore neither your friendly squadron nor the enemy squadron can use defense tokens (specifically, scatter) to reduce the damage nor may they use any damage-modification effects that trigger during an attack (such as Biggs Darklighter).
+- A ship that wants to take them. For this you generally want a ship that has longer-ranged flak (at least one blue die) so it can hit more enemy squadrons. The ship in question also should be comfortable taking Ruthless Strategists instead of some other weapon team upgrade. This tends to disqualify most ships from consideration given that Ruthless Strategists is a bit niche (given it cares only about squadrons and isn't as easily applicable as something like Gunnery Team or Ordnance Experts).
+- Two flak dice is even better, as it will let you get 1 die through obstruction so it's harder to hide from you in a dogfight behind an obstacle.
+- A squadron wing that can make use of them. In general, you'll want a lot of hull points for cheap so that when you're trading hull for hull, your hull was purchased at a discount and your opponent's hull came more expensive. The best example would be using Ruthless Strategists to ping your 10-point 6-hull Y-Wings in return for putting damage on a sneaky expensive scatter ace like Dengar.

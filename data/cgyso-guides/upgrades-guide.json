@@ -1,0 +1,358 @@
+[
+  {
+    "name": "Boarding team upgrades (weapon team + offensive retrofit)",
+    "summary": "",
+    "tips": [
+      "This trigger window is upon the reveal command dial step, so you may discard a squadron command dial you just revealed if you wish.",
+      "Obviously, it's generally preferable to discard a token when you can instead of a whole dial.",
+      "Tokens are discarded, not spent. This is generally a meaningless distinction except for effects that work on spent tokens, like Wulff Yularen, who can \"save\" a spent token but not a discarded token.",
+      "Discarding a squadron token or dial doesn't count as a resolution of that command, so you can still resolve a squadron command using a remaining dial or token or from an upgrade like the Pursuant title.",
+      "Because the squadron command is resolved after you reveal your command dial, the boarding team triggers first and squadrons would be activated afterwards."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Clone Officers",
+    "summary": "The way you're going to distinguish your ships from one another, these specific clone officers all look so different from each other in how they interact that they.... wait, let me start again.  GAR O",
+    "tips": [
+      "Squadrons: powering up a friend's boarding team or letting your Nevoota Bee get an extra squadron pushed.",
+      "Navigation: giving your friend a way to leave while you navigate a bit better yourself.",
+      "Con Fire: Powering up Clone Gunners."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Flak Guns added to Offensive Retrofits",
+    "summary": "Figured I'd get my contribution out of the way early given the Venator is dropping today. John's gonna have his hands full, though, so be patient for Republic content please. We'll be making changes t",
+    "tips": [
+      "Your anti-squadron dice must be changed to black. It's not optional.",
+      "This includes their range as well - you're stuck only flakking at close range. Your dice don't stay the same as usual for checking range and then suddenly swap to black dice when it's time to roll your attack.",
+      "Your salvo attacks against ships effectively improve their range by one step: blue dice go out to long and black dice go out to medium.",
+      "Note that only your battery armament improves this way, not your anti-squadron armament. If we get some kind of effect like pre-nerf Rhymer that allows squadrons to attack at medium range (please AMG no), you couldn't salvo back at squadrons any further away than normal.",
+      "Speaking of which, this interaction is super weird. Because salvo uses your printed values, your anti-squadron armament only for your salvo attacks"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Fleet Support upgrades",
+    "summary": "That said, I've found Repair Crews occasionally useful with a Super Star Destroyer, as the ship is gigantic (it's easy to be at distance 1-2 pre- or post-activation), it isn't quite as worried about t",
+    "tips": [
+      "Like all measurements, \"at distance 1-5\" of a ship is from any part of the ship's base. The cardboard is only used for measuring attack ranges.",
+      "You can't reroll a die multiple times from multiple Bomber Command Centers.",
+      "Black die: 1 average damage -> 1.25 average damage (25% improvement)",
+      "Red die: 0.75 average damage -> 1.03 average damage (37% improvement!)",
+      "Blue die: 0.75 average damage -> 0.94 average damage (25% improvement)"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "GAR Specific Upgrades",
+    "summary": "With the advent of the new factions, we've decided to break apart our faction-specific upgrades into their own posts.  No sense having Rebel boarding teams clogging up the boarding teams article, espe",
+    "tips": [
+      "If you have Expanded Hanger Bays and Hyperspace Rings equipped to the same Acclamator, you get +1 squadron with Scout.",
+      "You can deploy these squadrons as your first deployments if you want to, so long as you don't put them within 5 of an opposing ship.  This means with enough Rings you can deploy all your squadrons before your ships, like a mini Fighter Ambush.",
+      "Relatedly, Fighter Ambush and Rings both occur \"before deploying fleets\" which means you can certainly give the squadrons you're setting aside the ability to be deployed at NOT distance 1 of an obstacle.  If that's worth it to you....",
+      "These should be used to speed up your ARCs, usually, but they can also be used to alpha strike your opponents with Jedi on turn 1 as well.  Make sure it's WORTH doing that with a 17+ point squadron, of course.  Make sure that no matter where you place them, you'll be able to command them at some point (be it turn 1 or 2).",
+      "This can only go on Star Destroyers in the GAR.  So for now that's Venators and Victories, but if they ever get a Gladiator type, go for it (and is why this is in here, in case that day ever comes)"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Grand Inquisitor added to Imperial officers article",
+    "summary": "",
+    "tips": [
+      "The line \"when an enemy ship... changes its speed\" is a little more",
+      "That said, you can use speed-down effects to encourage the owner of",
+      "Remember that you can't premeasure with the maneuver tool until your",
+      "On ISDs or (to a lesser extent) VSDs using Quad Battery Turrets, the",
+      "In conjunction with a navigate token for larger speed changes. This"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Hardened Bulkheads added to Offensive Retrofits",
+    "summary": "",
+    "tips": [
+      "Obviously, it's for Large ships only. No medium or small ships allowed!",
+      "It's common for people to misread this as \"you don't take damage from overlaps involving smaller ships,\" but that's not quite how it works. You take 1 fewer facedown damage card. This can be an important distinction in a few circumstances:",
+      "When you are overlapped by a Garel's Honor Hammerhead, you will take a faceup damage card. Garel's Honor effectively dodges the Hardened Bulkheads by delivering a damage card faceup, which Hardened Bulkheads doesn't prevent.",
+      "It's important to note that Garel's Honor only does its thing when it is the one ramming you, not the other way around. So should you overlap Garel's Honor during your own maneuver, Hardened Bulkheads will work just fine.",
+      "If you are suffering from the Damaged Controls faceup damage card"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial officers updated to wave 7",
+    "summary": "",
+    "tips": [
+      "Governor Pryce's initial effect (choosing a round token for her) is optional, so if you decide you'd rather not use her, you can choose to do that after both fleets are deployed.",
+      "Honestly, even if you're in a game where you consider Pryce to be a liability (we'll cover that in a bit), choosing round 1 at the very least gives you the small benefit of seeing how your opponent moved his fleet before you commit to her ship's course and it's extremely safe, with some extremely limited Fleet-Ambush-style exceptions.",
+      "Governor Pryce's in-game effect, however, is not optional. If you choose a round, you must activate her ship last on that round whether you like it or not.",
+      "Because the first player's effects trigger first when both players have effects with the same trigger/timing window, games with both players using Pryce have some interesting ramifications:",
+      "The first player will choose whether to use his Pryce and what round first, and then the second player will choose the same for his Pryce with full knowledge of the first player's decision."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial officers",
+    "summary": "Admiral Chiraneau's effect is fairly straightforward. The main thing to keep in mind is his speed \"overwrite\" happens prior to any other additions, so if Admiral Chiraneau is on a Gozanti with the Vec",
+    "tips": [
+      "Hopping Mauler Mithel (preferably with an Escort squad) around, inflicting splash damage for multiple rounds.",
+      "Attacking and then retreating with injured fighter squadrons, especially flimsier squadrons like TIE Fighters or TIE Interceptors.",
+      "Bonus points for retreating to the space station to heal.",
+      "Allowing Lambda Shuttles to keep up their Strategic shenanigans despite enemy squadrons.",
+      "Don't overlook even mundane options for Chiraneau - being able to redeploy fighters even in a regular ol' dogfight can let you concentrate forces against small portions of your opponent's squad group, which can really add up."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Imperial-specific upgrades",
+    "summary": "To bring the original two factions into line with how we'll be managing articles for the two new kids, it's time for me to give the Imperial-specific upgrades their own section. I'll be ignoring upgra",
+    "tips": [
+      "Leslie's initial dice bank happens after her ship deploys, which is normally at the start of the game but sometimes later if there are shenanigans like Hyperspace Assault.",
+      "Leslie's dice swap triggers whenever her ship attacks a ship, and that includes when making salvo attacks.",
+      "Specifically, this happens in the Resolve Attack Effects step, so you can do this before or after all kinds of other effects that reroll and set die faces, etc.",
+      "Like all other add effects, Leslie can add",
+      "When it says \"Star Destroyer\" only, it means \"Star Destroyer\" only. If the ship has Star Destroyer in the name, you can equip this title to it."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Ion cannon upgrades: she blinded me with science!",
+    "summary": "Overload Pulse runs into similar problems as the NK-7s: it is best used on smaller attacks that don't hurt that much to set up larger attacks later but the small ships that are ideally delivering it d",
+    "tips": [
+      "The effect only resolves if you have a blue critical icon showing when the time comes to choose your critical effect.",
+      "Heavy Ion Emplacements exhausts upon use, which means it can only be used once per activation (as it will be exhausted when used the first time) and can't be used at all if it has been exhausted preemptively by something like MS-1 Ion Cannons.",
+      "You must apply as much of the card as possible, so if an eligible hull zone is missing shields, then HIEs won't affect that particular hull zone.",
+      "Don't forget you always have the option of using the default critical effect if you get a blue crit but your target has few to no shields remaining.",
+      "Because of the timing order, HIEs trigger before damage in the pool is applied, which can have consequences for redirect tokens and how much hull damage gets through the suddenly-reduced shields."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Offensive retrofits: I'm offensive, how about you?",
+    "summary": "Flag Bridge has some new life with wave ten Clone Wars fleet commands that do not consume tokens to operate, which side-step its main restriction: they didn't want tokens anyways. Please remember that",
+    "tips": [
+      "Remember that Disposable Capacitors can only be equipped on small or medium ships. I know it says it right there on the card, but people can on occasion forget about the restriction and start daydreaming about putting it (illegally) on an ISD or HMC80.",
+      "The triggering window is when you activate the ship the Capacitors are equipped to.",
+      "Because you can pre-measure any time you want, you can measure the range from that ship to its intended targets prior to officially activating it, so you never need to guess if the Capacitors will be useful or not.",
+      "Remember that the \"when you activate\" window is at the very beginning of your activation. If you've already moved past the reveal command dial step, you're too late. Some people may not let you use the Capacitors if you miss your window, so be careful!",
+      "The blue dice extending effect only works against ships, not squadrons."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Ordnance article overhauled, Wide-Area Barrage and Ordnance Pods added",
+    "summary": "",
+    "tips": [
+      "Medium or large ships only (yes, I realize it says so right there, but people ask about putting this on Raiders or Peltas way more frequently than I would've thought).",
+      "Your extra black anti-squadron flak attack is in all respects a",
+      "It also works with anything that triggers on an attack, such as Agent Kallus or Ruthless Strategists or the like.",
+      "Ordnance Pods exhausts to use, so if it's preemptively exhausted, it can't be used.",
+      "Wide-Area Barrage is a black crit effect, which we covered earlier."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Ordnance upgrades review, or \"how I learned to stop worrying and love the bomb\"",
+    "summary": "As promised in my Gladiator-class Star Destroyer review, it's past time to talk about the different ordnance upgrades and which you should consider for your ships.",
+    "tips": [
+      "Upgrades that add black dice.",
+      "Upgrades with a black critical effect.",
+      "Because the damage from ACMs is dealt prior to the damage pool being resolved, this can have ramifications on how the defender's redirect defense token is resolved by removing some shields.",
+      "ACMs are otherwise just regular damage and so anything that hits the hull will be facedown.",
+      "Because ACMs exhaust to use, you can only use them on one attack - otherwise, they'll be exhausted and can't be used on a second attack."
+    ],
+    "synergies": [
+      "ACMs also combine well with fleets using Heavy Ion Emplacements, as they'll hit hull zones that are shield-light or even shield-empty (due to earlier HIE attacks), dumping damage into the hull very quickly.",
+      "They also work well when combined with upgrades like XI7 Turbolasers that make redirect tokens less effective."
+    ]
+  },
+  {
+    "name": "Rebel Officers!",
+    "summary": "",
+    "tips": [
+      "Obstacle movement says you place one end of the middle of the range ruler on the edge of the obstacle you want to move.  Then you move it up to the specified distance (here, 1-2).  It can't end on anything or under anything (squads, ships, other obstacles, any tokens).",
+      "\"The obstacle can be rotated as long as no part of that obstacle is beyond the specified maximum distance of its move from that object's original position.\"  So you can swing one end around, but the other end of the obstacle can't go more than the Distance 2 from it's start.",
+      "\"If an obstacle with a token placed on it due to an objective card or other effect is moved, that token remains on the obstacle.\"  Mines and VIPs get to move with the obstacle.",
+      "\"If an obstacle that is overlapped by a ship or squadron is moved, that ship or squadron remains in its current position after the obstacle is moved.\"  That X-wing does NOT get to move with it."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Rebel Specific Upgrades",
+    "summary": "With the arrival of wave 8, Eric and I split the Rebel and Imperial specific upgrades into their own posts.  As things continue to expand, we figured it was better to do this sooner rather than later.",
+    "tips": [
+      "Much like the Hammerhead titles, the name titles require a friendly ship with an identical title to be in range (in this case, at distance 1-4) and to exhaust the other ship's title to work (leaving the benefited ship's copy of the title alone).",
+      "A reminder that \"at\" distance 1-4 means \"any part of your base,\" so it's a pretty decent-sized bubble.",
+      "Just like the Hammerhead titles, each name title can only be used once per triggering event. You can't exhaust multiple versions of the same title to stack the benefits.",
+      "Each name title has an \"X\" only restriction, meaning the X needs to be part of the ship's name to consider taking that title.",
+      "Generic titles are still titles, so you can't equip both a unique title and a generic title to the same ship."
+    ],
+    "synergies": [
+      "Repairing all by itself is useful, but it's not often enough to keep up with the pace of damage hitting your ships. That said, repairing combines great with other sources of damage reduction and/or dice screwage, so make it a point to include officers like Lando or maybe even Derlin as well as fill those defensive retrofit slots."
+    ]
+  },
+  {
+    "name": "Rebellion in the Rim offensive retrofits",
+    "summary": "",
+    "tips": [
+      "It helps to check the basic mines rules to see how they work in-game.",
+      "You place the mines after deploying obstacles and before deploying fleets.",
+      "The restriction on tokens beyond distance 5 of enemy ships is future-proofing, basically. At this point, there is no way for ships to be on the table prior to usual fleet deployment.",
+      "Because you're deploying mines prior to deploying fleets, keep in mind what options your opponent has for fleet deployment. If you cluster mines too heavily, certain parts of the table become very unattractive for fleet deployment. That can be the entire point, but if you'd rather some of your mines actually detonated, you may want to spread them out a bit more.",
+      "Deploying mines on top of obstacles helps keep them safe from anti-mine ship attacks but makes those obstacles a big priority for avoiding. Whether the increased mine survival is worth the decreased chance of exploding is your call."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Recusant Separatist Officers Added to the Separatist Officers article",
+    "summary": "Three newcomers to the Separatist Officers article, just in time for the Recusant article coming... hopefully soon. Also, I changed the upgrades index a bit: now the faction-specific upgrade articles ",
+    "tips": [
+      "He starts with the 2 squadron tokens that you spend to power his effect. It doesn't matter that they're squadron tokens, as they don't interact with squadron commands in any way and there's no way to recharge them. It's just thematic because his effect has some bearing on squadrons and Armada doesn't have a generic \"power token\" for these kinds of things.",
+      "He triggers at the start of the Squadron Phase. Even if you're player two, you need to make your decision on San Hill before your opponent starts activating squadrons during the Squadron Phase.",
+      "When you activate squadrons during the Squadron Phase, for each token you discarded, you may activate one additional squadron at close-long range of San Hill's ship. In most cases, this will allow you to activate a total of 3 (1 token discarded) or 4 (2 tokens discarded) squadrons.",
+      "The \"regular\" 2 squadrons you activate can be at any range of San Hill. The bonus activated squadrons have to be at close-long of him.",
+      "The activated squadrons are still Squadron Phase consolation prize activations of either moving or shooting. They don't otherwise do anything special or get any other benefit, like triggering AI."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Separatist Officers",
+    "summary": "Welcome to the Separatist officers article! Let's talk about who gets to ride around in the robot space donuts, shall we?",
+    "tips": [
+      "Your opponent has a raid token on their ship.",
+      "Assaj lets you remove the con fire raid (\"discard 1 raid token\")",
+      "Your Patriot Fist gets the con-fire token it needed to reroll another dice this turn.",
+      "If you replace your normal Squadron Phase activation using Hyperwave Signal Boost,",
+      "Tacky the Droid only works on non-concentrate fire tokens. Sorry, concentrate fire."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Separatist-specific upgrades",
+    "summary": "We're trying something new with the release of Clone Wars and that is separating out all the non-officer upgrades that are only available for a specific faction into a separate article. Previously, we",
+    "tips": [
+      "A quick hyperlink to the raid rules breakdown is in order (here).",
+      "The big one to remember is you can't have more than one raid token of a given type at a time so there comes a point where pouring raid tokens on gets diminishing returns.",
+      "The Rocket Troopers come with two different modes, each of which requires exhausting:",
+      "Adding a raid token against a ship you're non-salvo attacking at close to medium range.",
+      "Adding a die of any color already in your pool to the pool when attacking a squadron at any range."
+    ],
+    "synergies": [
+      "Expanded Hangar Bay is appealing for just more raw squadron muscle, especially when combined with other effects that trigger on squadron commands or reference your squadron value, like Fighter Coordination Team or Flight Controllers.",
+      "When in doubt, put the card on top your command stack so you have to interact with it to get to the dials. I do this with cards with the same timing window like Phylon Q7 Tractor Beams and it works well."
+    ]
+  },
+  {
+    "name": "Skilled First Officer: a love letter",
+    "summary": "",
+    "tips": [
+      "(whatever, usually a navigate or repair intended as a token)",
+      "(whatever, usually a navigate or repair intended as a token)",
+      "Actually something else! What a twist!",
+      "Use the command dial on the round you wanted it if everything works out fine and save the Skilled First Officer for some other use.",
+      "Use the command a round earlier than slotted."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "SSD and RitR Imperial officers added",
+    "summary": "",
+    "tips": [
+      "Sorry, no using him with his commander version. He can only put on his officer pants or his commander pants, not both.",
+      "The start of the first round is basically once everyone is done with fleet deployment and before the Command Phase, where command dials are set for the first time.",
+      "The speed-1 maneuver otherwise behaves just like a normal speed-1 maneuver, which means:",
+      "You use your ship's speed-1 column for determining your ship's yaw, just like with Engine Techs.",
+      "You have a Determine Course step where you can trigger effects like Moff Jerjerrod to give you extra yaw."
+    ],
+    "synergies": [
+      "Because very few other effects can possibly trigger this early, it's difficult to combine Ozzel's free move with any other shenanigans like Engine Techs (you can't possibly have any nav tokens/dials yet) or fleet commands (they trigger at the start of the ship phase)."
+    ]
+  },
+  {
+    "name": "Support Team Upgrades",
+    "summary": "",
+    "tips": [
+      "Compartment Fire x2 - You cannot ready your defense tokens",
+      "Crew Panic x2 - Before revealing your command dial, discard it with no effect, or reveal it, but take one damage",
+      "Blinded Gunners x2 - You cannot spend Accuracy rolls while attacking",
+      "Comm Noise x2 - Your opponent may either reduce speed by 1 or choose a new command on your command dial, then flip face down",
+      "Life Support Failure x2 - Discard all command tokens, you may not have any command tokens"
+    ],
+    "synergies": []
+  },
+  {
+    "name": "The Best Defensive Retrofits....",
+    "summary": "",
+    "tips": [
+      "You have to exhaust the card and a readied defense token.  Which means if you get hit with Boarding Troopers before you get to defend, you can't use those red (exhausted) tokens.",
+      "You can't resolve the Salvo more than once per attack, which means you probably shouldn't equip this to anything with a Salvo already.",
+      "You resolve the Salvo effect instead of that token's effect.  Which means you can't use this with a token you're using on another effect; I can't use one of the MC30's two evades to evade with and then use the other for this.  I CAN however, use an evade as an evade and a redirect as a \"salvo.\"  I just then can't also redirect as well."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Two RR Officers!",
+    "summary": "Governor Pryce is back, and she's.... slightly less mean! Once per activation (which means both yours for regular attacks and your opponent's for Salvo ones), you can spend a shield to change a die to",
+    "tips": [
+      "Your opponent has a raid token on their ship, and a command token to possibly clear it and trigger the command (most likely squadrons but it could be nav as well).",
+      "You, using Dooku or B2s, give them a second raid token (for the purposes of this exercise, let's say you give them a concentrate fire raid).",
+      "Assaj attacks and lets you remove the con fire raid (\"remove 1 raid token\") and the command token they wanted to use to clear the raid (\"1 command token\").  You then get that command token, effectively stealing it from them.",
+      "They are now sitting with their original raid, no token to clear it, and have just been attacked by your Assaj ship.  The earliest they can pass a command token (to clear that initial raid, if they were even thinking about it) and activate that ship is after another activation of yours.  Or they can discard the dial they have and never get to resolve that command."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Wave 8 upgrades: flag bridge",
+    "summary": "",
+    "tips": [
+      "The ship must be medium or large (sorry small ships and SSDs).",
+      "The ship must be your flag ship.",
+      "It's a Modification, so that might inconvenience your upgrade plans.",
+      "The equipped ship can't use any command tokens to resolve a fleet command.",
+      "This means if the ship already had a fleet command slot (like a Cymoon), you can give it Flag Bridge for a second fleet command, but then you can't use command tokens to feed either of the fleet commands."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Wave 8 upgrades: Imperial officers",
+    "summary": "",
+    "tips": [
+      "You resolve a command as though you spent a command token of that type. That means no spending a dial and then using Beck to \"add a token\" to that command. That's not how she works. You resolve a single command at token strength and that's that.",
+      "That also means you can't use Beck to resolve a command you already resolved normally. Only one command of each type per activation.",
+      "Once you resolve that command, you get a raid token of that same type of command.",
+      "Because raid tokens prohibit you from resolving commands, that means Becky can't do those same commands again in the future until you wipe those raid tokens.",
+      "Becky can't help you wipe raid tokens with her ability either. All she does is resolve commands at the fun-size level, she doesn't provide actual tokens."
+    ],
+    "synergies": []
+  },
+  {
+    "name": "Wave 8 upgrades: weapon teams",
+    "summary": "",
+    "tips": [
+      "Leslie's initial dice bank happens after her ship deploys, which is normally at the start of the game but sometimes later if there are shenanigans like Hyperspace Assault.",
+      "Generally you want that red die to be the double-hit side if you're second player, but you can make an argument for a crit (if you have a special crit to trigger) or accuracy.",
+      "Leslie's dice swap triggers whenever her ship attacks a ship, and that includes when making salvo attacks.",
+      "Specifically, this happens in the Resolve Attack Effects step, so you can do this before or after all kinds of other effects that reroll and set die faces, etc.",
+      "It's particularly strong snagging a good die from the current pool and swapping in a blank die and then rerolling or flipping the blank die to something else."
+    ],
+    "synergies": [
+      "Starhawks. Trading out the contain for a second salvo token plus the LTT combo option makes the Starhawk a pretty angry counter-attacker."
+    ]
+  },
+  {
+    "name": "Weapon team upgrades: the best defense is a good offense",
+    "summary": "Flight Controllers can be extremely effective at boosting your fighter squadrons' capacity to beat down enemy squadrons, adding 0.5 average damage to each anti-squadron attack and also improving your ",
+    "tips": [
+      "You can use the same critical icon to trigger two different critical effects provided the colors \"match\" correctly. So you could use Assault Concussion Missiles (which wants a black crit) and XX-9 Turbolasers (which wants any color crit) together triggering off of the same black hit+crit icon.",
+      "Damage Control Officer does horrible things to this card, as she spends a single contain to prevent you from choosing any critical effects, period, during the Resolve Damage step.",
+      "You exhaust Fire-Control Team when you use it, so you can only double up on critical effects once per round.",
+      "Gunnery Team triggers only after you resolve a concentrate fire command on the current attack.",
+      "The next attack you make can come from the same hull zone as the current attack the concentrate fire command was resolved in."
+    ],
+    "synergies": [
+      "Starhawks. Trading out the contain for a second salvo token plus the LTT combo option makes the Starhawk a pretty angry counter-attacker."
+    ]
+  }
+]

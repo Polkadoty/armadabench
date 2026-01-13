@@ -1,0 +1,20 @@
+# Republic Squadrons - Deltas and Jedi
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2020/12/republic-squadrons-deltas-and-jedi.html
+**Date:** 2020-12-04T00:33:00-06:00
+**Category:** squadrons
+**Tags:** republic
+
+---
+
+The fanciest and most expensive squadrons in the GAR to start, the Delta provides the first available way to get dedicated Force powers onto the table.  Let's see what they can do!
+
+Clocking in at 17 points, this is not a squadron to be spammed, which makes sense.  There weren't 134 points of Jedi out there, all fighting in the same battle.  The anti-squadron dice are the strongest base in the GAR with 3 blue 1 black, which benefits from Adept 1.  It can also combine with Swarm, if you gave it that from the Nevoota Bee.  The 1 blue anti-ship benefits from Adept as well, so it's sorta like having a black dice there (0.75 expected damage from a black dice versus 0.75 for a rerolled blue dice).  And yes, you can use the Adept on the Counter attack as well.  Keeping it semi-alive is that dodge ability, which functions like an imitation defense token.  This is great against things like TIE Bombers and really not going to save you if you hit 2-3 Interceptors.  You can reroll 1, and it DOES help, but 4 rerolled into 3 damage still REALLY hurts.  Be careful not to bite off more than you can chew, remember that a bunch of generic Jedi died on Geonosis.
+
+The trick with these is to NOT spam them; two generics (or an ace and generic) paired with Axe can REALLY keep these alive.  Presumably, when someone hits you with counter-2 or an attack, Dodge forces them to reroll one hit and Axe spends a token to prevent another.  This HELPS especially against counter; this does diddly when Saber Squadron rolls 6 damage against your squad; you just sorta.... feel sad then.  I realize the advice of "Don't get into that situation" is INCREDIBLY useful, no notes.  Sorry.  Pick off stragglers at the edges, then start beating up other squadrons as needed.
+
+One note about Adept-X; it is NOT "I can reroll one dice X times," it's "I can reroll X dice once."  This matters more with Adept 2, but I wanted to put it here instead of below each ace below.  Because usually when you see Deltas, though, it's going to be the aces.  And what a great selection we have!
+
+Plo Koon looks tailor made for Y-wings and more specifically V19s (as usual with these Jedi!).  Giving both of those non-unique squadrons at distance 1 counter 1 means that yes, your V19s can counter-attack and use Swarm on it.  Adept-2 means he pairs with Ahsoka, and his ability wants to focus down the squadron fight on your side faster.  He's a flip side of Luminara, as while she wants to prevent damage coming in, he wants to provide more going into your opponent.  Combining them is great, but it's also 47 points.  If you can factor that in..... but that's a topic for a different article!
+
+Anakin (or Splashikin as Truth has started calling him) is your basic Jedi ace.  Dude hits like a TRUCK and is worth bringing for sure; I'd almost count him as your first ace a lot of the time!  His ability only works on his activation, so a second shot from Ahsoka (above) doesn't let him use his ability, but the dice he throws and the damage he can do are significant.  3 damage and 1 accuracy (not impossible from 4 dice and Adept-2) or 2 damage and 2 accuracies, combined with his own ability can instantly kill any 3-hull scatter ace.  Imperials and CIS pilots fear this Jedi Master Knight. His black die anti-ship with Adept should be 1 damage almost every time, and it is well worth throwing him against ships when you've mopped up the squads.  For added fun, pair him with Flight Controllers.  He's also the only ace with both Dodge AND defense tokens.  Make sure to apply THAT first before you do anything else.  He is a 4 hull scatter ace, though, and remains quite squishy.  Make sure you have V19s, probably Axe especially, protecting him to keep him alive and only in the engagements that matter.  If you over extend him, or ANY of these Deltas, for that matter, they will die.

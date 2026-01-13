@@ -1,0 +1,30 @@
+# Guest article: Nathan Coda's Worlds report!
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2018/05/guest-article-nathan-codas-worlds-report.html
+**Date:** 2018-05-21T18:26:00-05:00
+**Category:** general
+**Tags:** 
+
+---
+
+John and I asked our fellow Worlds attendees from the greater Chicagoland area if they were interested in sharing their own take on their Worlds experience and Nathan Coda (you know, that Nathan Coda, haha) volunteered. It's not too late for you, Nick G., Nick L., or Jack! Without further ado, here's what Nathan has to say:
+
+
+Hello fellow Admirals! I’m Nathan Coda, originally of the Twin Cities, most recently of Chicagoland. I’ve been practicing for worlds this year with Eric and John, and they were kind enough to invite me to contribute to their blog with an overview of my 2018 worlds experience. Which, in general, went pretty okay for me.
+
+
+That's me!
+
+This year was my third worlds tournament, and I am consistently impressed with the caliber and quality of people that I meet there. Everyone I met was positive and a pleasure to talk with, no matter how their games were going. It’s extremely awesome to be able to hang out with people who are all so passionate about the game and geek out about it with them.Does anyone else remember when Rieekan came out with the MC30, and everyone thought he was the worst? He sure showed us, huh? Rieekan’s ability is not super sexy, but it does provide something I find critical for competitive play - consistency. Knowing your ship/squadron will be able to activate this turn, no matter what, makes the whims of the dice less impactful. You may kill my MC30 parked in front of your ISD with a lucky close-range double accuracy 7 damage shot. But I still get to activate to rip your shields off, so my bombers can start hammering your hull. That’s why I’ve run Rieekan the last 3 years for worlds - he makes sure those clutch plays go through.While I always bring a significant ship threat to a game, I find that I really enjoy the intricacies of the squadron game. When I run without squadrons, I feel like I’m playing half a game. So I’m generally running 90-134 points of squadrons with my builds, with different squadron selection for almost every tournament. For worlds this year, I was having trouble making Yavaris click without a built-in FCT move. Adar Tallon can help with that, but I didn’t like how he fit with my flotilla builds. Just messing around, I decided to add Hera to the list. And man, she just made the squadron loadout gel. She can help ensure good Yavaris placement for the next round while getting some good early rogue damage in. Plus, she can be super obnoxious against non-squadron lists, harassing early and often with rogue bomber friends. I’m looking forward to messing around with her in some other lists.
+
+
+
+Hera and friends
+
+I’m not going to go into detail about my games here - if you want an (admittedly dry) summary, you can find it here. Instead, I’m just going to provide commentary around some of my game highlights in this article. Note that, although there’s not a highlight from each of my games, every one of my opponents were great. They all played a good game and were excellent people. I look forward to when we next have the chance to push plastic spaceships at each other.We do a lot to try to mitigate luck in Armada. At the end of the day, though, it’s a dice game, and luck happens. My third game of swiss was up against Dennis (Tokra) and his Sloane Aces list. He had done an excellent set of activations over two turns, trading Howlrunner for my 3 YT-1300s, Jan, and a Scuurg. I had done some chip damage to his remaining squadrons, and they were hanging around the station to repair. Ten Numb with Toryn has a 58% chance to crit on one shot, which makes it a 33% chance to trigger him on both shots of a double tap. Not impossible, but not super likely. For this game, though, he was feeling especially heroic, and turned the game dramatically in my favor - at the end of that round of shooting, only Jendon remained. I can take credit for some of the squadron placement, but I was seriously sweating Tokra’s rough treatment of my squadrons and was not at all confident I could salvage anything. But sometimes you just have to roll the dice and see what happens.
+
+
+
+Not the hero we deserve, but the hero we need
+
+My fourth game of Swiss with Eric also ended with a good serving of luck - you can read more about that in his excellent blog post here. However, for me, this game was far more about the mistakes I made. It’s hard to look at a decision and understand completely how it impacted a game, but it’s often easy to realize after the fact when you made a bad move. In this game, Eric had to kill my two real ships to win, and I had to keep them alive. There was no way my MC80 could get away - it just had to take down as many ships as it could with it. No, what I really needed to do was get Yavaris away. I started out great with my MC80 cutting right and Yavaris cutting left, flying past each other. But then I slowed Yavaris down, rammed a transport, then ran over both a debris field and an asteroid, before finally running into a hammerhead to explode - all while only providing minor contributions to the actual fight. Again, it’s hard to say what would have happened if I had flown differently - Eric would have changed his plan to compensate for sure. But mistakes were certainly made.My final game against Yik was a brutal squadron slugfest. I really enjoy the squadron game, and it was an absolute pleasure to play such a technical and competitive game. We both caught some luck and made some mistakes, but the challenge and skillful play was fun throughout. And that’s really what matters at the end of the day. I’ve been knocked out of elimination the last two years, but even losing, it’s always been good games with good people, so I’ve kept coming back. This year was my year, but I’m looking forward to building new lists and playing more games with this great community.

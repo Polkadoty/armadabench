@@ -1,0 +1,30 @@
+# Clone Officers
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2020/12/clone-officers.html
+**Date:** 2021-06-18T10:00:00-05:00
+**Category:** upgrades
+**Tags:** 
+
+---
+
+The way you're going to distinguish your ships from one another, these specific clone officers all look so different from each other in how they interact that they.... wait, let me start again.  GAR Officers!
+
+Adi Gallia is an interesting choice for an officer to be sure.  For each defense token you spend DURING THE DEFENSE TOKENS STEP (Waves in NOT-Thermal Shields), you can suffer a damage on an adjacent hull zone to the one being attacked.  Which means that you can spend a redirect and potentially move damage to 2 different hull zones at once, in a fashion (however many you want from the redirect, however many total defense tokens you spent for her ability). The real fun thing is when you can combine her with someone like Obi-Wan (who still gets to redirect and reduce the damage by 1) or Luminara (to refresh another defense token).  What's ALSO interesting is that she isn't an "exhaust to do a thing" card.  She just... DOES.  So long as you have shields and defense tokens to spend, well, you're gold then.
+
+I like her on your flagship, acting as a soft, unpreventable redirect.  Everything they lock down is another damage you're not suffering, every token they let you spend is a damage mitigated.  She goes great with Obi-Wan, Luminara, and emergency redirects for a lot of the other GAR commanders.  For fun, her on an Acclamator means that if I spend a brace and salvo from a front arc shot, I can then put 2 into a side arc.... just how much I'd redirect if I was able to use that token.  If they've locked the brace, well then that turns into 2 redirected normally, and my redirect/salvo spend combination puts 2 into the OTHER side arc.  She's a weird second redirect that you need to use a few times to get the benefit out of, but the benefit is there.
+
+Barriss Offee pairs well with a ship that's approaching from the side.  By spending the redirect, it acts as if you turned or flipped the ship entirely in 3D space; any obstructed or unobstructed shot or what have you on the original hull zone still occurs, it's just pointed at a different hull zone this time.  The easiest way to think of her is that by spending your redirect early, you get to adjust a different shield dial on that ship than the one your opponent pointed at; everything else happens normally.
+
+The ideal solution is to spend the redirect to get shot on the opposite side, where you A) have shields already/still and B) won't take enough to hit the hull after that.  Because of the timing window, this occurs BEFORE Intel Officer, just like Thermal Shields, so it also can't be targeted by him then.  However, you've now spent your redirect during this attack.  Which means that any damage on that side is going into that side, full on (brace notwithstanding of course).  She gets around XI7s, in a fashion, in that you've chosen a new hull zone that can't redirect more than 1 damage from it.
+
+Like I said, ideally, you want her to be able to push damage all the way across the ship.  If you push to an adjacent hull zone, why didn't you just use the redirect like normal?  You still CAN of course, and getting around your opponent's accuracies is its own reward, of course.  It's SOMEWHAT like a Tranquility effect, only instead of moving the shields around, you're moving the attack zone.  She fits well in a Luminara double Venator list, which makes sense as she WAS Luminara's padawan.  She also makes sure Mar Tuuk doesn't get all the fun times he wants to, and heck, you might even pull a dice from his pool...eventually!
+
+Timing note: you spend when they declare a hull zone.  You choose when it's time to resolve the damage.  So if you're getting shot in the side and take 4 damage, you can just choose the front of your Venator (with its 4 shields) as desired.
+
+Clone Captain Silver has a LOT of uses.  The easiest to see is the interaction on your Mercy Mission Consular.  But you can also put him on a large base and pull the handbrake to go from 3 to 1 to 3 on 2 turns.  However, no spending navigate dials (looking at YOU, Bail Organa!) or tokens.  He lets you go from 1 to 4 or 0 to 3, no 0 to 4.  But 1 to 4 or 4 to 1 can do some CRAZY good things, especially since he lets your ship do another command, like engineering or squadrons or concentrate fire.  He's not crazy flashy, but he'll get you out of trouble when you need to, and he'll get Jake and Elwood into the county assessor's office when you're on a mission from God your charger into the endzone to score Mercy Mission.  Invest 4 points for the chance to net 40? Yes PLEASE! Great combination in my mind, for sure.
+
+Each of up to 3 squadrons without Adept (no Jedi or Anakin) gain Assault.  To get this, you're going to need to give up a hit icon, which can be a hit or hit/crit (no straight crits). You get to choose the raid token when you apply it, and I will say that V19s throwing raid out is mighty solid as your bombers follow up and hit a hull zone, especially since you can spend the hit to Assault them before they get to reroll anything (with evades, PDIC, or some other effect that occurs in the Resolve Defense Tokens step of the attack sequence).  Assault happens in Step 3, Resolve Attack Effects.  Now, what you do with that raid is a very good question, but I leave that to you.  My main issue with the card is that I have yet to fully figure that out myself.  He, like Ahsoka above, goes on your/a carrier.  I don't hate the idea of putting him with Plo Koon and raiding your opponent for Engineering as you drill into one hull zone with XI7s, preventing him from using a token to get shields back in that hull zone as you move in for the kill.
+
+- Squadrons: powering up a friend's boarding team or letting your Nevoota Bee get an extra squadron pushed.
+- Navigation: giving your friend a way to leave while you navigate a bit better yourself.
+- Con Fire: Powering up Clone Gunners.

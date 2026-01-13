@@ -1,0 +1,30 @@
+# Four RR2 Squadrons!
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2023/05/four-rr2-squadrons.html
+**Date:** 2023-05-17T20:39:00-05:00
+**Category:** squadrons
+**Tags:** 
+
+---
+
+Hooray, we got 4 new squadrons! Let me dump them all HERE before inserting them into their own posts. Hit the jump for some cool new stuff!
+
+Matchstick! So at its most basic, 14 points for a 2 brace bomber is great in GAR.  Your other aces are usually so expensive that he's well worth just being cheap for one of your token aces.  That's most of what you're taking him for. You also can sorta not take a Boosted Comms on one carrier, or extend your range EVEN more. Is that worth it, especially compared to the old broken "gives out Rogue" version? Man I highly doubt it, but the 2 braces are nice at least.
+
+Note that the squads nearby ALSO have to have Bomber. So, only Anakin above (and not the Delta version) gets the fun power. Wee? These aren't EXTRA squad commands, like Fenn Rau does, just.... nearby ones. It's a nice training wheel, I suppose, to make sure your squads stay where they're supposed to, and let you extend them forwards if needed. But he's certainly gonna be your 6th man, your 5th ace, your 404th point, if you get my drift.
+
+Vult Skerris is.... a guy! Who flew for the Empire! And now he's in an Interceptor! I don't care enough to go look up what he did in THE LORRRRRE, because it doesn't really matter.  At 18 points, he's one of the more expensive Imperial options, tying him with Soontir.  He also can't "regular" attack in the squadron phase.  But he can make counter attacks, specifically, a strong counter-4 (boosted with Howlrunner, or Dengar, or whatever myriad other ways you've got).
+
+His job is to alpha in and attack (again, Defender dice are solid!), and then be a real pain for your opponent with his counter-4.  Fixing him into a Scatter/Brace combo helps, but the Imp squad game is a crowded spot. He requires a squad command every turn, which isn't horrid as Quasars or Gozantis are everywhere. The issue with him is he's speed 5 and wants to alpha strike, but he has no inborn way of protecting himself. Soontir above pairs well with an escort for the free extra damage, Cienna has the permanent obstruction, and Skerris has counter-4. With counter-4, though, my ace with a brace or 2 attacks and you do 2 damage back.  3-4 damage and he pops easily enough, so you might want some Escort of your own. Changing his defense tokens definitely improved him, but he hasn't fully found a place yet. If you can devote the command to him every turn, he's certainly worth it.  Just make sure he stays alive.
+
+Add on your defense tokens, and you can survive a lot longer than you would think.  The Relay-1 is a nice topping on the cake; may I suggest pairing him with Phlac-Arphocc Prototypes to help "protect" your bombers?  But you're taking him for the Escort and Screen.  Wat is good in small screens too; him and a few Vultures can make a solid dent, especially when he leads the charge and acts as a swarm node for them all.  The main obstacle to taking him as a squadron is that you can't take his officer card, which means you CIS players are going to need to fill that chair.  However, if you're going CIS134, he's your first squadron as you figure out the number of Hyenas to add after that.
+
+Fenn has a few solid abilities going for him.  First, Escort and speed 4.  Pairs well with RR1 Hera and Biggs balls.  A lone Brace token isn't much, but with 7 health.... he also has Assault, which, again when paired with Hera and maybe even Toryn, can get that blue hit for a raid token, and then the black can be damage.  Nice if you need it, great if you can figure out how applying it helps you win the game.
+
+The main bits about BEING a Gauntlet fighter haven't changed from the Imperial one or Gar Saxon, but you have 2 things in faction they do not: Toryn Farr, and Hera in an X-wing.  I can't stress enough how important they are to you doing ANYTHING with his stats; 2 blue and a red are really mediocre for 24 points, and even though his anti-ship has an 87.5% chance of 1+ hits.... I'd like higher, personally. I like Raid in Rebels, especially as you can hit someone with either a nav or an engineering mid-game and finish them off the next turn; Rebels excel at chipping into someone and not at one hit KOing them, so lean into that and make sure that you can finish them off next turn.
+
+You're mainly taking him for his coolest ability, the long one that required like 3 FAQs.  When he activates, immediately afterwards you can grab 2 generic friends at distance 1 and activate them as well, just as if the ship itself was activating them.  Which means if Flight Controllers or Yavaris bombing for that second die against ships? The 2 generics can get that bonus as well, so long as Fenn was at D1 to activate them.  Imagine a 5 squadron 5 Yavaris attack, or 6 squadrons with Flight Controllers (3 base from an Assault Frigate or MC75, a token for a 4th, and Fenn's friends for a 5th and 6th) rolling into some Imperial pilots.  And not only was Fenn there, but Jan Ors, Hera, and Biggs decided they were all fighting the Empire today!
+
+He also works if you use a token to only push him.  Which means that the Liberty title with a token pushes 2 squadrons, one of whom is Fenn, who pushes 2 on his own.  One squadron token, 4 squads pushed.  Now THAT'S efficient.
+
+You're going to want to find ways of either rerolling his dice (the aforementioned Hera/Toryn, who can work to improve a LOT of his output), especially as he doesn't have Bomber. In practice, he's going to be very likely seen with either 2 Scurrg generic bombers as extra muscle into your opponent's ship, or 2-3 generic X-wings as part of a Biggs/Hera/Jan Ors ball.  Because he's speed 4, don't outfly your coverage unless you need to (as a Sato spotter, for example), because if you're not at D1, your friends don't get to activate and he's probably not worth 24 points then. Special mention, of course, to Rex, to REALLY get him and Raid going.

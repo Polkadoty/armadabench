@@ -1,0 +1,26 @@
+# catch all
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2021/06/catch-all.html
+**Date:** 2021-06-18T08:30:00-05:00
+**Category:** general
+**Tags:** 
+
+---
+
+Continuing on today, here's all the remaining GAR-based upgrades (which have been largely included into builds and the articles already; I'll do a quick review these upcoming weeks but I'm outta town tomorrow, so.... soon)
+
+I also updated the charger builds and killed one of the ones that's been replaced entirely by the Pelta.
+
+Mercy Mission is the GAR exclusive fleet command, much like Jedi Hostage. Jedi Hostage really only belongs in like a fleet (TF1726) and a half (Dooku I guess?), while MM can fit in way more spots.  The downside of it is that realistically, you're also bringing a Charger and stapling this to it.  I wouldn't try it with a Pelta, but sure, staple Engine Techs to this bad idea train you've decided to run and hope your Pelta doesn't explode.  Mercy Mission sets up a secondary objective that your opponent has to deal with, and they need to keep an eye on your ship, as 40 points can swing games.  Of course, if they blow you up, it's 20 points... and the cost of your now dead ship. You're making a side bet that you're going to be able to get everything you want out of your ship, and watch out that you don't have to pay.
+
+You CAN (and likely should) staple this onto a larger ship with Flag Bridge, because they're both free.  The downside to this is that either you have your commander on a medium base without a defensive retrofit (Acclamator-I) or you ate your offensive retrofit slot on your Venator-II. (Please don't put this on a Venator-I, you have many better choices I promise)
+
+The real subtlety to this card is that you want your ship to contribute to the fight, but you also want it to be able to leave when pressed so David Tyree can catch the ball and ruin the Patriot's perfect season (I'm aware that wasn't a touchdown pass, but counterpoint: screw Tom Brady).  Think of it like Blood Bowl.  You can't JUST bring a catcher who only knows how to run down the field and get into the endzone, you also need him to learn Block or Dodge or (if you roll doubles) Mighty Blow.  ....that all made sense to like Eric and 3 of our readers.  Anyways, shoot your opponent with your ship and THEN leave, don't just sail off into the endzone because while preserving points is cool, killing your opponent and preserving those points is cooler.  (You're also then trying to fight a 400 point list of your opponents with a MAXIMUM 363 point one of your own, not a great plan).
+
+If you have a charger in your list and a viable open slot, I don't see a reason NOT to take it.  There isn't a lot that the GAR does differently than anyone else, and this is one of those things.  And if you combine it with some mean point scoring objectives you can do some fun things with it.
+
+Adi Gallia is an interesting choice for an officer to be sure.  For each defense token you spend DURING THE DEFENSE TOKENS STEP (Waves in NOT-Thermal Shields), you can suffer a damage on an adjacent hull zone to the one being attacked.  Which means that you can spend a redirect and potentially move damage to 2 different hull zones at once, in a fashion (however many you want from the redirect, however many total defense tokens you spent for her ability). The real fun thing is when you can combine her with someone like Obi-Wan (who still gets to redirect and reduce the damage by 1) or Luminara (to refresh another defense token).  What's ALSO interesting is that she isn't an "exhaust to do a thing" card.  She just... DOES.  So long as you have shields and defense tokens to spend, well, you're gold then.
+
+I like her on your flagship, acting as a soft, unpreventable redirect.  Everything they lock down is another damage you're not suffering, every token they let you spend is a damage mitigated.  She goes great with Obi-Wan, Luminara, and emergency redirects for a lot of the other GAR commanders.  For fun, her on an Acclamator means that if I spend a brace and salvo from a front arc shot, I can then put 2 into a side arc.... just how much I'd redirect if I was able to use that token.  If they've locked the brace, well then that turns into 2 redirected normally, and my redirect/salvo spend combination puts 2 into the OTHER side arc.  She's a weird second redirect that you need to use a few times to get the benefit out of, but the benefit is there.
+
+Clone Captain Silver has a LOT of uses.  The easiest to see is the interaction on your Mercy Mission Consular.  But you can also put him on a large base and pull the handbrake to go from 3 to 1 to 3 on 2 turns.  However, no spending navigate dials (looking at YOU, Bail Organa!) or tokens.  He lets you go from 1 to 4 or 0 to 3, no 0 to 4.  But 1 to 4 or 4 to 1 can do some CRAZY good things, especially since he lets your ship do another command, like engineering or squadrons or concentrate fire.  He's not crazy flashy, but he'll get you out of trouble when you need to, and he'll get Jake and Elwood into the county assessor's office when you're on a mission from God your charger into the endzone to score Mercy Mission.  Invest 4 points for the chance to net 40? Yes PLEASE! Great combination in my mind, for sure.

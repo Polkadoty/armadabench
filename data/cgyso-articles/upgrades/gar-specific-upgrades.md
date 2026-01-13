@@ -1,0 +1,91 @@
+# GAR Specific Upgrades
+
+**Source:** https://cannotgetyourshipout.blogspot.com/2020/12/gar-specific-upgrades.html
+**Date:** 2021-06-18T09:50:00-05:00
+**Category:** upgrades
+**Tags:** 
+
+---
+
+With the advent of the new factions, we've decided to break apart our faction-specific upgrades into their own posts.  No sense having Rebel boarding teams clogging up the boarding teams article, especially for Eric to write about how he thinks of Cham, right? Enjoy the GAR specific (non-officer) upgrades below.
+
+Clone Gunners is one that I enjoy and Eric doesn't.  This can only go on ships that have the Clone keyword, so not on the Consular Armed Cruiser.  If you resolve a concentrate fire with the ship this upgrade is equipped to, besides getting the command for concentrate fire (be it dial or token), you get to add in a blue die set to the accuracy if you spend a friend's concentrate fire token as well.  This combines well with Clone Navigation Officer in order to get the con fire on your ship and pass out a token to a friend at the same time.
+
+The issue with the card (Eric's especially) is that it doesn't fix your other dice.  You don't get Leading Shots on your Acclamator, so any blanks you roll need to be fixed in another way, either with that initial con fire adding a dice/rerolling a blank and/or using LTT to reroll a red and/or Intensify Firepower! somewhere.  That's a lot of potential fixes that.... aren't in this card.  Add in the fact that the Acclamators and Venators have giant front arcs that would appreciate Gunnery Team..... I can understand not liking this card.  I PERSONALLY enjoy it, but I again understand people who wouldn't.
+
+IF you can accept your dice as you roll them/have other means of fixing them, I like the free accuracy it adds in.  Not needing to take H9s is helpful, and there's definitely turns where you want an accuracy to lock a token for sure.  Just make sure you have the con fire tokens/dials around to use this.
+
+This basically should go on an Acclamator or Venator, and I'd almost suggest an Acclamator-2 or or Venator-II if anything.  This takes up your weapons team slot, which means no Ordnance Experts for you.  Don't put this on a ship that's reliant on black dice criticals.
+
+Scout is "While deploying fleets, you can be placed
+outside of deployment zones and do not need to be
+at distance 1–2 of a friendly ship, but when placed
+you must be beyond distance 1–5 of enemy ships
+or squadrons."
+
+- If you have Expanded Hanger Bays and Hyperspace Rings equipped to the same Acclamator, you get +1 squadron with Scout.
+- You can deploy these squadrons as your first deployments if you want to, so long as you don't put them within 5 of an opposing ship.  This means with enough Rings you can deploy all your squadrons before your ships, like a mini Fighter Ambush.
+- Relatedly, Fighter Ambush and Rings both occur "before deploying fleets" which means you can certainly give the squadrons you're setting aside the ability to be deployed at NOT distance 1 of an obstacle.  If that's worth it to you....
+- These should be used to speed up your ARCs, usually, but they can also be used to alpha strike your opponents with Jedi on turn 1 as well.  Make sure it's WORTH doing that with a 17+ point squadron, of course.  Make sure that no matter where you place them, you'll be able to command them at some point (be it turn 1 or 2).
+They're good upgrades, and they allow for some crazy shenanigans.  You can deploy some squadrons right near a Station you're Assaulting or an Outpost being Contested or similar.  You're going to want to command your squadrons, of course, but if you can get your ships to them to back them up you can do some very amusing things with them for sure.  The default use is going to likely be starting your ARCs further upfield, letting your other squadrons come in and defend them/defend around them turn 1, and then you can push the ARCs as normal turn 2.
+
+Anything that has an offensive retrofit and a decent squadron value can see use in these, so that's basically Acclamators and Venators.  If you have a plan for it, I can see putting it on a Charger or Pelta.  Make sure it's worth those 3 points you're spending on it, however.
+
+Mercy Mission is the GAR exclusive fleet command, much like Jedi Hostage. Jedi Hostage really only belongs in like a fleet (TF1726) and a half (Dooku I guess?), while MM can fit in way more spots.  The downside of it is that realistically, you're also bringing a Charger and stapling this to it.  I wouldn't try it with a Pelta, but sure, staple Engine Techs to this bad idea train you've decided to run and hope your Pelta doesn't explode.  Mercy Mission sets up a secondary objective that your opponent has to deal with, and they need to keep an eye on your ship, as 40 points can swing games.  Of course, if they blow you up, it's 20 points... and the cost of your now dead ship. You're making a side bet that you're going to be able to get everything you want out of your ship, and watch out that you don't have to pay.
+
+You CAN (and likely should) staple this onto a larger ship with Flag Bridge, because they're both free.  The downside to this is that either you have your commander on a medium base without a defensive retrofit (Acclamator-I) or you ate your offensive retrofit slot on your Venator-II. (Please don't put this on a Venator-I, you have many better choices I promise)
+
+The real subtlety to this card is that you want your ship to contribute to the fight, but you also want it to be able to leave when pressed so David Tyree can catch the ball and ruin the Patriot's perfect season (I'm aware that wasn't a touchdown pass, but counterpoint: screw Tom Brady).  Think of it like Blood Bowl.  You can't JUST bring a catcher who only knows how to run down the field and get into the endzone, you also need him to learn Block or Dodge or (if you roll doubles) Mighty Blow.  ....that all made sense to like Eric and 3 of our readers.  Anyways, shoot your opponent with your ship and THEN leave, don't just sail off into the endzone because while preserving points is cool, killing your opponent and preserving those points is cooler.  (You're also then trying to fight a 400 point list of your opponents with a MAXIMUM 363 point one of your own, not a great plan).
+
+If you have a Charger in your list and a viable open slot, I don't see a reason NOT to take it.  There isn't a lot that the GAR does differently than anyone else, and this is one of those things.  And if you combine it with some mean point scoring objectives you can do some fun things with it.
+
+SPHA-T (short for Spicy Pepperoni and Hawaiian Asparagus-Tacos, or whatever) is... a lot.  Let's start by breaking down the particulars. First set of bullet points!
+
+- This can only go on Star Destroyers in the GAR.  So for now that's Venators and Victories, but if they ever get a Gladiator type, go for it (and is why this is in here, in case that day ever comes)
+- Squadron value is decreased by 2.  Ven-I and Victory become squad 1 ships, Ven-II becomes a "normal" squad 3.  Is that worth the trade-off? Up to you.
+Now, what that all means and the rules for using this.  Second bullet points!
+
+- When you end your activation (at the very end), you can exhaust this card.  You may choose one of your 3 hull zones and place an ignition token in it within close range (the token must be completely within!) and within one arc.  No straddling your side and front and firing out of your choice, its one arc that you pick at the end of your activation.  One arc!
+- At the end of that round, you can spend a concentrate fire token to untap the card. Which means things like Ion Cannon Batteries or whatever token shenanigans you run into can sabotage this.
+- Assuming you did place one, at the start of your next activation's attack step, your first attack MUST be that arc/token if you have a ship in that arc. Once the attack is over, remove the token (or remove the token at the end of your attack step if you don't make an attack).
+- When making an Ignition attack, measure line of sight and range from the ship (to determine the effects of their defense tokens).  You measure what dice you roll from the range of the Ignition token to their ship (cardboard to cardboard!)  So you CAN end up rolling 5 blue dice when you're normally only in red range.
+- Evade tokens and any other range-based effects are determined on the range from the ship to the target.  All attacks made outside long range (you can JUSSSSSST barely get there) are extreme range, and evade tokens at extreme range cancel two dice.
+Check out the paper that came with your ship for some good examples and better breakdowns.  As for thoughts on this upgrade? No more bullet points!
+
+It's a good use of the points; Get a concentrate fire token and you'll get two shots out of it, which is.... most of what you need.  For 7 points and a con-fire token, 2 shots of 5-6 dice is a solid use of the upgrade.  I'd PERSONALLY put it in my side arc every time and then shoot from the front for 6 and side for 6 as well.  It makes the slightly "meh" side arcs of the ship you have it on into one you need to respect for what it can do.  And 5 blue dice and 1 black are relatively reliable, damage wise.  You may hit the odd "I rolled 5 accuracies and a blank" and, I'm sorry.  But uhhh, statistically.... you should be good! Blow up a ship with a solid double arc!  Trust your dice and you'll have some tasty tacos too!
+
+I wouldn't make an entire strategy out of SPHA-Ting every turn.  It's good, but the cost is prohibitive towards doing that, even with Tarkin.  If you want to Ignition every turn, may I point out the Onager?  It does it much better.  But 2-3 turns of it applied into your opponent and you can do some MEAN things.  SPHA-T is here to improve your damage output.  Which means on turn 2, instead of throwing 3 red out the front of your Victory, may I suggest throwing SPHA-Ts instead?
+
+Lastly, if you want to argue that "this is how Ignition should always work and I hate the Onager", it's I.agree.with.you@cannotgetyourshipmail.com.  Or try Asmodee customer service, I'm sure they'll respond.
+
+Our first dual faction-locked card, Swivel-Mount Batteries (AKA Swivels) are.... intriguing.  You can exhaust the card to pull in a die from an adjacent arc at the cost of losing a die if that arc was to fire at a ship.  If I fire out of my front arc, I remove a die from either of my side arcs.  This die addition can be of any color from the side arc; the gather dice step is the only time you check range.  What this means for the Clones is that I can grab a black die from the side of my Acclamator and throw it at red range for a chance to trigger black dice crits.  Swivels do NOT untap at the end of your turn unless you spend the concentrate fire token.  This may matter to you, or you may be fine throwing another black dice out the face.  If you're going to want to use this, make sure you're taking a reason to be throwing dice at a longer range than normal (AKA a crit effect).  You'll also likely want to be concentrating fire to maximize the amount of black dice you'll be throwing at range.  And if you give a mouse a cookie.... I've heard of some good success with the build, but you need to know when to STOP swivel con-firing and when to get a move on to firing like normal.
+
+Put it on an Acclamator or Venator-I with access to a critical effect and Ordnance Experts for rerolls; don't put it on a Charger as rerolling and double arcing is much easier and better with them.
+
+And I've just taken Eric's work for Thermals (below, his writing in red).
+
+Thermal Shields (often shortened to "Thermals") is a rules disaster masquerading as a little piece of cardboard for a plastic spaceships game. Here comes way too many rules bullet points discussing the finer points of this thing:
+
+- The timing window is very narrow - right after the attacker gathers dice but before rolling them.
+- It's very important that the attacker only gathers their initial attack dice and does not yet use any add effects, which should happen later in the Resolve Attack Effects step. They shouldn't be doing this yet anyways but on occasion players forget or they simplify the dice pool by just adding everything possible in because they were going to do it regardless (like with a con fire dial and only one color of dice and their only attack of that activation, for example).
+- By using Thermals, the defender chooses and removes half of those dice (whichever colors you like) before the remaining dice are then rolled in.
+- This is a very unusual timing window and so it's really easy for the either player to accidentally forget about it and only realize after the fact that the defender could've used Thermals.
+- In these circumstances, I'd generally allow the defender to use Thermals but the entire attack has to be re-done from the start.
+- Normally I'm on team "it's not your opponent's job to remind you to use your stuff." The problem here is Thermals has a super weird narrow timing window that interrupts the attacker's attack flow and it's entirely possible for the attacker to absent-mindedly (or deliberately, if they're a jerk) rush through the timing window and just throw dice, at which point it's too late to use Thermals. Be kind, (and let your opponent) rewind.
+- I'm expecting at least one person to wear an "ASK ME ABOUT MY THERMALS" shirt to an Armada tournament at some point to hopefully preempt this. And to joke about this terrible timing window.
+- Because the brace token is spent prior to the Spend Defense Tokens step, Thermals produces many questions about defense token spending that you need to dig into the rules reference guide to answer:
+- The defender can only spend each type of defense token once per attack. So by spending the brace to use Thermals, the defender cannot brace again for its normal effect during the Spend Defense Tokens step.
+- Each individual defense token can only be spent once per attack, period. So if the defender spends a brace to use Thermals, the attacker can't spend that specific brace token again during that attack using an effect like Sloane.
+- For example, if a TIE Phantom is attacking a ship and the defender uses Thermal Shields to remove one of the two red dice and the remaining red die turns up accuracy, Sloane can't spend the brace token that was used to trigger Thermals. It has already been spent during that attack. She can spend a different defense token, though.
+- Intel Officer doesn't do anything if it targets the brace spent for Thermals. John goes into it in more detail here but the short version is almost nothing in Armada looks into the past for their effect, either doing something immediately or doing something on a future trigger within a specified (usually short-term) window. By the time Intel Officer is used the brace has already been spent and is not going to be spent again during that attack and Intel Officer only looks ahead, not behind.
+- Alluded to earlier, but: Thermals only removes half the dice (rounded down) during the initial attack. It has no effect at all on dice added afterwards. Just making that abundantly clear.
+Are we safe? Are the bullet points finally behind us? Good. So let's talk about actually using these things. Thermal Shields is a circumstantially great upgrade that draws immediate comparison to Electronic Countermeasures. For 2 points less, no need to exhaust, and no need to ready by pitching a repair token, Thermal Shields looks pretty good in the comparison. And it can be! Both allow you to use your brace token (let's be honest, that's the usual recipient of ECMs) despite your opponent's wishes. But Thermal shields offers a few tricks unavailable to Electronic Countermeasures, such as:
+
+- Removing dice colors needed to trigger special critical effects, like Assault Concussion Missiles.
+- Removing dice colors needed for other effects (such as removing blue dice so the attacker can't use Leading Shots).
+- Using your brace token prior to Intel Officer getting a chance to call a shot on it.
+Those can all be pretty handy things to do, no doubt. Generally you should be looking for opportunities to snipe dice colors your opponent is relying on for various effects or, failing that, higher-damage dice colors like black dice (especially if the attacker has access to reroll effects to make them behave). Given Onagers typically throw a lot of dice up front and are not-uncommonly using Intel Officer, Thermal Shields is particularly handy against them.
+
+It's not all upsides, though. Dice add effects in particular largely sidestep Thermal Shields. A Giga Drill style Ackbar Assault Frigate with Slaved Turrets, con fire dial, and Ackbar will lose one red die (out of three) to Thermal Shields and then add four red dice after that for an end total of six red dice. You would've been much better off using ECMs to halve that damage after the fact or even not using Thermals and hoping your opponent doesn't roll an accuracy. In general, the more dice-adding and dice-fixing (with effects like Intensify Firepower and Turbolaser Reroute Circuits and the like) your opponent has, the better Electronic Countermeasures compares to Thermal Shields. There are also some matchups where Thermals won't really do you a lot of good but it's hard to say the same for ECMs - even if your brace isn't getting a ton of high-value use, you can still use ECMs on your other defense tokens when the situation calls for it whereas Thermal Shields only cares about your brace token.
+
+It's a complex comparison and the choice between the two for I-really-need-this-brace-to-do-something defensive retrofits is also going to depend on your meta and other elements of your fleet. Thermal Shields can be used multiple times in a round (usually burning out your brace, but still) and is less resource-intensive to use than Electronic Countermeasures. Electronic Countermeasures is much more flexible and doesn't suffer nearly so badly against dice-adding and dice-fixing upgrades as Thermal Shields does. Electronic Countermeasures is, for my money, still the deluxe "juice my brace token" defensive retrofit but Thermal Shields offers a cheaper alternative that can shine in the right situations.
