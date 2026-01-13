@@ -218,6 +218,7 @@ export function useStarForgeConnection(): UseStarForgeConnection {
 
       // Handle fleet state updates
       if (message.type === 'FLEET_STATE') {
+        console.log('[Companion] Received FLEET_STATE:', message.payload?.faction);
         setFleetState(message.payload);
         const pending = pendingRequestsRef.current.get(message.requestId);
         if (pending) {
@@ -228,6 +229,7 @@ export function useStarForgeConnection(): UseStarForgeConnection {
       }
 
       if (message.type === 'FLEET_CHANGED') {
+        console.log('[Companion] Received FLEET_CHANGED');
         setFleetState(message.payload);
       }
 
@@ -250,14 +252,22 @@ export function useStarForgeConnection(): UseStarForgeConnection {
       }
     };
 
+    // Announce ourselves via BroadcastChannel after setting up listener
+    // Small delay to ensure Star Forge's listener is ready
+    const announceTimeout = setTimeout(() => {
+      console.log('[Companion] Announcing via BroadcastChannel');
+      channel.postMessage({ type: 'COMPANION_READY', id: generateMessageId() });
+    }, 100);
+
     return () => {
+      clearTimeout(announceTimeout);
       broadcastChannelRef.current = null;
       channel.close();
     };
   }, []);
 
   // ============================================================================
-  // Announce Companion Ready on Mount
+  // Announce Companion Ready via postMessage (for popup scenarios)
   // ============================================================================
 
   useEffect(() => {
@@ -272,10 +282,6 @@ export function useStarForgeConnection(): UseStarForgeConnection {
         }
       });
     }
-
-    // Also announce via BroadcastChannel for cross-tab testing
-    const channel = new BroadcastChannel('star-forge-companion');
-    channel.postMessage({ type: 'COMPANION_READY', id: generateMessageId() });
   }, []);
 
   // ============================================================================
