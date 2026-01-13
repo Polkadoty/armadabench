@@ -212,6 +212,11 @@ When searching for upgrades, use these types:
 - offensive-retrofit, defensive-retrofit
 - title, experimental-retrofit, super-weapon
 
+**IMPORTANT**: Most weapon upgrades (turbolasers, ion-cannons, ordnance) are NEUTRAL - they work for any faction!
+- To find them, search WITHOUT faction filter: \`search_cards(query="turbolaser", limit=20)\`
+- Faction-specific upgrades (commanders, some officers, titles) DO need the faction filter
+- When in doubt, try searching without faction first to find neutral upgrades
+
 ## Key Rules
 1. ALWAYS call get_fleet_state first to understand what's in the fleet
 2. **ALWAYS add upgrades to your ships** - bare ships are inefficient! Fill available slots with upgrades
