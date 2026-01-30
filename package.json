@@ -7,7 +7,19 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:python && npm run test:companion && npm run test:benchmark-site",
+    "test:python": "cd mcp-server && pip install -e '.[dev]' && pytest tests/ -v",
+    "test:companion": "cd companion && npm run test:run",
+    "test:benchmark-site": "cd benchmark-site && npm run test:run",
+    "test:java": "cd vassal-integration && mvn test && cd ../vassal-extension && mvn test",
+    "lint": "npm run lint:python && npm run lint:companion && npm run lint:benchmark-site",
+    "lint:python": "cd mcp-server && ruff check src/ tests/",
+    "lint:companion": "cd companion && npm run lint",
+    "lint:benchmark-site": "cd benchmark-site && npm run lint",
+    "typecheck": "npm run typecheck:python && npm run typecheck:companion && npm run typecheck:benchmark-site",
+    "typecheck:python": "cd mcp-server && mypy src/",
+    "typecheck:companion": "cd companion && npx tsc --noEmit",
+    "typecheck:benchmark-site": "cd benchmark-site && npx tsc --noEmit"
   },
   "repository": {
     "type": "git",
